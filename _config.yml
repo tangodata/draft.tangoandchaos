@@ -1,6 +1,14 @@
 title: Tango And Chaos
 description: About Argentine Tango
-permalink: pretty
+
+#permalink: pretty
+#permalink: /:chapter/:slug
+permalink: none
+collections:
+  en_book:
+    permalink: /:path/:name
+    output: true
+
 
 remote_theme: pmarsceill/just-the-docs
 color_scheme: nil
