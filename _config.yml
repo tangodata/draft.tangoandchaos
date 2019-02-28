@@ -20,7 +20,7 @@ aux_links:
     - "//github.com/pmarsceill/just-the-docs"
 
 # Color scheme currently only supports "dark" or nil (default)
-#remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 
 # Google Analytics Tracking (optional)
