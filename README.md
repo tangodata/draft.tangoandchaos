@@ -1,5 +1,9 @@
-# raw.tangoandchaos
+# draft.tangoandchaos
 
-Mirror of the Tangoandchaos.org site, circa 2017
+Tangoandchaos.org site deconstructed
 
-This repo is for archival only
+- text parts moved to Markdown files
+- video and music parts serve from CDN
+- layout moved to Jekyll static site generator
+- hosting moved to Github Page (free hosting)
+
