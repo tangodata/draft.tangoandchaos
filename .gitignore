@@ -4,9 +4,8 @@
 src/.temp
 node_modules
 dist
-_site
 .cache
 Gemfile
 rakefile
-
+_site
 

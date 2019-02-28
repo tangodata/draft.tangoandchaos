@@ -5,7 +5,7 @@ description: About Argentine Tango
 #permalink: /:chapter/:slug
 permalink: none
 collections:
-  en_book:
+  english:
     permalink: /:collection/:name
     output: true
 
