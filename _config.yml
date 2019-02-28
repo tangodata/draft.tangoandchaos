@@ -6,7 +6,7 @@ description: About Argentine Tango
 permalink: none
 collections:
   en_book:
-    permalink: /:path/:name
+    permalink: /:collection/:name
     output: true
 
 
