@@ -34,3 +34,5 @@ host: 0.0.0.0
 source: source
 #destination: docs
 
+
+theme: jekyll-theme-minimal
