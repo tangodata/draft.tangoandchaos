@@ -1,0 +1,324 @@
+- title: Chaos and Revolution
+  subtitle: Stories from 2001-2003
+  prefix: 1
+  items:
+    - title: Tango And Chaos
+      link: /01/01_index
+    - title: I Take a Walk
+      link: /01/02_awalk
+    - title: Sunderland
+      link: /01/03_sunderland
+    - title: I Get a Haircut
+      link: /01/04_haircut
+    - title: There is Big Trouble Down Here
+      link: /01/05_trouble
+    - title: So You Think You Want a Revolution
+      link: /01/06_bigtrouble
+    - title: Last Tango in Buenos Aires
+      link: /01/07_lasttango
+    - title: The War of the Transvestites
+      link: /01/08_sinrumbo
+    - title: A Trip to the Other Side
+      link: /01/09_across
+    - title: Interview With a Dancer
+      link: /01/10_interview
+    - title: Soul of the Tango
+      link: /01/11_soul
+    - title: Uruguay
+      link: /01/12_uruguay
+    - title: Celia and Natu
+      link: /01/13_celia
+    - title: La Noche de las Milongueras
+      link: /01/14_noche
+    - title: Tete
+      link: /01/15_tete
+    - title: What the Argentines won't Say
+      link: /01/16_polite
+    - title: Spanked in the Andes
+      link: /01/17_spanked
+
+
+- title : Secrets of the Milongueros
+  subtitle: An introduction to Argentine Tango
+  prefix: 2
+  items:
+    - title: Secrets
+      link: /02/01_secrets
+    - title: The Elements of Style
+      link: /02/02_elements
+    - title: Walking a Tightrope
+      link: /02/03_walking
+    - title: Miguel Zotto
+      link: /02/04_zotto
+    - title: The Art of Pausing
+      link: /02/05_pausing
+    - title: Efficiency
+      link: /02/06_efficiency
+    - title: Natural Tango
+      link: /02/07_natural
+    - title: Strong Step
+      link: /02/08_strongstep
+    - title: Secrets Revealed
+      link: /02/09_secrets
+    - title: The Owners of the Music
+      link: /02/10_owners
+    - title: A Taken House
+      link: /02/11_casatomada
+    - title: Form Follows Function
+      link: /02/12_form
+    - title: Grounded
+      link: /02/13_grounded
+    - title: Quick Feet
+      link: /02/14_quickfeet
+    - title: Turning and Tipping
+      link: /02/15_turntip
+    - title: Tight Spaces
+      link: /02/16_tightspace
+    - title: Essential Tango
+      link: /02/17_essential
+
+
+- title : Searching for the Modern Style
+  subtitle: A brief history, and some women's technique
+  prefix: 3
+  items:
+    - title: Searching
+      link: /03/01_search
+    - title: El Malevo
+      link: /03/02_elmalevo
+    - title: Petroleo 1
+      link: /03/03_petroleo
+    - title: Petroleo 2
+      link: /03/04_petroleo
+    - title: Todaro
+      link: /03/05_todaro
+    - title: The Cabeceo
+      link: /03/06_cabeceo
+    - title: Fino 1
+      link: /03/07_fino
+    - title: Fino 2
+      link: /03/08_fino
+    - title: The Ascent of Tango 1
+      link: /03/09_ascent
+    - title: The Ascent of Tango 2
+      link: /03/10_ascent
+    - title: Petroleo Revisited
+      link: /03/11_petroleofinal
+    - title: Facundo's Uncle
+      link: /03/12_facundo
+    - title: Finito A Final Look
+      link: /03/13_finofinal
+    - title: Tango Techique for Women 1
+      link: /03/14_women
+    - title: Tango Techique for Women 2
+      link: /03/15_women
+    - title: Tango Techique for Women 3
+      link: /03/16_women
+    - title: Tango Techique for Women 4
+      link: /03/17_women
+    - title: Cats and Horses
+      link: /03/18_catshorses
+    - title: Art of Tango
+      link: /03/19_entrega
+    - title: Beginnings and Endings
+      link: /03/20_cumparsita
+
+
+- title : Cracking the Code
+  subtitle: If you can't hear it, you can't dance it
+  prefix: 4
+  items:
+    - title: Music
+      link: /04/01_music
+    - title: Alphabetical List
+      link: /04/00_alphalist
+
+
+    - title: Gloria
+      link: /04/02_gloria
+    - title: Una Emocion
+      link: /04/03_emocion
+    - title: El Encopao
+      link: /04/04_encopao
+    - title: Farol
+      link: /04/05_farol
+    - title: El Cencerro
+      link: /04/06_cows
+    - title: De Caro's Revolution
+      link: /04/07_revolution
+    - title: The Limits of the Music
+      link: /04/08_limits
+    - title: Como se Pianta la Vida
+      link: /04/09_comopianta
+    - title: Adios Arrabal
+      link: /04/10_adiosarrabal
+    - title: Trasnochando
+      link: /04/11_trasnochando
+    - title: Suerte Loca
+      link: /04/12_suerteloca
+    - title: Manoblanca
+      link: /04/13_manoblanca
+    - title: Tres Esquinas
+      link: /04/14_tresesquinas
+    - title: Volver
+      link: /04/15_volver
+    - title: Tango Nuevo & Lawrence Welk
+      link: /04/16_generationgap
+    - title: Balada Para un Loco
+      link: /04/17_crazy
+    - title: Tango Waits
+      link: /04/18_tangowaits
+    - title: Idilio Trunco
+      link: /04/19_idiliotrunco
+    - title: Pensalo Bien
+      link: /04/20_pensalo
+    - title: Amarras
+      link: /04/21_amarras
+    - title: Corrientes Street Blues
+      link: /04/22_tristezas
+    - title: Paisaje
+      link: /04/23_paisaje
+    - title: El Bulín de la Calle Ayacucho
+      link: /04/24_bulin
+
+
+- title : Video of the Best
+  subtitle: If you can't see it, you can't dance it
+  prefix: 5
+  items:
+    - title: Video
+      link: /05/01_video
+    - title: "Video 1: Ismael"
+      link: /05/17_ismael
+    - title: "Video 2: Blas"
+      link: /05/18_blas
+    - title: "Video 3: Mystery Couple"
+      link: /05/19_papel
+    - title: "Video 4: Hector & Maria Eugenia"
+      link: /05/20_hector
+    - title: "Video 5: Carlos & Nelida"
+      link: /05/21_carlnel
+    - title: "Video 6: Gerard & Alej"
+      link: /05/22_gerard
+    - title: "Video 7: Gerard, Tito, & Ariel"
+      link: /05/23_giros
+    - title: "Video 8: El Chino"
+      link: /05/24_chino
+    - title: "Video 9: Miguelito"
+      link: /05/25_miguel
+    - title: "Video 10: Pocho"
+      link: /05/26_pocho
+    - title: "Video 10: Pocho"
+      link: /05/27_pocho
+    - title: "Video 11: Alito"
+      link: /05/28_alito
+    - title: "Video 12: Ricardo"
+      link: /05/30_ricardo
+    - title: "Video 12: Ricardo"
+      link: /05/31_ricardo
+    - title: "Video 12: Ricardo"
+      link: /05/32_ricardo
+    - title: "Video 12: Ricardo"
+      link: /05/33_ricardo
+    - title: "Video 13: Tete"
+      link: /05/34_tete
+    - title: "Video 13: Tete"
+      link: /05/35_tete
+    - title: "Video 14: Ernesto"
+      link: /05/36_ernesto
+    - title: "Video 15: Teta"
+      link: /05/37_teta
+
+
+- title: Back to School
+  subtitle: A practical guide to Social tango
+  prefix: 6
+  caption: The Nuts & Bolts of Tango
+  items:
+    - title: School
+      link: /06/01_school
+    - title: The Man's Left Hand
+      link: /06/02_schoolmilongueros
+    - title: The Woman's Arm
+      link: /06/03_womansarm
+    - title: Meet the Embrace
+      link: /06/04_boundaries
+    - title: Posture & String Theory
+      link: /06/05_posture
+    - title: Chest & Hips
+      link: /06/06_chest
+    - title: Finding Zero
+      link: /06/07_zero
+    - title: Tango Points
+      link: /06/08_dancepoints
+    - title: The Step Before the Step
+      link: /06/09_twist
+    - title: "Walking: The Big Casino"
+      link: /06/10_walking1
+    - title: Walking Green
+      link: /06/11_walking2
+    - title: Physics & Harmony
+      link: /06/12_walking3
+    - title: A Brief Pause
+      link: /06/13_walking4
+    - title: Secrets of the Step
+      link: /06/14_walking5
+    - title: Heel or Toe?
+      link: /06/15_heel
+    - title: Understanding Cadence
+      link: /06/16_tangocadence1
+    - title: Vals Under a Microscope
+      link: /06/17_valscadence
+    - title: Decorating Tango
+      link: /06/18_decorations
+    - title: A Tango Roadmap
+      link: /06/19_roadmap
+    - title: Counting the Compás
+      link: /06/20_countcompas
+    - title: The Point is the Point
+      link: /06/21_pointispoint
+    - title: Waltz in a Crowd
+      link: /06/22_curvedruns
+    - title: Savoring the Music
+      link: /06/23_savormusic
+    - title: Front, Back, & Around
+      link: /06/24_chinomoves
+    - title: Walking Revisited
+      link: /06/25_walkingrevisited
+    - title: The Ministry of Silly Walks
+      link: /06/26_walkingbad
+    - title: Bouncing
+      link: /06/27_barneybounce
+    - title: Dirty Dancing
+      link: /06/28_dirtydancing
+    - title: These Amps Go to Eleven!
+      link: /06/29_steplarge
+    - title: Outside the Lines 1
+      link: /06/30_outsidelines
+    - title: Outside the Lines 2
+      link: /06/31_outsidelines2
+    - title: Mixed Up
+      link: /06/32_mixedup
+    - title: The Embrace & Head Position
+      link: /06/33_embrace
+    - title: Basic Navigation
+      link: /06/34_basicnav
+    - title: Navigation 2
+      link: /06/35_nav2
+    - title: Kung Fu Tanda
+      link: /06/36_nav3
+    - title: Making It Work
+      link: /06/37_navfirulete
+    - title: The Bratboy Effect
+      link: /06/38_bratboyeffect
+
+- title: Postscript
+  subtitle:
+  prefix:
+  items:
+    - title: Comments and Updates
+      link: /blog
+    - title: Compliments
+      link: /blog
+    - title: About This Book
+      link: /about

@@ -1,0 +1,36 @@
+title: Tango And Chaos
+description: About Argentine Tango
+permalink: pretty
+exclude: [
+  "Rakefile", "Gemfile", "Gemfile.lock",
+  "*.gemspec", "*.gem",
+  "node_modules/",
+  "package.json", "package-lock.json",
+  "script/", "lib/", "bin/",
+  "LICENSE.txt", "README.md",
+  "core"
+]
+
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
+
+# Color scheme currently only supports "dark" or nil (default)
+#remote_theme: pmarsceill/just-the-docs
+color_scheme: dark
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+#ga_tracking: UA-2709176-10
+
+baseurl: "/draft.tangoandchaos/" # the subpath of your site, e.g. /blog
+url: "https://tangodata.github.io"
+port: 8080
+host: 0.0.0.0
+source: source
+#destination: docs
+
