@@ -4,9 +4,10 @@ description: About Argentine Tango
 #permalink: pretty
 #permalink: /:chapter/:slug
 permalink: none
+
 collections:
-  english:
-    permalink: /:collection/:name
+  en:
+    permalink: /:name
     output: true
 
 
