@@ -10,7 +10,8 @@ author:
 
 #============= THEME ======================
 #theme: jekyll-theme-modernist
-remote_theme: pmarsceill/just-the-docs
+#remote_theme: pmarsceill/just-the-docs
+remote_theme: pawamoy/jekyll-readthedocs
 permalink: pretty
 color_scheme: nil
 aux_links:
