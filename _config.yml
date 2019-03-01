@@ -33,10 +33,12 @@ exclude: [
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Frozen Site":
+    - "https://github.com/tangodata/raw.tangoandchaos"
+  "Development Site":
+    - "https://github.com/tangodata/draft.tangoandchaos"
 
-    # Enable or disable the site search
+# Enable or disable the site search
 search_enabled: true
 
 ########################
