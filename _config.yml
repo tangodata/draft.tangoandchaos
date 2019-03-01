@@ -8,7 +8,7 @@ author:
   markdown: "Kace Ong"
 
 #============= THEME ======================
-theme: minima
+theme: jekyll-theme-modernist
 #remote_theme: pmarsceill/just-the-docs
 permalink: pretty
 color_scheme: nil
