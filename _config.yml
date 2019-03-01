@@ -1,22 +1,48 @@
 title: Tango And Chaos
 description: About Argentine Tango
+keywords: "tango, argentina, dance, culture"
+url: "https://tangodata.github.io"
+baseurl: "/draft.tangoandchaos/"
+author:
+  source: "Rick McGarrey"
+  markdown: "Kace Ong"
 
-#permalink: pretty
-#permalink: /:chapter/:slug
-permalink: none
+#============= THEME ======================
+theme: minima
+#remote_theme: pmarsceill/just-the-docs
+permalink: pretty
+color_scheme: nil
+aux_links:
+  "Frozen Site":
+    - "https://github.com/tangodata/raw.tangoandchaos"
+  "Development Site":
+    - "https://github.com/tangodata/draft.tangoandchaos"
+#ga_tracking: UA-2709176-10
+#google_analytics:
+# Enable or disable the site search
+#search_enabled: true
 
+
+
+#============= STRUCTURE ===================
 collections:
   en:
     permalink: /:name
     output: true
 
+junk:
+  markdown: kramdown
+  highlighter: pygments
+  plugins: [jekyll-paginate-v2]
 
-remote_theme: pmarsceill/just-the-docs
-color_scheme: nil
 
-baseurl: "/draft.tangoandchaos/"
-url: "https://tangodata.github.io"
 
+#============ DEVELOPMENT ==================
+## For Development Only
+host: 192.168.3.10
+port: 8080
+#source: source
+#destination: docs
 exclude: [
   "Rakefile", "Gemfile", "Gemfile.lock",
   "*.gemspec", "*.gem",
@@ -27,25 +53,5 @@ exclude: [
   "core"
 ]
 
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-#ga_tracking: UA-2709176-10
-
-# Aux links for the upper right navigation
-aux_links:
-  "Frozen Site":
-    - "https://github.com/tangodata/raw.tangoandchaos"
-  "Development Site":
-    - "https://github.com/tangodata/draft.tangoandchaos"
-
-# Enable or disable the site search
-search_enabled: true
-
-########################
-## For Development Only
-port: 8080
-host: 192.168.3.10
-#source: source
-#destination: docs
 
 
