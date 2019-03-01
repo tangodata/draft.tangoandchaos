@@ -7,9 +7,10 @@ author:
   source: "Rick McGarrey"
   markdown: "Kace Ong"
 
+
 #============= THEME ======================
-theme: jekyll-theme-modernist
-#remote_theme: pmarsceill/just-the-docs
+#theme: jekyll-theme-modernist
+remote_theme: pmarsceill/just-the-docs
 permalink: pretty
 color_scheme: nil
 aux_links:
@@ -17,24 +18,32 @@ aux_links:
     - "https://github.com/tangodata/raw.tangoandchaos"
   "Development Site":
     - "https://github.com/tangodata/draft.tangoandchaos"
+  "Sitemap":
+    - "sitemap.xml"
+  "Feed":
+    - "feed.xml"
 #ga_tracking: UA-2709176-10
 #google_analytics:
 # Enable or disable the site search
 #search_enabled: true
 
 
+#============= EXTENSION  ===================
+#plugins: [jekyll-paginate-v2]
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jemoji
+  #- jekyll-seo-tag
+  #- jekyll-avatar
 
 #============= STRUCTURE ===================
 collections:
   en:
     permalink: /:name
     output: true
-
-junk:
-  markdown: kramdown
-  highlighter: pygments
-  plugins: [jekyll-paginate-v2]
-
 
 
 #============ DEVELOPMENT ==================
