@@ -1,14 +1,12 @@
 ---
+permalink: /01/
 title: Tango and chaos
 chapter: "01"
 slug: 01_index
 date: 2001-12-08
-
-#layout: default
 #nav_order:
-
-permalink: /01
 has_children: yes
+#layout: default
 ---
 
 # Focus on writing good documentation

@@ -1,12 +1,13 @@
 ---
-layout: default
-title: Home
-nav_order: 1
-description: "Tango And Chaos -- recoded into Jekyll"
 permalink: /
+title: Home
+description: "Tango And Chaos -- recoded into Jekyll"
+layout: default
+nav_order: 000
 ---
 
-# Welcome to Tango And chaos
+# Welcome to Tango And Chaos
+_A memoir_
 
 Table of Content
 

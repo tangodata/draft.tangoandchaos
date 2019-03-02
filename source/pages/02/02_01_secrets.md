@@ -1,9 +1,13 @@
 ---
+permalink: /02/
 title: Secrets of the milongueros
 chapter: '02'
 slug: 01_secrets
 nick: 1secrets_title
 date: 2005-02-18
+#nav_order:
+has_children: yes
+#layout: default
 ---
 
 ## What a Long Strange Trip It's Been
