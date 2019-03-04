@@ -1,10 +1,12 @@
 ---
 title: De Caro's tango revolution | 2007
+navtitle: De Caro's Revolution
 chapter: '04'
 slug: 07_revolution
+parent: 01_music
 date: 2006-01-01
 ---
-
+# De Caro's Revolution
 ## The Great Divide
 
 Because no one was filming tango in the barrios of Buenos Aires, it's almost impossible to really understand the way tango developed during the twentieth century -- but understanding the evolution of the music is easier. Many early recordings do exist, and the combination of written lyrics and old recordings is enough to provide a basic understanding of the directions the music was taking. So, with the caveat that you should look elsewhere for a more detailed discussion, I'd like to give a few quick examples to illustrate a basic division in the music that occurred 80 years ago. It’s a division that still exists today -- both in the play lists of the BsAs DJs, and also in the way people dance.

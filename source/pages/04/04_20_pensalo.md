@@ -1,11 +1,13 @@
 ---
 title: Pensalo Bien | 2009
+navtitle: Pensalo Bien
 chapter: '04'
 slug: 20_pensalo
+parent: 01_music
 date: 2006-01-01
 ---
 
-## _"Pensalo Bien"_
+# _"Pensalo Bien"_
 
 **"Think Carefully"**
 

@@ -1,7 +1,9 @@
 ---
-title: Step Large
+title: These Amps go to Eleven | 2008
+navtitle: These Amps go to Eleven!
 chapter: '06'
 slug: 29_steplarge
+parent: 01_school
 date: 2006-01-01
 ---
 

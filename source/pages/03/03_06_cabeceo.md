@@ -1,12 +1,14 @@
 ---
 title: The Cabeceo
+navtitle: The Cabeceo
 chapter: '03'
 slug: 06_cabeceo
+parent: 01_search
 nick: 6cabeceo
 date: 2006-01-01
 ---
 
-## The “_Cabeceo_”
+# The “_Cabeceo_”
 
 “_Cabeza_” means “head” in Spanish, and “_cabeceo_” is the _castellano_ word that refers to the nod of the head that is used to signal the offer and acceptance of dances at a milonga. The _cabeceo_ serves a couple of purposes. First, it minimizes public embarrassment ... because it’s a long walk back to the table for a man who has just come all the way across the room and been turned down for a dance. But more importantly, a crowded milonga simply couldn’t function without it. Hundreds of offers and acceptances must fly back and forth across the room each time a new tanda of music begins, and the _cabeceo_ is really the only practical way for everyone to quickly and efficiently find the right partner.
 

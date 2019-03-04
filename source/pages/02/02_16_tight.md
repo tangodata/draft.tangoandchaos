@@ -1,12 +1,14 @@
 ---
-title: Tango in a small space
+title: Tango in a small space | 2005
+navtitle: Tight Spaces
 chapter: '02'
 slug: 16_tight
+parent: 01_secrets
 nick: 16tight
 date: 2005-04-16
 ---
 
-## Tango in a Small Space
+# Tango in a Small Space
 
 Like it or not, stop-and-go tango is a reality in BsAs, and we have tried to show how the tools needed to survive these conditions have formed tango. But you still need to express the music. What do you do when the floor is packed, and the DJ decides to play a tanda of fast milongas?
 

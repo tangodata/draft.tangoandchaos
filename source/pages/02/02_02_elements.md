@@ -1,7 +1,9 @@
 ---
-title: The elements of tango style
+title: The elements of tango style | 2005
+navtitle: The Element of Style
 chapter: '02'
 slug: 02_elements
+parent: 01_secrets
 nick: 2basics
 date: 2005-04-02
 ---

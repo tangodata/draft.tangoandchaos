@@ -1,12 +1,14 @@
 ---
 title: Petroleo Revisited
+navtitle: Petroleo Revisited
 chapter: '03'
 slug: 11_petroleofinal
+parent: 01_search
 nick: 11petroleofinal
 date: 2006-01-01
 ---
 
-## _Petroleo_, Some Final Thoughts
+# _Petroleo_, Some Final Thoughts
 
 Because there is no moving picture evidence, the tango dancing of the neighborhoods at the beginning of the last century is a black hole. We simply have no idea the way the people of the barrios danced tango at the time. And the small amount of film available through the rest of the century makes it difficult draw conclusions about the direction of tango during that period as well. But in spite of the lack of film, the previous pages have been a chance to take a closer look at three of the greatest tango dancers of the 20th century. Of the three, Todaro is the most well known. He was an accomplished teacher, and his students are everywhere in tango today. _Petroleo_ and _Fino_ are more obscure. They were basically milongueros who did little or no teaching or performing, so I would like to take one more look at both of them before moving on.
 

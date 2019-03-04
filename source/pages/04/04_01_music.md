@@ -1,21 +1,23 @@
 ---
+permalink: /04/
+section: Chapter 4 | Cracking the Code
 title: Finding the Music | 2007
+navtitle: Cracking the Code
+subtitle: If you can't hear it, you can't dance it
 chapter: '04'
 slug: 01_music
 date: 2006-01-01
+has_children: true
 ---
-
-# Chapter 4 | Cracking the Code
 
 ![Leki y "El Gordo" at Glorias Argentinas](/image_files/1.jpg)
 
-
-
 ## Introduction
+{: .no_toc .text-delta }
 
 In this chapter we'll look more closely at the music. We'll translate some of the lyrics into English, discuss the structure of the music, and then in the next chapters, we'll try to tie it all together by showing how today's best dancers use the melodies and cadences created during tango's Golden Age. To aid our discussion, we'll provide some recordings -- but keep in mind that we're providing only enough of each tango to help non-Spanish speakers understand the lyrics, and to illustrate points about the history and the rhythms of the music. These are not high-quality recordings, and they aren’t complete versions.  If you want to listen to these tangos and dance to the full range of sound and emotion they convey, please purchase commercially available copies.
 
-## A Dancer's Guide to the Music
+# A Dancer's Guide to the Music
 
 I once asked a friend what it was about tango that grabbed him.  I thought he was an unlikely candidate for tango addiction because he’s an African-American from Philadelphia with an Ivy League degree, and a background drenched in jazz and big-city culture ... but he got hooked nonetheless.  He said, simply, “It’s because the music is so powerful.”
 

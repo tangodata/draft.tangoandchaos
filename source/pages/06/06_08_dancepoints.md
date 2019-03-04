@@ -1,11 +1,13 @@
 ---
-title: Dance Points
+title: The Dance Points of Tango | 2008
+navtitle: Tango Points
 chapter: '06'
 slug: 08_dancepoints
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Dance Points
+# Dance Points
 
 >"The mechanic that would perfect his work, must first sharpen his tools."
 >-- Confucius

@@ -1,9 +1,12 @@
 ---
 title: Hector y Maria tango video | 2007
+navtitle: "Video 4: Hector & Maria Eugenia"
 chapter: '05'
 slug: 20_hector
+parent: 01_video
 date: 2006-01-01
 ---
+# Hector & Maria
 
 ## The Next Step
 

@@ -1,12 +1,14 @@
 ---
-title: Last tango in Buenos Aires
+title: Last tango in Buenos Aires | 2001
+navtitle: Last Tango in Buenos Aires
 chapter: '01'
 slug: 07_lasttango
+parent: 01_index
 nick: 7last_tango
 date: 2001-12-21
 ---
 
-## Next to Last Post
+# Next to Last Post
 
 **Fri Dec 21, 2001 12.44pm:** I hadn't planned to write anything today, but after I took a walk I felt like it. I walked south, with no map and no plan, through typical BA neighborhoods. There were tree-lined streets with old buildings. I like the upstairs corner apartments. They are old with rounded corners, high ceilings and windows. I don't know if you call it colonial style. There are thousands and thousands of them all over the city, with high doors at the corner, and rounded balconies with flowers, looking out on the street. Many of them are at tree height, so the balconies seem to be among the leaves. I'd like to have one. I came to a large open space, several acres at least, which is unusual in BA. It seemed wild, and there was a large neighborhood vegetable garden where someone had made a strange looking Santa Claus (Papa Noel) out of red trash bags, and hung pretend presents on a bush. They were blowing in the southeast breeze that has come off the Atlantic and finally cooled down the city. There won't be much Christmas down here. Last night was the quietest I've seen. I sat outside on the corner beneath our apartment at a small _confiteria_. It was one in the morning, there was a cool light rain, and there were no cars at all on the usually busy _Independencia_. I suspect that all the gas stations were closed, and the city is dirty, because they haven't been picking up the trash because of the troubles.
 

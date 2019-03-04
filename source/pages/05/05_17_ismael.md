@@ -1,7 +1,9 @@
 ---
 title: Ismael tango video | 2007
+navtitle: "Video 1: Ismael"
 chapter: '05'
 slug: 17_ismael
+parent: 01_video
 date: 2006-01-01
 ---
 
@@ -48,7 +50,7 @@ This one says everything in a few short sentences: “Boy gets girl ... boy lose
 
 Notice how beautiful the words are in _Castellano_, and how they fit the music. This is a good one for trying to get beyond the English translation, and experiencing the meaning directly from the _Castellano_. Before continuing to the video, you might think about the music for a minute. Listen again, and think about how you would dance to it. Think about what it's telling you.
 
-## Ismael
+# Ismael El Jalil
 
 At the beginning of Chapter 4, I mentioned that it was hard to decide which tango to start with in our music discussion, because there were so many good ones choose from. Now, as we select our first video for the website, we’re facing a similar decision. We’ve been filming for more than five years, and we have almost 100 hours of videotape. For every dance we decide to film, we pass up thousands of others -- but we still have almost 2,000 dances to pick from, and they are all by the best milongueros and milongueras. It’s a difficult decision, especially since I’ve watched some of these video clips so many times that they’ve become like old friends… and most of the people dancing in them have literally become personal friends as well.
 

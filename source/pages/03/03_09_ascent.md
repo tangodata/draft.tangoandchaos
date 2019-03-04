@@ -1,12 +1,14 @@
 ---
 title: The Ascent of Tango 1
+navtitle: The Ascent of Tango
 chapter: '03'
 slug: 09_ascent
+parent: 01_search
 nick: 9ascent
 date: 2006-01-01
 ---
 
-## The Ascent of Tango
+# The Ascent of Tango
 
 ![](/3_pics/9ascent/image002.jpg)
 

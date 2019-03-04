@@ -1,11 +1,13 @@
 ---
-title: Alphabetical list of tango translations | Rick McGarrey 2008
+title: Alphabetical list of tango translations | 2008
+navtitle: Alphabetical Index of Tangos
 chapter: '04'
-slug: 00_alphalist
+slug: 99_alphalist
+parent: 01_music
 date: 2006-01-01
 ---
 
-## Alphabetical Index of Tangos
+# Alphabetical Index of Tangos
 
 [Adios Arrabal](/04/10_adiosarrabal)
 
@@ -20,7 +22,6 @@ date: 2006-01-01
 [El Amanecer](/04/07_revolution#fuegos)
 
 [El Bulin de la Calle Ayacucho](/04/24_bulin)
-[![](/4_pics/1_new_3c.gif)](/04/21_amarras)
 
 [El Cencerro](/04/06_cows)
 

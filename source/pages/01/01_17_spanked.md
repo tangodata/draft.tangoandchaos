@@ -1,12 +1,14 @@
 ---
-title: Spanked in the Andes
+title: Spanked in the Andes | 2003
+navtitle: Spanked in the Andes
 chapter: '01'
 slug: 17_spanked
+parent: 01_index
 nick: 17spanked
 date: 2003-10-22
 ---
 
-## The Andes! -- “_Traccion a Sangre_”
+# “_Traccion a Sangre_” -- The Andes!
 
 When I began to train for bike racing 25 years ago I started keeping a training diary, and although there's no longer any real reason to do it, I still keep a daily record of my physical activity. Here's the the entry for Oct. 22, 2003: _"Mendoza centro > base Andes—3.1 med +_ ”  It records a bicycle ride of 3 hours and 6 minutes from downtown Mendoza to the base of the Andes and back at a medium pace. The “+” means there were a few hard pulls on the hills. That pretty much tells the story: cruising along, enjoying the sights and smells of a completely new piece of real estate. Rolling south out of the busy center of town I pass a few locals on old bikes, who would probably think anyone that could afford a car must be crazy to be riding a bicycle. I also pass a few carts that are using _traccion a sangre_. “_Traccion a sangre_” means “blood traction”, or “blood power”, and it is Argentina’s great way of describing the old carts piled with junk or produce that are still pulled by horses. You sometimes even see them on the streets of BsAs, although they are supposed to be illegal there. Somehow they survive in the heavy traffic, and it’s nice to hear them outside your window clopping along the city streets early in the morning \[see _Manoblanca_ in chapter 4\]. I guess you could say I am also traveling by _traccion a sangre_ as I stand up out of the saddle and begin to climb into the foothills, feeling the first bite of lactic acid in my legs and the crisp thin air. The mountains ahead began to get bigger, and bigger, and… BIGGER. _Holy schnikies_\- they are HUGE!
 

@@ -1,11 +1,13 @@
 ---
-title: Count Compas
+title: Counting the Compas of tango | 2008
+navtitle: Counting the Compas
 chapter: '06'
 slug: 20_countcompas
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Dreams and Reality
+# Dreams and Reality
 
 Once we've begun to figure out how to stand and step, the next stage is to "dance". Most of us start down the tango road with some sort of vision. It could be anything from dreams of glory picked up from watching tango in movies and stage shows, to simply wanting to keep from embarrassing ourselves in a milonga. Surprisingly, dreams of the first kind are much easier to follow. Only a small handful of people actually make a living by performing, but their shows have spawned a worldwide system of classes and workshops for learning stage tango.
 

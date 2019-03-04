@@ -1,12 +1,14 @@
 ---
 title: El Malevo
+navtitle: El Malevo
 chapter: '03'
 slug: 02_elmalevo
+parent: 01_search
 nick: 2elmalevo
 date: 2006-01-01
 ---
 
-## El Malevo
+# El Malevo
 
 ![](/3_pics/image005.jpg)
 El Malevo at xxxxx dancing with xxxxx.

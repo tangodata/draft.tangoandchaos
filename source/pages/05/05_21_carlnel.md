@@ -1,11 +1,13 @@
 ---
 title: Carlos y Nelida tango video | 2007
+navtitle: "Video 5: Carlos & Nelida"
 chapter: '05'
 slug: 21_carlnel
+parent: 01_video
 date: 2006-01-01
 ---
 
-## Carlos y Nelida
+# Carlos y Nelida
 
 > _"I perform on stage, but I can't dance like the milongueros.
 > I study them, but I can't do what they do."_

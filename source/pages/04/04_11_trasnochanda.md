@@ -1,12 +1,13 @@
 ---
 title: Trasnochando | 2007
+navtitle: Trasnochando
 chapter: '04'
 slug: 11_trasnochando
+parent: 01_music
 date: 2006-01-01
 ---
 
-
-## _"Trasnochando"_
+# _"Trasnochando"_
 
 > _Trasnochador_:  someone who goes to bed late or not at all.
 >

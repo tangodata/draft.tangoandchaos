@@ -2,6 +2,7 @@
 title: Petroleo 2
 chapter: '03'
 slug: 04_petroleo
+parent: 01_search
 nick: 4petroleo
 date: 2006-01-01
 ---

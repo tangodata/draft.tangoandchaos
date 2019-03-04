@@ -1,11 +1,13 @@
 ---
 title: Amarras | 2009
+navtitle: Amarras
 chapter: '04'
 slug: 21_amarras
+parent: 01_music
 date: 2006-01-01
 ---
 
-## _"Amarras"_
+# _"Amarras"_
 "Mooring Lines"
 
 ![](/4_pics/recova.jpg)

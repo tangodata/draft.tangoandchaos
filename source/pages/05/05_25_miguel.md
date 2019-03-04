@@ -1,10 +1,12 @@
 ---
 title: Miguel Balbi video -  El 13 | 2007
+navtitle: "Video 9: Miguelito"
 chapter: '05'
 slug: 25_miguel
+parent: 01_video
 date: 2006-01-01
 ---
-
+# Miguel Balbi
 ## The Perfect Tango
 
 I know... tango isn’t science. You can’t measure it by any objective standard. But I have seen two dances that are so good that I simply can’t imagine a way to make them better -- so for me, they're "perfect". We've already shown one of them. It's the first video we posted of Ismael dancing to _No Me Extraña_. Now, here is the second one. It's a video of Miguel Balbi dancing to Biaggi's _El Trece_ at a party in _Almagro_. Watch how he moves to the music:

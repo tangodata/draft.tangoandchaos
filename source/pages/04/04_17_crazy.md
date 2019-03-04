@@ -1,9 +1,13 @@
 ---
 title: Crazy | 2008
+navtitle: Balada Para un Loco
 chapter: '04'
 slug: 17_crazy
+parent: 01_music
 date: 2006-01-01
 ---
+
+# Balada Para Un Loco
 
 ## Crazy
 

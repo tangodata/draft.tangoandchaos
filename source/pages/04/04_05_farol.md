@@ -1,11 +1,13 @@
 ---
 title: Farol | 2007
+navtitle: Farol
 chapter: '04'
 slug: 05_farol
+parent: 01_music
 date: 2006-01-01
 ---
 
-## _"Farol"_
+# _"Farol"_
 
 > _"Every milonga must have at least two tandas of Di Sarli, and two tandas of Troilo."_
 > -- Milongueros Ernesto Delgado and Miguel Balbi

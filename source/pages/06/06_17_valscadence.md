@@ -1,11 +1,13 @@
 ---
-title: Vals Cadence
+title: Tango Vals Under a Microscope | 2008
+navtitle: Vals Under a Microscope
 chapter: '06'
 slug: 17_valscadence
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Nailing the Quicks
+# Nailing the Quicks
 
 In tango we step across one weak beat -- but in _vals_, we step across _two_ weak beats:
 

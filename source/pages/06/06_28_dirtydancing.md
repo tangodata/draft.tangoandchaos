@@ -1,11 +1,13 @@
 ---
-title: Dirty dancing
+title: Dirty dancing | 2008
+navtitle: Dirty Dancing
 chapter: '06'
 slug: 28_dirtydancing
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Dirty Dancing
+# Dirty Dancing
 
 Sloppy tango technique comes in two basic varieties: Full time, and part time. Full time is ingrained. It means habitually dancing in ways that inhibit your ability to move, lead, and express the music. Part time dirty dancing, on the other hand, happens when good habits temporarily break down. This is usually caused by trying to dance too fast, over-reaching for unnatural moves, or by being uncomfortable in crowded conditions.
 

@@ -1,11 +1,13 @@
 ---
 title: Tristezas de la Calle Corrientes | 2009
+navtitle: Corrientes Street Blues
 chapter: '04'
 slug: 22_tristezas
+parent: 01_music
 date: 2006-01-01
 ---
 
-## _"Tristezas de la Calle Corrientes"_
+# _"Tristezas de la Calle Corrientes"_
 "Corrientes Street Blues"
 
 I tried to translate this tango about five years ago, and it didn't come out very well. The words and the structure of the poetry were too difficult. That’s when I realized that not only does a good translation help you dance tango, but also, a bad translation can sometimes ruin a tango for you. For a long time I didn’t care much for _Tristezas,_ because it just didn't make sense to me.

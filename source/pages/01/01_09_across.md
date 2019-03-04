@@ -1,12 +1,14 @@
 ---
-title: Across the Riachuelo
+title: Across the Riachuelo | 2001
+navtitle: A Trip to the Other Side
 chapter: '01'
 slug: 09_across
+parent: 01_index
 nick: 9across
 date: 2003-07-08
 ---
 
-## A trip to the other side
+# A trip to the other side
 
 **July 8, 2003:** In my part of the U.S. the Mexicans use the phrase _“Es un hombre del otro lado”_ to refer to someone who lives on the 'other side' of the frontier, in Mexico. In BsAs they use a similar phrase, meaning the other side of the page. It means the down neighborhood, the _“barrio, barrio”_... the _“arrabal”_. Last night we headed south to _Avellaneda_, to the other side of the tango world. It is not in the city, but in _La Provincia de Buenos Aires_, across the _Riachuelo_ River to the south of the city, where today there are few remaining tango clubs. When our taxi got near our destination, the driver locked the doors, and said, “It's dangerous. Don't walk here.” But this may have been a bit overstated. We know people who live here and they walk around all the time. A few minutes later we arrived at _Club Leales y Pampeanos_ where _“Un Cacho de Tango”_ milonga is held on Sunday nights. If _El Beso_, which is frequented by upscale professionals, is at one end of the tango world, this club is at the other. Not one in a million tourists has been to it, and few if any of the dancers from downtown or the neighborhoods know it either.
 

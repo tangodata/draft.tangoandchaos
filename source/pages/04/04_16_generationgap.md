@@ -1,11 +1,13 @@
 ---
 title: The tango style myth | 2008
+navtitle: Tango Nuevo & Lawrence Welk
 chapter: '04'
 slug: 16_generationgap
+parent: 01_music
 date: 2006-01-01
 ---
 
-## Is Tango Just for Old Folks?
+# Is Tango Just for Old Folks?
 
 A couple of years ago Alejandra and I were at a dinner party in Tucson when a slightly drunk woman began to lecture the table. She had just returned from a tango nuevo workshop, and she insisted loudly that people who don’t like tango nuevo are dull, conservative, and generally lacking in imagination. In short, she felt that people in tango who don’t want to kick up their heels are, uh, you know ... old and not cool. I was around in the 1970’s, so this "generation gap" argument is one I’ve heard before. (Although it was the first time I'd heard it repeated so many times and so forcefully by a middle aged woman).
 

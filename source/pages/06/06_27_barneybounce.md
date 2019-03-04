@@ -1,11 +1,13 @@
 ---
-title: Barney Bounce
+title: Bouncy Tango | 2008
+navtitle: Bouncing
 chapter: '06'
 slug: 27_barneybounce
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Bouncing
+# Bouncing
 
 On the last page, we talked about how bending the supporting leg can lead to a flat, creeping kind of walk, and a soft, "walking on eggs" step. But one of the biggest risks is bouncing. Bouncing up and down seems to be a natural response to rhythm, and it's common in all sorts of dancing -- but it doesn't belong in tango. To lead efficiently, the man’s energy needs to be directed forward, rather than upward. He needs to signal which way to move, and how far -- and, he needs to do it quickly and unambiguously. (The average tango has around 70 beats per minute, which means that more than one signal per second often needs to be sent, received, and followed.)
 

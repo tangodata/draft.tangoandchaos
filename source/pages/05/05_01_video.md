@@ -1,11 +1,16 @@
 ---
+permalink: /05/
+section: Chapter 5 | The Best of the Video
 title: Tango videos - Training the Eye | 2007
+navtitle: Videos of the Best
+subtitle: If you can't see it, you can't dance it
 chapter: '05'
 slug: 01_video
 date: 2006-01-01
+has_children: true
 ---
 
-## Training the Eye
+# Training the Eye
 
 I suppose there are two basic ways to study tango. One is to drill down close -- to focus in on the best dancers, and attempt to analyze each move. The other way is to step back and take a longer view -- to watch how the good dancers embrace and move, and try to absorb the whole package.
 

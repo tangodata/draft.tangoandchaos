@@ -1,12 +1,14 @@
 ---
-title: The essential tango
+title: The essence of tango | 2005
+navtitle: Essential Tango
 chapter: '02'
 slug: 17_essential
+parent: 01_secrets
 nick: 17essential
 date: 2005-04-17
 ---
 
-## The Essential Tango
+# The Essential Tango
 
 On this page we'll look more closely at what separates tango from other types of music and dancing. As an experiment, put on some tango music, relax, maybe have a drink, and listen. Something like Di Sarli’s _A la Gran Muñeca_, or maybe Pugliese’s _La Yumba_ would be good… but almost any of the rhythmic tangos from the Golden Age orchestras will work.
 

@@ -1,12 +1,14 @@
 ---
-title: Tango and revolution
+title: Tango & revolution | 2001
+navtitle: So You Think You Want a Revolution
 chapter: '01'
 slug: 06_bigtrouble
+parent: 01_index
 nick: 6big_trouble
 date: 2001-12-21
 ---
 
-## So You Think You Want a Revolution...
+# So You Think You Want a Revolution...
 
 **Thu Dec 20, 2001 6:15pm:** I’m ashamed of what I did this afternoon. I’ve heard that when the Mexican Revolution began, a bunch of people in El Paso impulsively ran across the border and joined in. Several people have emailed and given support and good wishes, which is very kind, but I’m afraid it’s wasted on someone who puts himself at risk for no reason… which is exactly what I did this afternoon. Whether it was boredom, bravado, or just because it was too noisy and hot to take a nap in this old apartment, I went against everyone’s advice, and decided to walk around BA and find out what was happening. I was going to take the subway, pop up, and then escape back home if it was too dangerous. But, the _subte_ was barricaded, so I ended up walking from _Independencia_ up _Entre Rios_, to _Congreso_, then into the center of town past the _Obelisco_, and down _Diagonal Saenz Pena_ to within one block of _Plaza de Mayo_. After that, I began running, became disoriented, and I ended up back on _Av. de Mayo_, which was a bad place to be. I then went west to _Nueve de Julio_ thinking I was getting out of it, and it got worse. It is the stupidest thing I have ever done in my life. I thought for several hours before deciding to write this, but I did what I did... so here it is. I'll write about it in the present tense because it’s easier:
 

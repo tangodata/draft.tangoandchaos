@@ -1,10 +1,14 @@
 ---
 title: Art of Tango
+navtitle: The Art of Tango
 chapter: '03'
 slug: 19_entrega
+parent: 01_search
 nick: 19entrega
 date: 2006-01-01
 ---
+
+# The Art of Tango
 
 ## Dancing Without Fear
 

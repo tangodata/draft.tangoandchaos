@@ -1,7 +1,9 @@
 ---
-title: Walking bad
+title: How Not to Walk | 2008
+navtitle: The Ministry of Silly Walks
 chapter: '06'
 slug: 26_walkingbad
+parent: 01_school
 date: 2006-01-01
 ---
 

@@ -1,13 +1,15 @@
 ---
 title: Gloria | 2007
+navtitle: Gloria
 chapter: '04'
 slug: 02_gloria
+parent: 01_music
 date: 2006-01-01
 ---
 
 ![Luis Grandona](/image_files/grand54.jpg)
 
-## _"Gloria"_
+# _"Gloria"_
 
 There are probably around two thousand recorded tangos that are suitable for dancing ... so if you could play only one piece of music for a friend who had no idea at all about tango, which would you select? Well, I suppose you should pick a tango that in some ways represents all the others ... and of course, you’d want to choose one of your favorites. So here’s my first pick. Most people probably wouldn’t put this orchestra or this singer at the top of the list of all time greats. In fact, many would consider this tango to be from the middle of the pack ... but for me it’s a diamond. And it contains most of the things every great tango should have:
 

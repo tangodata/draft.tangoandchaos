@@ -1,11 +1,13 @@
 ---
-title: Curved Runs
+title: Curved Runs Tango Vals in a Crowd | 2008
+navtitle: Waltz in a Crowd
 chapter: '06'
 slug: 22_curvdruns
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Waltzing in a Crowd
+# Waltzing in a Crowd
 
 Let's look at the problem of dancing waltz in a crowded milonga:
 

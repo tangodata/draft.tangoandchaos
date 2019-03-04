@@ -1,7 +1,9 @@
 ---
-title: Embrace
+title: Embracing Tango | 2009
+navtitle: The Embrace & Head Position
 chapter: '06'
 slug: 33_embrace
+parent: 01_school
 date: 2006-01-01
 ---
 

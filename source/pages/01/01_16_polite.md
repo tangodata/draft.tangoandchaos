@@ -1,12 +1,14 @@
 ---
-title: What Argentines are too polite to say
+title: What Argentines are too polite to say | 2003
+navtitle: What the Argentines won't Say
 chapter: '01'
 slug: 16_polite
+parent: 01_index
 nick: 16polite
 date: 2003-10-18
 ---
 
-## Back in the U.S.A.
+# Back in the U.S.A.
 
 **October 18, 2003:** We walked off the dance floor at the Portland Tango Fest last week and ran into our friend Steve from Port Townsend, Washington. We hadn’t seen him for a while, and he looked at our smiling, sweaty faces and said, “So, you like this tango thing? Think you might stick with it for awhile?” (Funny guy) Alejandra and I are at a great place in tango right now, and it must show. It’s a place where the music and the dancing seem almost endlessly deep. The more I learn, the more there is to learn, and the more interesting tango becomes. It seems infinitely perfectible, and the future looks challenging and fun.
 

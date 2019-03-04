@@ -1,15 +1,17 @@
 ---
-title: Efficient tango
+title: Efficient tango | 2005
+navtitle: Efficiency
 chapter: '02'
 slug: 06_efficiency
+parent: 01_secrets
 nick: 6efficiency
 date: 2005-04-06
 ---
 
-## Efficiency
+# Efficiency
 
->_“If you are going to dance tango, stand up straight and walk right”_
->-- the only tango advice given to Jorge and Dany by their father
+> _“If you are going to dance tango, stand up straight and walk right”_
+> -- the only tango advice given to Jorge and Dany by their father
 
 _El Gallego_ (Jorge Garcia) is one of the most elegant tango dancers in Buenos Aires. Like his brother Dany Garcia (“_El Flaco_”), he is always in perfect balance, even when his feet are moving with blurring speed. He boxes and runs almost every day, and for many years he was Osvaldo Pugliese’s bodyguard. When Pugliese was being harassed by the government for his communist beliefs, he would occasionally be thrown in jail, but his orchestra would continue performing with a vacant chair in Pugliese’s spot -- and of course Jorge would be out of work until he got out. (Jorge was present with him in the famous 1974 meeting in the _Casa Rosada_ when Perón shook Pugliese’s hand and apologized for his treatment at the hands of the government.)
 

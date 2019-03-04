@@ -1,12 +1,14 @@
 ---
 title: Cats and Horses
+navtitle: Cats and Horses
 chapter: '03'
 slug: 18_catshorses
+parent: 01_search
 nick: 18catsshorses
 date: 2006-01-01
 ---
 
-## Cats and Horses
+# Cats and Horses
 
 I’m not a good photographer. In fact, before I bought a video camera to shoot the milongueros, I never even owned a camera. But when I began to capture still pictures from the video, I think I started to develop an eye for photographs. I first saw Tom’s picture, “_The Cabeceo_” \[[Page 6 of this chapter](/03/06_cabeceo)\] on the internet. It was posted with a couple of dozen other pictures that had been entered in a tango photography contest. Most of the entries were the usual dreary stuff—fishnet stockings, high heels, blurred legs, and performers gazing into each other's eyes as they wrapped themselves around each other to display the raging sexual passion of tango. But for me Tom’s picture was different. It had scale and balance. The milonguero’s shoulder and head is in the foreground, taking up the right third of the picture, and setting off the row of milongueras across the floor. And there is the preoccupied bartender going about his business in the background. Like the best photographs, it brings into focus a bit of the world that you might otherwise miss.
 

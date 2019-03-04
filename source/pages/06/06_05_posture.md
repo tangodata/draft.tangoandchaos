@@ -1,11 +1,13 @@
 ---
-title: Posture
+title: "In Tango, Posture Is Elegance | 2008"
+navtitle: Posture & String Theory
 chapter: '06'
 slug: 05_posture
+parent: 01_school
 date: 2006-01-01
 ---
 
-## String Theory
+# String Theory
 
 ![](/6_pics/stick_man/badbakW.jpg)
 Poor posture is tiring, it looks bad, and it inhibits your dancing. Your head weighs

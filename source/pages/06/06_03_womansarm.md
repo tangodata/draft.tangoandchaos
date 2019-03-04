@@ -1,11 +1,13 @@
 ---
-title: Woman's Arm
+title: The Woman's Arm Position in Tango | 2008
+navtitle: The Woman's Arm
 chapter: '06'
 slug: 03_womansarm
+parent: 01_school
 date: 2006-01-01
 ---
 
-## The Woman's Left Arm
+# The Woman's Left Arm
 
 In tango, a woman's right hand must go pretty much wherever the man decides to put his left hand, but the woman does have some choices about where to place her left hand. Although the placement depends a lot on the relative heights and postures of the partners, let's look at some of her options. Here's the default position, with the woman's left arm resting lightly over the man's shoulders:
 

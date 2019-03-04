@@ -1,11 +1,13 @@
 ---
-title: Chinomoves
+title: Back and Forth and Around | 2008
+navtitle: Front, Back, & Around
 chapter: '06'
 slug: 24_chinomoves
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Mastering the Music
+# Mastering the Music
 
 I think _El Chino's_ dancing is about as good as it gets, but sometimes understanding the tango of the great milongueros requires a "_Clik!_", as the _porteños_ say -- a shift of perception. The best milongueros think of dancing in terms of _why_ you move, rather than _how_ you move. That means you shouldn't step or turn just because you can -- you step, or turn, for a reason.
 

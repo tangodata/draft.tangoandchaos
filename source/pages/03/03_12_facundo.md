@@ -1,12 +1,14 @@
 ---
 title: Facundo's Uncle
+navtitle: Facundo's Uncle
 chapter: '03'
 slug: 12_facundo
+parent: 01_search
 nick: 12facundo
 date: 2006-01-01
 ---
 
-## The Tango Family
+# The Tango Family
 
 We always like to film social tango dancing more than performances. But surprisingly, several of the most moving tango videos we have ever taken were of couples performing. One is of Javier and his little sister Malena dancing at Sunderland on her 12th birthday. Javier and his partner Geraldine were probably the best couple performing tango in the world over the past few years (Javier and Geraldine are both in the _Assassination Tango_ movie -- but not dancing together). Although both dance on the stage, they are children of the milongas (there is film of Geraldine as a child dancing with Portalea, and Javier’s dad is a milonguero in _Villa Urquiza_). In our video, you can feel the connection between Javier and his little sister (we made a copy of the tape and gave it to her later), but the faces of the crowd in the background are what makes the video special. The milongueros and milongueras in Sunderland are, to use a trite expression, glowing. It’s as if they are watching their own children, and the atmosphere is charged with energy and good feeling.
 

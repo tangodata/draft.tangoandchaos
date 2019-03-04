@@ -1,12 +1,14 @@
 ---
 title: Todaro
+navtitle: Todaro
 chapter: '03'
 slug: 05_todaro
+parent: 01_search
 nick: 5todaro
 date: 2006-01-01
 ---
 
-## The Second Legend: Antonio Todaro
+# The Second Legend: Antonio Todaro
 
 Celia Blanco is an important person in tango. She is the _Profesora de Tango Salon_ in Argentina’s official school of culture and dance (_Teatro San Martin_), she is a famous tango choreographer, and she is a woman of the milongas as well. In fact, she runs one of the best tango clubs in Buenos Aires. In the clubs it’s common for the walls to be covered with pictures of well-known tango dancers ... but in Celia’s club there is only one: Antonio Todaro.
 

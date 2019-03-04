@@ -1,13 +1,13 @@
 ---
-title: Walking
+title: The Walking Pause in Tango | 2008
+navtitle: A Brief Pause
 chapter: '06'
 slug: 13_walking4
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Walking (Part IV)
-
-**A Short Pause**
+# Walking (Part IV) A Short Pause
 
 I’m not a musician, and I'm not sure about the terminology, but I know that music comes in phrases. When I was first learning, someone told me tango was often in sequences of eight beats, or multiples of eight, so I began to count eight beats -- and sure enough, I often found changes there. I even worked out ways of practicing where I would move forward through the middle of the phrases, and pause for weight changes or _giros_ at the beginnings and ends of the phrases. I don't do it any more, but in the beginning it helped me find a basic structure for moving to the music. For now, let’s just say the music often does something similar for a phrase or two, and then changes in some way. It may be a place where the singer catches his breath, or the orchestra may change instruments or volume. In any case, a tango dancer needs to do something with it, so let's get a tool to use. At this point, _giros_ are somewhere down the road, so let’s do the simplest thing we can**:** We'll practice pausing.
 

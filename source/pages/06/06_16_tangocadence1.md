@@ -1,11 +1,13 @@
 ---
-title: Tango Cadence
+title: Understanding Tango Cadence | 2008
+navtitle: Understanding Cadence
 chapter: '06'
 slug: 16_tangocadence1
+parent: 01_school
 date: 2006-01-01
 ---
 
-## An Introduction to Cadence
+# An Introduction to Cadence
 
 Posture, step, and cadence make up the technical part of tango dancing -- and all three are linked. Without posture, the step is weak, and without a strong solid step, you can't mark the cadence. Tango is in the details -- and bad habits add up. Without good technique, tango becomes blurred ... and at some point, it can get so out of focus that it's no longer tango. You may be able to do complicated patterns and athletic figures all over the place, but if there's no tango in your posture and step, it's just aerobics with music. Cadence is especially crucial, because it's our basic link to the music. So let's add some colored spots and some _ticks_ to the videos to look more closely at how we mark the _compás_.
 

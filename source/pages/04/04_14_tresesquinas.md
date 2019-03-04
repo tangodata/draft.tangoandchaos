@@ -1,11 +1,13 @@
 ---
 title: Tres Esqinas | 2007
+navtitle: Tres Esquinas
 chapter: '04'
 slug: 14_tresesquinas
+parent: 01_music
 date: 2006-01-01
 ---
 
-## _"Tres Esquinas"_
+# _"Tres Esquinas"_
 "Three Corners"
 
 The people who really know tango music (not just the milongueros, but the older people who have listened to tango radio all their lives) say Angel Vargas has a “_voz chica_”, which means “small voice”. At first I thought this was derogatory -- but it’s not. They are saying that singers like Fiorentino and Vargas have voices that are smooth and soft -- that they don’t sing with a lot of volume. The best way to understand this is to contrast them with someone like Alberto Castillo (who we’ll listen to soon). Castillo has a strong, sharp voice that could probably fill a room without a microphone. But neither a “big” nor a “small” voice is better. It’s how you sing that’s important -- and of course the same thing applies to dancing. For non-Argentines who want to pick up the rhythms and accents of _castellano_ (Argentine Spanish), Angel Vargas is a great place to start. So before we wander into the minefield of tango technique, let’s listen to the way Angel Vargas sings “_Tres Esquinas_”

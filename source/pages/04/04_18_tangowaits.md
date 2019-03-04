@@ -1,9 +1,12 @@
 ---
 title: Tango waits for you | 2008
+navtitle: Tango Waits
 chapter: '04'
 slug: 18_tangowaits
+parent: 01_music
 date: 2006-01-01
 ---
+# Tango Waits
 
 ## Chasing Perfection
 

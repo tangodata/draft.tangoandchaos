@@ -1,11 +1,13 @@
 ---
-title: Navfirulete
+title: Making Tango Work | 2009
+navtitle: Making it Work
 chapter: '06'
 slug: 37_navfirulete
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Making Tango Work
+# Making Tango Work
 
 The more I dance and learn, the closer I move toward one very simple idea: In the end, tango is nothing more than friends gathering together to share the music. It all begins, and ends with that. Tango is loving the music, and caring about each other. That may sound a little “new age”, but it’s true. Another way to put it is that the continued existence of tango requires a respect for the music, and a respect for each other. If you have an environment where those two things exist, then you can celebrate tango. If you don’t, then you can’t. If you have instructors who, both by example and word, are committed to teaching students how to navigate and dance in a way that doesn’t bother other dancers, then you can have milongas. If you don't, you can still have classes and _practicas_ where people work on steps and figures -- but that's all you'll have.
 

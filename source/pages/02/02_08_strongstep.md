@@ -1,12 +1,13 @@
 ---
-title: Strong Step
+title: Milongueros Step with Power | 2005
 chapter: '02'
 slug: 08_strongstep
+parent: 01_secrets
 nick: 8strongstep
 date: 2005-04-07
 ---
 
-## Natural Tango  (Continued)
+# Natural Tango  (Continued)
 
 Probably the most remarkable thing about the great milongueros is the strong, effortless way they step. Unlike stage performers, they never reach forward tentatively with the foot, or use a lot of muscle to step onto a bent leg. They know exactly where the floor is, and they step firmly into it. Even the smallest and oldest of them have this powerful, sure step.
 

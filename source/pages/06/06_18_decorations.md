@@ -1,11 +1,13 @@
 ---
-title: Decorations
+title: To Decorate or Not to Decorate | 2008
+navtitle: Decorating Tango
 chapter: '06'
 slug: 18_decorations
+parent: 01_school
 date: 2006-01-01
 ---
 
-## To Decorate, or Not to Decorate
+# To Decorate, or Not to Decorate
 
 Tango embellishments are called _adornos_ in Argentina. An _adorno_ is a decoration that can be added by either the man or the woman, and one of the decisions a social tango dancer must make is whether or not to do them. The best-known _adornos_ are _boleos, ganchos, sentadas_, and the leg swings and sweeps done by stage dancers. But they also include small foot movements, like toe taps, or small patterns traced on the floor. Should you do them ... and if so, how much?
 

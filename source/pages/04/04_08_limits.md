@@ -1,11 +1,13 @@
 ---
 title: The limits of tango music | 2007
+navtitle: The Limits of the Music
 chapter: '04'
 slug: 08_limits
+parent: 01_music
 date: 2006-01-01
 ---
 
-## The Limits of the Music
+# The Limits of the Music
 
 Just for fun, let's look at the wave graphs of the three different “styles” of tango we’ve discussed:
 

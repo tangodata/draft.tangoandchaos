@@ -1,13 +1,13 @@
 ---
-title: Walking
+title: Tango The Secrets of the Step | 2008
+navtitle: Secrets of the Step
 chapter: '06'
 slug: 14_walking5
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Walking (Part V)
-
-**The Secrets of the Step**
+# Walking (Part V) The Secrets of the Step
 
 >hob-by: (n.) An activity or interest pursued outside one's regular occupation
 

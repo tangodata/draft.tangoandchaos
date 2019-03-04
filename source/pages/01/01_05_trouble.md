@@ -1,7 +1,9 @@
 ---
-title: Sleepless in BsAs
+title: Sleepless in BsAs | 2001
+navtitle: There is Big Trouble Down Here
 chapter: "01"
 slug: 05_trouble
+parent: 01_index
 nick: 5trouble
 date: 2001-12-20
 ---

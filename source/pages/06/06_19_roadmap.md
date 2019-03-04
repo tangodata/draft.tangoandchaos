@@ -1,11 +1,13 @@
 ---
-title: Roadmap
+title: A Roadmap for Tango Students | 2008
+navtitle: A Tango Roadmap
 chapter: '06'
 slug: 19_roadmap
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Breaking Down Tango
+# Breaking Down Tango
 
 I spent my first couple of years in tango taking classes and studying instructional videos -- but on my first trip to Buenos Aires, I quickly realized that the things I was learning had almost nothing to do with the tango that was being danced in the milongas. So I decided to see if I could film the milongueros, and learn tango by studying the way they danced. Years earlier, I had learned to ski with Olle Larson, who is one of the world’s best coaches. Olle's approach was to carefully study videos of the best racers, and break down their movements into basic elements that were easier to understand. Then, he would develop drills to help his students master each of the elements -- and I thought this might also work with tango.
 

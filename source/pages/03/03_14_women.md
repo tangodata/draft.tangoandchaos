@@ -1,12 +1,14 @@
 ---
 title: Tango Technique for Women 1
+navtitle: Tango Technique for Women
 chapter: '03'
 slug: 14_women
+parent: 01_search
 nick: 14women
 date: 2006-01-01
 ---
 
-## Women's Technique
+# Women's Technique
 
 **The Good, the Bad, and the Ugly**
 

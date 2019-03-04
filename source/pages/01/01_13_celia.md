@@ -1,12 +1,14 @@
 ---
-title: Celia & Osvaldo Natuccui
+title: Celia & Osvaldo Natuccui | 2003
+navtitle: Celia and Natu
 chapter: '01'
 slug: 13_celia
+parent: 01_index
 nick: 13celia
 date: 2003-07-30
 ---
 
-## Celia and Natu
+# Celia and Natu
 
 >_“I am a teacher of tango. Not a miracle worker.”_  -- Celia  Blanco
 

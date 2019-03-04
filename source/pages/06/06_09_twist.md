@@ -1,11 +1,13 @@
 ---
-title: Twist
+title: Demonstrating The Tango Walk | 2008
+navtitle: The Step Before the Step
 chapter: '06'
 slug: 09_twist
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Float and Twist
+# Float and Twist
 
 When you're comfortable with the exercises on the previous page, it's time to let your un-weighted foot leave the floor and hover. Move to one of your forward points, get balanced, and then tip just a bit further to the side, so that the all of the weight begins to leave the other foot. Do it smoothly and slowly, until you feel the un-weighted foot just start to leave the floor:
 

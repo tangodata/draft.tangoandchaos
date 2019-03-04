@@ -2,12 +2,11 @@
 title: Ricardo Vidort- video of the last compadrito | 2007
 chapter: '05'
 slug: 30_ricardo
+parent: 01_video
 date: 2006-01-01
 ---
 
-## Ricardo Vidort
-
-**The Last _Compadrito_  (Part 2)**
+# Ricardo Vidort **The Last _Compadrito_  (Part 2)**
 
 The man who put on the music for me in the club that night was Miguel Balbi, and the man who walked onto the floor to give me tango advice was Ricardo Vidort ... and of course, the woman was Alejandra.
 Miguel Balbi is a brilliant dancer, a tango singer, and a loyal friend. Miguel Zotto calls Balbi one of tango's last dinosaurs, because he's like the old-time people from the _arrabal_ who were involved in all aspects of tango -- from organizing events, to performing, to staying up all night with his _mejores compañeros, los muchachos milongueros_. For me, Miguel Balbi is certainly a milonguero _puro_ whose life revolves around tango, but he's also a well-rounded man with experiences, interests, and work outside of the milongas. Ricardo Vidort, however, was something else. I think he was almost certainly the last of the old-time milongueros -- a _compadrito_ really, whose entire life was dedicated to tango and nothing else. He lived like one of the old _compadritos_, and he saw the world through their eyes. His attitudes about work, women, tango, and life were their attitudes. It was really Ricardo who was the dinosaur. In fact, he was the last dinosaur ... and it was a cross he had to bear.

@@ -1,9 +1,12 @@
 ---
 title: Gerard Gell&eacute; tango video | 2007
+navtitle: "Video 6: Gerard & Alej"
 chapter: '05'
 slug: 22_gerard
+parent: 01_video
 date: 2006-01-01
 ---
+# Gerard Gell&eacute;
 
 ## "Five Runs" in _Vals_
 

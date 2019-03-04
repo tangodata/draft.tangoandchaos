@@ -1,13 +1,13 @@
 ---
-title: Walking
+title: "Physics, Harmony, & Walking Tango | 2008"
+navtitle: Walking Green
 chapter: '06'
 slug: 11_walking2
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Walking (Part II)
-
-**Moving Efficiently**
+# Walking (Part II) Moving Efficiently
 
 Efficiency is a beautiful thing. In fact, I like it more than beauty created just for the sake of beauty. To me, something that solves an engineering problem, like a fast airplane for example, is often more “beautiful” than many sculptures. That’s probably why I think the efficient tango of the milongas is generally more attractive than stage tango. And it's why I prefer the classic, practical walk of the milongas, rather than more stylized movement designed to attract attention. So let’s talk about efficiency of movement.
 

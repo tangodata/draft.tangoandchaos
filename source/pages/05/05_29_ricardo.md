@@ -1,11 +1,13 @@
 ---
 title: Ricardo Vidort - video of the last compadrito | 2007
+navtitle: "Video 12: Ricardo"
 chapter: '05'
 slug: 29_ricardo
+parent: 01_video
 date: 2006-01-01
 ---
 
-## Ricardo
+# Ricardo Vidort
 
 > _"Peinando plata en el jopo,_
 > -- _hablás del tango malevo."_

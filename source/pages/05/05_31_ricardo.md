@@ -2,12 +2,11 @@
 title: Ricardo Vidort- video of the last compadrito | 2007
 chapter: '05'
 slug: 31_ricardo
+parent: 01_video
 date: 2006-01-01
 ---
 
-## Ricardo Vidort
-
-**The Last _Compadrito_  (Part 3)**
+# Ricardo Vidort **The Last _Compadrito_  (Part 3)**
 
 I knew a doctor who often had to deal with dying people, and one time he told me something I always remembered. He said that sometimes the reason family members demand extraordinary measures, like tubes and respirators to keep a sick person alive when there’s no hope, is because they feel like they didn't do enough for the person earlier in life. He said it was probably because they felt a little guilt, so they wanted to do more at the last minute. It seemed a little strange to me, but now I understand it better.
 

@@ -1,11 +1,13 @@
 ---
-title: School Milongueros
+title: The School of the Milongueros | 2007
+navtitle: The Man's Left Hand
 chapter: '06'
 slug: 02_schoolmilongueros
+parent: 01_school
 date: 2006-01-01
 ---
 
-## The Man's Left Hand
+# The Man's Left Hand
 
 How the man holds his left hand and arm may appear rather simple… but it’s not. And it seems to be one of the things I have a lot of trouble with. There are three basic decisions that a man needs to make about where and how to grasp his partner's right hand: how high to hold the hand, how far from the body to hold the hand, and how to position wrist. Let’s look at a range of possibilities displayed by some of the best milongueros, and see what we can learn from them.
 

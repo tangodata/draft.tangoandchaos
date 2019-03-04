@@ -1,11 +1,13 @@
 ---
-title: Outside lines
+title: Outside the lines | 2008
+navtitle: Outside the Lines
 chapter: '06'
 slug: 30_outsidelines
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Outside the Lines
+# Outside the Lines
 
 The problem with learning tango isn't that there aren't enough classes. The problem is that there are too _many_ -- and most of them are bad. A serious student of tango is forced to sort through a lot of garbage to find something valuable. In the end, the real challenge becomes not so much figuring out what tango is, but what it isn't.
 

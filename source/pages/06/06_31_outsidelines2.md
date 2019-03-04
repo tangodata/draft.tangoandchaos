@@ -1,11 +1,12 @@
 ---
-title: Outside Lines 2
+title: "Paiva, Esther, & Tete | 2008"
 chapter: '06'
 slug: 31_outsidelines2
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Outside the Lines
+# Outside the Lines (part 2)
 
 On this page we'll continue looking at ways of dancing that are outside the boundaries of social tango, and we'll try to identify some common techniques that don't work well in milongas. On the last page we looked at how Copes used leg bend to add drama to his performance. Now let's look at someone else with a unique way of stepping:
 

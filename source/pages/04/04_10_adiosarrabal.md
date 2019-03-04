@@ -1,11 +1,13 @@
 ---
 title: Adios Arrabal | 2007
+navtitle: Adios Arrabal
 chapter: '04'
 slug: 10_adiosarrabal
+parent: 01_music
 date: 2006-01-01
 ---
 
-## _"Adios Arrabal"_
+# _"Adios Arrabal"_
 
 > “_Esta musica es muy envolvente! Que voz que tiene el señor!_”
 > -- Alejandra

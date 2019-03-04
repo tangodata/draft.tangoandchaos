@@ -2,12 +2,11 @@
 title: Ricardo Vidort - video of the last compadrito | 2007
 chapter: '05'
 slug: 32_ricardo
+parent: 01_video
 date: 2006-01-01
 ---
 
-## Ricardo Vidort
-
-**The Last _Compadrito_ (Part 4)**
+## Ricardo Vidort **The Last _Compadrito_ (Part 4)**
 
 Whether it was justified or not, after the memorial in Santa Fe I began to feel bad about Ricardo. I wanted to tell him how much he had helped me, and how I had finally learned enough to see how great he was. But it was too late. In the end, all I think he really wanted was friendship, but I didn’t do a very good job of returning it.
 

@@ -1,12 +1,16 @@
 ---
-title: School
+permalink: /06/
+section: Chapter 6 | The Nuts and Bolts of Tango
+title: Back to School | 2007
+navtitle: Back to School
+subtitle: A Practical Guide to Social Tango
 chapter: '06'
 slug: 01_school
 date: 2006-01-01
+has_children: true
 ---
 
-## Back to School:
-**A Practical Guide to Social Tango**
+# Back to School: **A Practical Guide to Social Tango**
 
 >_The White Rabbit put on his spectacles. "Where shall I begin, your Majesty?" he asked.
 >"Begin at the beginning," the King said gravely,

@@ -1,12 +1,14 @@
 ---
-title: Interviewing Alejandra Todaro
+title: Interviewing Alejandra Todaro | 2003
+navtitle: Interview with a Dancer
 chapter: '01'
 slug: 10_interview
+parent: 01_index
 nick: 10interview
 date: 2003-07-11
 ---
 
-## El Tenedor Libre
+# El Tenedor Libre
 
 **July 11, 2003:** When I was young and poor I would sometimes go to all-you-can-eat restaurants that had names like the "Royal Smorgasbord", and "Kings Table". On the theory that I would be able to save money by skipping future meals, I would usually eat my way to the verge of nausea. Down here they call these restaurants _"tenedor libres"_. This means "free fork", a place where your fork, freed of all social and financial restraints, can run wild like a _gaucho_ on _la pampa_, across plates of endless food. Well, it's not just food. Buenos Aires is also a _tenedor libre_ of tango... and I have over-eaten. I've been having too much fun, and now I need to pay the price. The fly in the ointment of this tango paradise, and it's a big one, has caught up with me. It is cigarette smoke. The cigarette smoke in the milongas down here is terrible, especially in winter when the windows are closed. Both Alejandra and I have had coughs and low-grade sore throats for about a week now, and mine is starting to get serious. I'm beginning to cough so much that I'm not sleeping well. The doctor says either stay out of the milongas until the irritation goes away and I start sleeping better, or risk a downward spiral that could end in the hospital.
 

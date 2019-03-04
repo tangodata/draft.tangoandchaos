@@ -1,12 +1,14 @@
 ---
-title: Sin Rumbo
+title: Sin Rumbo | 2001
+navtitle: The War of the Transvestites
 chapter: '01'
 slug: 08_sinrumbo
+parent: 01_index
 nick: 8sin_rumbo
 date: 2003-07-01
 ---
 
-## Sin Rumbo & the War of the Transvestites
+# Sin Rumbo & the War of the Transvestites
 
 **July 2003 -- Midwinter in Buenos Aires:** It's my first time down here in winter, and it's very different. I am looking out the window at a Buenos Aires that has an unfamiliar brooding quality—gray clouds, gray trees, and gray buildings. People wearing somber expressions and muted winter clothes. It's especially striking since this was an unanticipated (and for the most part unwanted) last minute trip. One day we were baking in Southern Arizona, and the next we are in dripping, cold BsAs -- London on the _Rio de la Plata_. From shorts and flip flops, 295 degrees watching the mountains burning up and frying eggs on the forehead, to a rainy, cloudy, midwinter Ingmar Bergman movie. The only visible energy down here today is because _Boca Junior_ has just won the America ’s Cup in soccer, so the crazies are out. They are racing through the streets again, drinking and yelling from the backs of pickups and waving those pastel blue flags with a picture of the sun in the middle, while the bright yellow and blue colors of Boca Junior team are hanging everywhere from apartment balconies. A few red and white flags of the losing _River Plate_ team are hanging also, but they turn them to face inward in defeat, away from the street.
 

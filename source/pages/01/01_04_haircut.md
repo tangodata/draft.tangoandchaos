@@ -1,12 +1,14 @@
 ---
-title: I Get a Haircut
+title: The Haircut | 2001
+navtitle: I Get a Haircut
 chapter: "01"
 slug: 04_haircut
+parent: 01_index
 nick: 4hcut
 date: 2001-12-19
 ---
 
-## I Get a Haircut
+# I Get a Haircut
 
 **Wed Dec 19, 2001 9:22pm**: There’s a lot of style in this country. It’s not uncommon for cab drivers to wear neckties, and the waiters often wear bow ties. They do their jobs with a lot of pride and professionalism for very little money by U.S. standards.
 

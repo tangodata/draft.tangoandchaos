@@ -1,14 +1,17 @@
 ---
-title: Tango in Uruguay
+title: Tango in Uruguay | 2003
+navtitle: Uruguay
 chapter: '01'
 slug: 12_uruguay
+parent: 01_index
 nick: 12uruguay
 date: 2003-07-30
 ---
 
-## Where is Everybody?
 
 **Buenos Aires, July 30, 2003:** We are back from a week in Uruguay, tanned, rested, and ready to resume reporting on tango and tourism in Greater Buenos Aires and suburbs and this report is about a very, very far suburb:
+
+# Where is Everybody?
 
 _![Yacht Club, Buenos Aires ](/1_pics/yachtclub.jpg)
 

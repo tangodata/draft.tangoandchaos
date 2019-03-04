@@ -2,10 +2,11 @@
 title: Ricardo Vidort - video of the last compadrito | 2007
 chapter: '05'
 slug: 33_ricardo
+parent: 01_video
 date: 2006-01-01
 ---
 
-## What Ricardo Left Us
+# What Ricardo Left Us
 
 I’m usually impatient with people who are only interested in fancy steps and moves. But maybe I shouldn’t be ... because I’ve been there myself. I was fairly quick to recognize that the stage tango that was being sold in the U.S. in the 1990’s was a waste of time, but it still took me a long time to understand the real tango. My discussion with Natu five years ago is a good example. Although I was dancing a lot in the milongas, and getting to know the milongueros, I still hadn’t developed a good eye for what I was seeing. At the time, the athleticism of Tete looked “better” to me than Ricardo’s dancing. Of course, Tete is a great dancer (we’ll look at him soon), but comparing him to Ricardo is like comparing apples and oranges. Today, with about 10,000 more dances under my belt than I had that night in the _parrilla_, I understand what Natu was trying to tell me. Ricardo Vidort really was the Grand Architect of tango dancing.
 

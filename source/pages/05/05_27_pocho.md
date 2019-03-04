@@ -2,6 +2,7 @@
 title: Training the eye for tango | 2007
 chapter: '05'
 slug: 27_pocho
+parent: 01_video
 date: 2006-01-01
 ---
 

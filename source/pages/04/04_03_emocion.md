@@ -1,12 +1,14 @@
 ---
 title: Emocion | 2007
+navtitle: Una Emoción
 chapter: '04'
 slug: 03_emocion
+parent: 01_music
 nick: 1search_title
 date: 2006-01-01
 ---
 
-## “_Una Emoción_”
+# “_Una Emoción_”
 
 > _"A Wop Bop a Loo Bop a Lop Bam Boom!"_
 > -- Little Richard, “_Tutti Frutti_”

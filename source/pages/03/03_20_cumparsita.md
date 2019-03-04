@@ -1,12 +1,13 @@
 ---
 title: Beginnings and Endings
+navtitle: Beginnings and Endings
 chapter: '03'
 slug: 20_cumparsita
-nick: 20cumparsita
+parent: 01_search
 date: 2006-01-01
 ---
 
-## Beginnings and Endings
+# Beginnings and Endings
 
 _La Cumparsita_ has been played so much that it’s almost a cliché. It’s the one tango that even the most remote non-tango foreigner will recognize. There must be more versions of it than almost any other piece of music, and many people probably associate it with funny movie images of strutting tango dancers like Rudolf Valentino, or Laurel and Hardy.
 

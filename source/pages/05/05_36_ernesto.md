@@ -1,11 +1,13 @@
 ---
 title: Ernesto Delgado video - Dancing for the woman | 2007
+navtitle: "Video 14: Ernesto"
 chapter: '05'
 slug: 36_ernesto
+parent: 01_video
 date: 2006-01-01
 ---
 
-## Ernesto Delgado
+# Ernesto Delgado
 
 **Dancing for the Woman**
 

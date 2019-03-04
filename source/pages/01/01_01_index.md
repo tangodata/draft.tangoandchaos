@@ -1,54 +1,17 @@
 ---
 permalink: /01/
-title: Tango and chaos
+section: Chapter 1 | Reports from 2001
+title: Tango and Chaos | 2001
+navtitle: Chaos and Revolution
+subtitle: Stories from 2001
 chapter: "01"
 slug: 01_index
 date: 2001-12-08
-#nav_order:
-has_children: yes
-#layout: default
+has_children: true
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
-
-
-content is &copy; 2003-2019 by [Rick](rick)
-
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
-
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-
------
-
-Table of Content
-{:toc}
-
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-
-
------
+## Introduction
+{: .no_toc .text-delta }
 
 > In November 2001 I flew down to Argentina for a five-week vacation.
 > The following stories were posted on several Internet groups during that trip.
@@ -57,8 +20,7 @@ Table of Content
 > Those who want to jump directly to the dramatic events of December 19 that changed Argentina, [click here](/01/06_bigtrouble).
 > Everything that follows is true, except for the name “Malena”, which is made up to protect a friend's privacy.  -- Rick McGarrey, Dec. 30, 2001
 
-## A Report From the Heart of Tango
-{: .no_toc .text-delta }
+# A Report From the Heart of Tango
 
 **Sat Dec 8, 2001 3:36 pm** --
 I am in Buenos Aires accompanied by the loyal Malik, who is in charge of security on this dangerous trip.

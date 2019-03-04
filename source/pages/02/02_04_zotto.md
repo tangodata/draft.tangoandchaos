@@ -1,12 +1,14 @@
 ---
-title: A talk with Miguel Zotto
+title: A talk with Miguel Zotto | 2005
+navtitle: Miguel Zotto
 chapter: '02'
 slug: 04_zotto
+parent: 01_secrets
 nick: 4zotto
 date: 2005-04-04
 ---
 
-## Miguel Angel Zotto
+# Miguel Angel Zotto
 
 While Alejandra and I have commercial videos of most of the well-known tango performers (and we've also seen a lot of them in person) we've never had a great interest in watching tango performances. Usually in milongas if there is a performance, we just wait for it to end, so we can dance. While most of the milongueros and milongueras will tolerate some demonstrations and performances at milongas, and applaud politely for stars and young beginners as well, many of them also become impatient after a few minutes, and want to get back to the milonga. The organizers realize this, and in the best milongas, demonstrations of tango are rare -- and usually short.
 

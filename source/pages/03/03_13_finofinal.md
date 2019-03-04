@@ -1,12 +1,14 @@
 ---
 title: Finito A Final Look
+navtitle: "Finito -- a Final Look"
 chapter: '03'
 slug: 13_finofinal
+parent: 01_search
 nick: 13finofinal
 date: 2006-01-01
 ---
 
-## Fino -- A Final Look
+# Fino -- A Final Look
 
 Here’s one last set of _Fino_ and Maria Teresa. Despite their poor quality of the images, I think the precision and beauty of the way they move comes through. As they move around the floor of the milonga, they display the essence of good tango: they are _bien parado_ (standing well), they _pisan bien_ (step well) and they are _en el compás_ (in the cadence of the music). Everyone learns differently, but a dancer who can absorb these images, and build a mental picture of Fino (or of Maria) will dance well.
 

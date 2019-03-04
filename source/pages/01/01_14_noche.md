@@ -1,12 +1,14 @@
 ---
-title: Night of the milongueras
+title: Night of the milongueras | 2003
+navtitle: La Noche de las Milongueras
 chapter: '01'
 slug: 14_noche
+parent: 01_index
 nick: 14noche
 date: 2003-08-07
 ---
 
-## La Noche de las Milongueras
+# La Noche de las Milongueras
 
 **August 7, 2003:** Last night I almost didn't take the camera along to _Sin Rumbo_, thinking that there wouldn't be anything to film, but it turns out that it was _La Noche de las Milongueras_. They had invited the 20 most famous living milongueras to be honored and to dance. All of them were there, with two notable exceptions—Carmencita Calderon, who must be more than 95 years old, and Maria Nieves—but I didn't mind because I have already seen both of them dance. And there were other photographers there, so I was able to film out on the floor, and I got some very good shots of their different styles. Margaret, the best known, was introduced as the “Milonguera of the century”, and she danced a lot. She was featured and interviewed in the documentary _Obsession_ and she's also been in others. Portalea was also there—he’s one of the great old milongueros who danced in _Tango, Baile Nuestro_. In the film, he is interviewed at home, and also at the cemetery where he worked for tips by cleaning up the graves. He looked a bit frail (and I am told he is almost blind), so he didn’t dance much. But “_El Chino_”, another famous milonguero was also there, and he danced a lot. He is a very tall and elegant dancer who seems to have lost none of his skills. You would recognize him if you have watched many tango films.
 

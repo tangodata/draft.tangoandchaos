@@ -1,11 +1,13 @@
 ---
-title: Boundaries
+title: The Limits of Tango Salon | 2008
+navtitle: Meet the Embrace
 chapter: '06'
 slug: 04_boundaries
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Ground Rules
+# Ground Rules
 **The Limits of Tango Salon**
 
 In this chapter we’ll be talking about some of the specific techniques needed to dance tango. But first, let’s quickly define exactly what it is that we’ll be discussing.

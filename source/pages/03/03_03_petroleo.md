@@ -1,11 +1,14 @@
 ---
 title: Petroleo 1
+navtitle: Petroleo
 chapter: '03'
 slug: 03_petroleo
+parent: 01_search
 nick: 3petroleo
 date: 2006-01-01
 ---
 
+# Petroleo
 ## The Roots of Tango
 
 ![](/3_pics/3petroleo/image1.jpg)

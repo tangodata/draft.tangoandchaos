@@ -1,11 +1,13 @@
 ---
-title: Brat Boy Effect
+title: The Bratboy Effect | 2009
+navtitle: The Bratboy Effect
 chapter: '06'
 slug: 38_bratboyeffect
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Scenes From a Milonga
+# Scenes From a Milonga
 
 Navigation is a difficult subject. The problem is that after you cover a few general rules, it can easily degenerate into a cranky guy (me) telling story after story about bad dancers. It's tempting to go in that direction -- I have enough stories just from the past week alone to fill up the page. But I'm sure most of you have plenty of stories of your own, so I won't bore you with mine. Instead, I'll continue working on my Photoshop skills, and make some more diagrams. (That Pen Tool is driving me crazy). Then, on the next page, we'll present some drills for pivoting and turning that people can use to help curve the paths of their tango dancing.
 

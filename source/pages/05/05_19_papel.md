@@ -1,11 +1,13 @@
 ---
 title: Mystery couple tango video | 2007
+navtitle: "Video 3: Mystery Couple"
 chapter: '05'
 slug: 19_papel
+parent: 01_video
 date: 2006-01-01
 ---
 
-## Sharing Tango
+# Sharing Tango
 
 > _"A foolish consistency is the hobgoblin of little minds"_
 > -- Ralph Waldo Emerson

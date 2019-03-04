@@ -1,13 +1,13 @@
 ---
-title: Basicnav
+title: Tango Navigation part 1 | 2009
+navtitle: Basic Navigation
 chapter: '06'
 slug: 34_basicnav
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Tango Navigation (Part I)
-
-The Basics
+# Tango Navigation (Part I) The Basics
 
 Navigation is the ultimate tango skill. To do it well, you need to be aware of everything around you. You must be able to change direction instantly without losing your partner, your technique ... or the music. Just like flying an airplane, the more hours you spend at it, the better you'll become. Over time, you'll begin to absorb thousands of micro-experiences that can't be taught, and like an experienced pilot, you'll begin to anticipate and respond to things that people with less experience might not even see.
 
@@ -19,13 +19,13 @@ The first step toward good navigation is simply making a commitment not to bothe
 
 Putting limits on your dancing may not sound like fun, but it actually is. I didn’t realize it at first, but dancing more carefully made me much better. I began to express the music with more subtlety and richness. Let's jump back to the flying analogy: Anyone can go up in a plane on a clear day and do aerobatics. You can take a beginner up, and in half an hour teach him or her how to yank and bank through loops, wingovers, and rolls. But learning to fly with precision and control in order to do something like formation flying, or landing on an aircraft carrier, is a whole other world. In a sense, it's like good tango. You do less -- that is, you don't yank and bank the plane around as much -- but working within such strictly defined limits eventually becomes a hundred times more satisfying than just flying around in empty sky. So you might think of it this way: We don't want to be Bozo's who've learned how to do a few stunts, but can’t actually control an airplane. We want to seek out challenges. We want to be precise, professional aviators who know the limits and fly with control. Let's begin with three basic concepts.
 
-**Three Rules of the _Pista_**
+## Three Rules of the _Pista_
 
 1. Know how to use the 3 kinds of space on the floor.
 2. The _ronda_ has the right-of-way.
 3. Drift counterclockwise, and "split the difference".
 
-MySpace
+## MySpace
 (Or... Fun With Photoshop)
 
 There are three basic kinds of space on the floor: Free Space, Shared Space, and MySpace. MySpace is the space you're entitled to dance in without worrying about anyone else. When it's very crowded, the space you and your partner "own" shrinks down to about this size**:**

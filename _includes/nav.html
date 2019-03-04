@@ -1,0 +1,76 @@
+<nav role="navigation" aria-label="Main navigation">
+  <b>Navigate Here</b>
+  <ul class="navigation-list">
+    {% assign pages_list = site.html_pages | sort:"chapter/slug" %}
+    {% for node in pages_list %}
+      {% unless (node.navtitle == nil) or node.nav_exclude %}
+
+        {% if node.parent == nil %}
+          <li class="navigation-list-item{% if page.url == node.url or page.parent == node.slug or page.grand_parent == node.slug %} active{% endif %}">
+
+            {% if page.parent == node.slug or page.grand_parent == node.slug %}
+              {% assign first_level_url = node.url | absolute_url %}
+            {% endif %}
+
+            <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">
+              {% if node.chapter != nil %}
+                {{ node.chapter }} -
+              {% endif %}
+              {{ node.navtitle }}
+              {% if node.subtitle != nil %}
+                <br><small>{{ node.subtitle }}</small>
+              {% endif %}
+            </a>
+
+            {% if node.has_children %}
+              {% assign children_list = site.html_pages | sort:"chapter/slug" %}
+              <ul class="navigation-list-child-list ">
+                {% for child in children_list %}
+                  {% unless (child.navtitle == nil) or child.nav_exclude %}
+
+                    {% if child.parent == node.slug %}
+                      <li class="navigation-list-item {% if page.url == child.url or page.parent == child.slug %} active{% endif %}">
+
+                        {% if page.url == child.url or page.parent == child.slug %}
+                          {% assign second_level_url = child.url | absolute_url %}
+                        {% endif %}
+
+                        <a href="{{ child.url | absolute_url }}" class="navigation-list-link{% if page.url == child.url %} active{% endif %}">
+                          {{ child.navtitle }}
+                        </a>
+
+                        {% if child.has_children %}
+                          {% assign grand_children_list = site.html_pages | sort:"chapter/slug" %}
+                          <ul class="navigation-list-child-list">
+
+                            {% for grand_child in grand_children_list %}
+                              {% unless (grand_child.navtitle == nil) or grand_child.nav_exclude %}
+                                {% if grand_child.parent == child.slug %}
+                                  <li class="navigation-list-item {% if page.url == grand_child.url %} active{% endif %}">
+                                    <a href="{{ grand_child.url | absolute_url }}" class="navigation-list-link{% if page.url == grand_child.url %} active{% endif %}">
+                                      {{ grand_child.navtitle }}
+                                    </a>
+                                  </li>
+                                {% endif %}
+                              {% endunless %}
+                            {% endfor %}
+
+                          </ul>
+                        {% endif %}
+
+                      </li>
+                    {% endif %}
+
+                  {% endunless %}
+                {% endfor %}
+
+              </ul>
+            {% endif %}
+
+          </li>
+        {% endif %}
+
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</nav>

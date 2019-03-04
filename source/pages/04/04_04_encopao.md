@@ -1,11 +1,13 @@
 ---
 title: El Encopao | 2007
+navtitle: El Encopao
 chapter: '04'
 slug: 04_encopao
+parent: 01_music
 date: 2006-01-01
 ---
 
-## “_El Encopao_ ”
+# “_El Encopao_ ”
 "The Drunk "
 
 This is one of the dark tangos. The word “_copa_” means “cup”, so “_El Encopao_” is a man who takes too many cups ... a drunk. It’s about someone who has given up; someone who doesn’t care what anyone else thinks. Rodriguez’ orchestra begins with the melody, using the piano to mark the _compás_. The bandoneons and strings play around the piano’s strong cadence, which should help you get warmed up and solidly into the music with your partner. Then Moreno begins in a voice that sounds almost like a cry of pain -- a lost man, sitting alone with his alcohol:

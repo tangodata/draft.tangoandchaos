@@ -1,9 +1,12 @@
 ---
 title: Alito- the joy of tango| 2007
+navtitle: "Video 11: Alito"
 chapter: '05'
 slug: 28_alito
+parent: 01_video
 date: 2006-01-01
 ---
+# Alito
 
 ## The Joy of Tango
 

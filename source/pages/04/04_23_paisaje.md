@@ -1,11 +1,13 @@
 ---
 title: Paisaje |  2009
+navtitle: Paisaje
 chapter: '04'
 slug: 23_paisaje
+parent: 01_music
 date: 2006-01-01
 ---
 
-## _"Paisaje_"
+# _"Paisaje_"
 "Landscape Painting"
 
 What a fascinating thing -- the way art can mysteriously transform something and give it a new nature. What is this process that makes things more than what they are? Letters on a piece of paper, or colors on a canvas, or movements around a room somehow become more than just words or colors or physical movements. And music may be the most mysterious transformation of all.

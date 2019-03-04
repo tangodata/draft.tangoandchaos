@@ -1,12 +1,14 @@
 ---
-title: Efficient and natural tango
+title: Efficient and natural tango | 2005
+navtitle: Natural Tango
 chapter: '02'
 slug: 07_natural
+parent: 01_secrets
 nick: 7natural
 date: 2005-04-07
 ---
 
-## Natural Tango
+# Natural Tango
 
 The lesson in these pictures is that although the very best dancers move in an infinite variety of ways, they all demonstrate surprisingly similar body positions. Why is it that the best dancers always look so similar when captured by the camera? Their styles differ a lot from each another, and from dance to dance as well -- and yet they always seem to return to the same places. Did they all go to the same classes? The answer, I think, is that after years of dancing in the milongas, the best ones have all evolved into the most efficient positions.
 

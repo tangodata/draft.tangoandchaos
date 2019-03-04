@@ -1,12 +1,14 @@
 ---
-title: The owners of the music
+title: The owners of the music | 2005
+navtitle: The Owners of the Music
 chapter: '02'
 slug: 10_owners
+parent: 01_secrets
 nick: 10owners
 date: 2005-04-10
 ---
 
-## The Owners of the Music
+# The Owners of the Music
 
 ![Rosa y Pocho at El Beso](/2_pics/10owners/82.jpg)
 

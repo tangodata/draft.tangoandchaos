@@ -1,12 +1,14 @@
 ---
-title: Stay grounded in tango
+title: Stay grounded in tango | 2005
+navtitle: Grounded
 chapter: '02'
 slug: 13_grounded
+parent: 01_secrets
 nick: 13grounded
 date: 2005-04-13
 ---
 
-## Grounded
+# Grounded
 
 >“If it doesn’t give you goose bumps,  man, you’re not dancing tango”
 >-- _Fino_ in "_Tango, Our Dance_"

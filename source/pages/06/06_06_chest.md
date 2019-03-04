@@ -1,11 +1,13 @@
 ---
-title: Chest
+title: The Chest Connection | 2008
+navtitle: Chest & Hips
 chapter: '06'
 slug: 06_chest
+parent: 01_school
 date: 2006-01-01
 ---
 
-## The Chest Connection
+# The Chest Connection
 
 Once you are comfortable standing tall and centered, with your shoulders down and back, it's time for the next stage. While it may seem simple, we're going to add things fairly rapidly, so remember to always return to the first posture exercises. Try to become aware of all the muscles in your body. Relax each one, until you feel almost ready to collapse. Your shoulders, back, legs, and feet should relax as much as possible, until it seems like only your skeleton and a few muscles are holding you up. Work on staying perfectly balanced over the center of your weight—think of it as being a point somewhere between the arches of your feet, a little in front of your heels. Try to become very aware of your center of balance, and stay right over it. Feel the tiny movements as you move around it.
 

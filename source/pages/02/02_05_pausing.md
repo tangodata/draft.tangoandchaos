@@ -1,12 +1,14 @@
 ---
-title: The art of pausing
+title: The art of pausing | 2005
+navtitle: The Art of Pausing
 chapter: '02'
 slug: 05_pausing
+parent: 01_secrets
 nick: 5pausing
 date: 2005-04-05
 ---
 
-## The Art of Pausing
+# The Art of Pausing
 
 Everyone knows that tango dancing is made up of different ways of moving. In classes, instructors often give all sorts of names to the figures and patterns they teach, and when I first began in tango I thought it was important to memorize the names of the increasingly complex movements I encountered. But later, I found that the people of the milongas actually don’t use a lot of names for dance steps. Milongueros think of tango in a different way. While they discuss the music endlessly, the vocabulary for the mechanics of tango is limited mostly to discussing ways of walking or turning. Turns are called _giros_, and they may use the word “_pisar_” to discuss the way the foot strikes the floor.
 

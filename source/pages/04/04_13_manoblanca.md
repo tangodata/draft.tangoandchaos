@@ -1,11 +1,13 @@
 ---
 title: Manoblanca | 2007
+navtitle: Manoblanca
 chapter: '04'
 slug: 13_manoblanca
+parent: 01_music
 date: 2006-01-01
 ---
 
-## “Manoblanca”
+# “Manoblanca”
 
 This tango is not as well known for dancing as some of the others, but the story is very _porteña_. It’s about a young cart driver (a “_carrerito_”) hurrying across town at the end of the day to his home in _Once_, a commercial district near the center of town. As his horses trot along, he thinks about his girlfriend in _Nuevo Pompeya_, near the banks of the _Riachuelo_ to the south. Homero Manzi describes the “_pinta_” (the dressed up look) of the boy’s decorated clothes, his polished cart, and the way he urges his two horses, _Manoblanca_ and _Porteñito_, up a small hill on the way home. It's a nice mental picture about something a little different in tango… a happy story about youth, energy, and optimism:
 

@@ -1,11 +1,13 @@
 ---
 title: El Chino tango video | 2007
+navtitle: "Video 8: El Chino"
 chapter: '05'
 slug: 24_chino
+parent: 01_video
 date: 2006-01-01
 ---
 
-## El Chino
+# El Chino
 
 This next video is the first one Alej and I had a real disagreement about. I’ve been watching it for about two years, and I’ve learned a lot from it ... but Alej felt that people from outside the milongas wouldn’t be able to see it. She thought they might think it was less interesting or less exciting than the other videos we've put here. She even felt that some people would think the dancing wasn’t as “good” as the others.
 

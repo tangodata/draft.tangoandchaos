@@ -1,11 +1,13 @@
 ---
-title: Savormusic
+title: Savoring the Music | 2008
+navtitle: Savoring the Music
 chapter: '06'
 slug: 23_savormusic
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Savoring the Music
+# Savoring the Music
 
 >"_Wow, look at the way they savor the music!_"
 >-- Alejandra, after viewing this video

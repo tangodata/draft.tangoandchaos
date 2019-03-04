@@ -2,6 +2,7 @@
 title: Tango Technique for Women 3
 chapter: '03'
 slug: 16_women
+parent: 01_search
 nick: 16women
 date: 2006-01-01
 ---

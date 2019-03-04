@@ -1,9 +1,13 @@
 ---
 title: Training the eye for tango | 2007
+navtitle: "Video 10: Pocho"
 chapter: '05'
 slug: 26_pocho
+parent: 01_video
 date: 2006-01-01
 ---
+
+# Pocho
 
 ## Training the Eye
 

@@ -1,12 +1,14 @@
 ---
-title: Tango and soccer
+title: Tango and soccer | 2005
+navtitle: Quick Feet
 chapter: '02'
 slug: 14_quickfeet
+parent: 01_secrets
 nick: 14quick_feet
 date: 2005-04-14
 ---
 
-## Quick Feet
+# Quick Feet
 
 Tango and also soccer are a little like basketball in some of the inner city neighborhoods in the U.S., because there was a time when they were almost the only forms of recreation available to many young men. And in the working class barrios of Buenos Aires, there is still a strong connection between soccer and tango. The streets and vacant lots of BsAs are full of kids kicking soccer balls around, and there are large _fútbol_ stadiums everywhere in the city. A friend who is with the San Lorenzo Fútbol Club told me that Buenos Aires has an incredible 18 professional teams, which is about equal to all of the _fútbol_ teams in most European countries. So it’s natural that the quick feet and natural balance of many great tango dancers were developed on the _canchas de fútbol_ in the BsAs neighborhoods.
 

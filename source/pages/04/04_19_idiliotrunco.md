@@ -1,11 +1,13 @@
 ---
 title: Idilio Trunco (vals) |  2009
+navtitle: Idilio Trunco
 chapter: '04'
 slug: 19_idiliotrunco
+parent: 01_music
 date: 2006-01-01
 ---
 
-## _"Idilio Trunco"_
+# _"Idilio Trunco"_
 **"End of the Affair"**
 
 This is one of the greatest of the great Castillo _valses_. I remember some milongueros singing along with it at a party a few years ago, and Miguel Balbi, who sings tango in clubs, kept repeating the last line: _"No hay NADA entre nosotros ... ANDATE por favor!"_

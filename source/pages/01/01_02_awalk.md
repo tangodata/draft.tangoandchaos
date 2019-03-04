@@ -1,11 +1,13 @@
 ---
-title: Walking to Chacarita
+title: Walking to Chacarita | 2001
+navtitle: I Take A Walk
 chapter: "01"
 slug: 02_awalk
+parent: 01_index
 date: 2001-12-17
 ---
 
-## I Take a Walk
+# I Take a Walk
 
 **Mon Dec 17, 2001 6:11:**
 I am almost out of cash.

@@ -1,7 +1,9 @@
 ---
-title: If you can't see it, you can't dance it
+title: If you can't see it, you can't dance it | 2005
+navtitle: Walking a Tightrope
 chapter: '02'
 slug: 03_walking
+parent: 01_secrets
 nick: 3basics
 date: 2005-04-03
 ---

@@ -2,6 +2,7 @@
 title: The Ascent of Tango 2
 chapter: '03'
 slug: 10_ascent
+parent: 01_search
 nick: 10ascent
 date: 2006-01-01
 ---

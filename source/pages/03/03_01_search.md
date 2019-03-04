@@ -1,12 +1,17 @@
 ---
-title: Search for Modern Tango
+permalink: /03/
+section: Chapter 3 | Searching for the Modern Style
+title: All the Meat on the Fire | 2006
+navtitle: Searching for the Modern Style
+subtitle: A brief history and some women's technique
 chapter: '03'
 slug: 01_search
 nick: 1search_title
 date: 2006-01-01
+has_children: true
 ---
 
-## All the Meat on the Fire
+# All the Meat on the Fire
 
 >_"In the milonga everybody sees everything"_
 

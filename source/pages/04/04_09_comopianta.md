@@ -1,9 +1,12 @@
 ---
 title: Como se Pianta la Vida | 2007
+navtitle: Como se Pianta la Vida
 chapter: '04'
 slug: 09_comopianta
+parent: 01_music
 date: 2006-01-01
 ---
+# Como Se Pianta la Vida
 
 ## The World of the Skulls
 

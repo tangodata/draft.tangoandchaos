@@ -1,7 +1,9 @@
 ---
 title: A giro is a corrida in one spot | 2007
+navtitle: "Video 7: Gerard, Tito, & Alej"
 chapter: '05'
 slug: 23_giros
+parent: 01_video
 date: 2006-01-01
 ---
 

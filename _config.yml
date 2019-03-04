@@ -10,8 +10,8 @@ author:
 
 #============= THEME ======================
 #theme: jekyll-theme-modernist
-#remote_theme: pmarsceill/just-the-docs
-remote_theme: pawamoy/jekyll-readthedocs
+remote_theme: pmarsceill/just-the-docs
+#remote_theme: pawamoy/jekyll-readthedocs
 permalink: pretty
 color_scheme: nil
 aux_links:
@@ -33,10 +33,10 @@ aux_links:
 #plugins: [jekyll-paginate-v2]
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-mentions
-  - jekyll-redirect-from
-  - jemoji
+  #- jekyll-feed
+  #- jekyll-mentions
+  #- jekyll-redirect-from
+  #- jemoji
   #- jekyll-seo-tag
   #- jekyll-avatar
 

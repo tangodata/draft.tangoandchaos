@@ -1,12 +1,14 @@
 ---
-title: Sunderland
+title: Sunderland | 2001
+navtitle: Sunderland
 chapter: "01"
 slug: 03_sunderland
+parent: 01_index
 nick: 3sunderland
 date: 2001-12-19
 ---
 
-## Sunderland
+# Sunderland
 
 >"Those ‘potranca’ girls, they got you crazy!" -- Malena
 

@@ -1,11 +1,13 @@
 ---
-title: Walking
+title: How to Walk Tango | 2008
+navtitle: "Walking: The Big Casino"
 chapter: '06'
 slug: 10_walking1
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Walking (Part I)
+# Walking (Part I)
 
 >"You must work very hard to become a natural golfer."
 >-- Gary Player

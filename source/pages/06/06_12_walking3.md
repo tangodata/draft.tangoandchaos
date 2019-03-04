@@ -1,13 +1,13 @@
 ---
-title: Walking
+title: Harmonic Motion in Walking | 2008
+navtitle: Physics & Harmony
 chapter: '06'
 slug: 12_walking3
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Walking (Part III)
-
-**Harmonic Motion**
+# Walking (Part III) Harmonic Motion
 
 The term "_dos por cuatro_" is so important that they sometimes use it in the clubs instead of saying "tango". But while _Dos por cuatro_ is part of the great mythology of tango, it's really nothing more than a strong beat followed by a weaker one. The beat in tango is called the _compás_, and the most important job of all in tango dancing is finding a way to physically express the _compás_. So let’s think about this for a moment:
 

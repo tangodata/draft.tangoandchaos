@@ -1,7 +1,9 @@
 ---
-title: Mixed up
+title: All Mixed up | 2008
+navtitle: Mixed Up
 chapter: '06'
 slug: 32_mixedup
+parent: 01_school
 date: 2006-01-01
 ---
 
@@ -13,7 +15,7 @@ In a way, performing and teaching are the same things. Most tango teachers perfo
 
 While a performer is free to do whatever he or she wants, a milonguero is not. Anyone who goes to a milonga has a duty to understand tango -- and that means understanding the important differences between a performance, and real tango. A social dancer in the milongas (a milonguero) has three obligations:
 
-**Obligations of a Milonguero**
+## Obligations of a Milonguero
 
 1. To faithfully express the music by trying to understand the message of each tango, and to express it as closely as possible by moving to the melody and cadence.
 
@@ -23,7 +25,7 @@ While a performer is free to do whatever he or she wants, a milonguero is not. A
 
 Of course, most performers don't ignore all of these elements. They pick and choose from a mix of tango-like things in order to create an interesting show or class. While the result isn't really tango, it is tango-_ish_, and it can be misleading for students who want to learn to dance in a milonga. So on this page we’ll review some of the videos from the previous pages. We’ll compare them, and we’ll try to grade them objectively to see which ones meet the standards of traditional social tango we listed above. I’m not sure how it will turn out, but our goal will be to separate the tango from the tango_ish_.
 
-_Fantasía_
+## _Fantasía_
 
 The Copes video is almost pure _tango fantasía_. He exercises his right as a performer to ignore the rules of social tango—with one exception. He and his partner express the melody of the music by moving around the stage so well that it looks as if they're conducting the string section of the orchestra with their bodies. By following the melody, they are complying with the first rule (musical expression)—but only with part of it.
 
@@ -91,7 +93,7 @@ Here's the Paiva video again, for those who want to review it:
 
 The Copes and the Paiva performances are similar in several ways. Both have selected instrumental tangos, both do a great job moving to the melody, and both dance in the _compás_ without really expressing it creatively. Paiva's positioning of his partner off to his right side at an angle, and his weight-back posture make it difficult for him to do runs of quick steps -- so just like Copes, he selects slow music, and expresses the _compás_ by stepping slowly on the strong beats. I would give him half a Musical Expression point for using the melody but not the _compás_, and I would give half a Navigation point, because he does a little improvised leading. As far as respecting the traditions of tango, I would deduct a point for doing planned figures, for keeping his weight back, and for not doing _corridas_ to express the _compás_. But I would give back half a Tradition point for having a unique style (something that's respected by milongueros), and for being able to use it in the milongas without bothering other people. Score: 1.5 points out of 3.
 
-_Tango Familiar_
+## _Tango Familiar_
 
 The Pugliese video is more difficult. Esther and Pablo are from different generations -- and so is their dancing -- so we'll look at them separately. Esther's dancing is an example of the kind of tango that was common in the neighborhood milongas 50 years ago, and it still exists today in many of the barrio clubs. Like all tango, it's a product of its environment. The neighborhoods of Buenos Aires are filled with places that are a combination of athletic club and social club. They usually have a small restaurant, and spaces for meetings, sports, and dancing. There is a tradition in the barrios called _Salida del Sabado_, which means dressing up and going out to the local club on Saturday night for dinner and dancing. All over Buenos Aires, hard working people look forward to it. The men get haircuts, and the women put on their best dresses to go out, have dinner, and dance tango. Most of them are experienced dancers who were raised with the music, but they aren't milongueros. They are weekend dancers who may take their children and parents along, and dance in front of them -- so they maintain a certain amount of decorum. This is G-rated, family dancing. Like Pablo and Esther, they maintain a bit of separation. And like Esther, they maintain an upright posture, and step into the floor. But rather than using the curved _corridas_ that are common in a closer embrace, they tend to express the music mostly with their legs and feet. The result is the kind of dignified look you would expect in clubs and private parties where married couples dance together in front of family members. This tango is still common today, and Esther displays a polished version of it. For Musical expression she gets 1.0 (look at how precisely she sets her feet on the _compás_). (Navigation is not applicable for a woman.) For Tradition, I give 0.5 (half point deducted for stopping and separating for choreography). Score: 1.5 points out of 2.
 
@@ -106,7 +108,7 @@ One other thing. Pablo takes huge steps -- and step length in tango is directly 
 
 Ultimately, Pablo walks in the _compás_, but he doesn't really use it. Although neither Copes nor Paiva use the traditional step of a milonguero, they make great use of up and down movement. Notice how Paiva reaches out, and then rises up over his leg to follow the surge of the orchestra. But Pablo flows like water. He absorbs so much natural movement, that the dancing seems detached from the _compás_ and the melody. It's pretty, but it's too cool for the music. It's good dancing, but it's not good _tango_ dancing. There's no _street_ in it. Musical expression: 0. Navigation: 0.5 (half point for leading a little, but too much high-velocity walking). Respecting traditions of tango: 0. (Leg throwing, choreography, and walking large.) Score: 0.5 out of 3.
 
-_Pollo Loco_
+## _Pollo Loco_
 
 After I posted the videos of the Puglieses and Tete dancing to _Pollo Ricardo_, I got an email from Derrick del Pilar, in Berkeley California. He obviously has a good ear for tango, because he noticed that there was another video in Chapter 5 with Di Sarli's _Pollo Ricardo,_ and he suggested we compare it to the other two. So the Puglieses are above, next we'll put Tete's _Pollo Ricardo_, and then we'll do the one from Chapter 5:
 

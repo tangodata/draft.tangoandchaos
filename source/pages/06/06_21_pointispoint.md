@@ -1,11 +1,13 @@
 ---
-title: Point is Point
+title: Tango Dancing from the Center | 2008
+navtitle: The Point is the Point
 chapter: '06'
 slug: 21_pointispoint
+parent: 01_school
 date: 2006-01-01
 ---
 
-## The Point is the Point
+# The Point is the Point
 
 The key to dancing well in a crowded milonga is to adjust the way you think. If you try to dance tango by doing steps and following a pattern on the floor, or if you approach tango as a series of moves that require pausing to do figures, you'll be constantly frustrated. Rather than thinking about tango in terms of moves and patterns, I think it's better to try focusing on a single point in the middle of the chest. This is the spot where the man sends information to his partner -- and also the spot where she receives it. Good milongueros and milongueras keep their arms and torsos still, and focus everything on this single point at the center of the embrace. But what, exactly, do they do with it?
 

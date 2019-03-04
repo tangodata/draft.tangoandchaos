@@ -1,11 +1,13 @@
 ---
-title: Walking Revisited
+title: The Ministry of Walks | 2008
+navtitle: Walking Revisited
 chapter: '06'
 slug: 25_walkingrevisited
+parent: 01_school
 date: 2006-01-01
 ---
 
-## Walking Revisited
+# Walking Revisited
 
 ![](/6_pics/photos/SillyWalkFig2.jpg)
 

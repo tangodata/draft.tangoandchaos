@@ -1,11 +1,13 @@
 ---
 title: Suerte Loca | 2007
+navtitle: Suerte Loca
 chapter: '04'
 slug: 12_suerteloca
+parent: 01_music
 date: 2006-01-01
 ---
 
-## “Suerte Loca”
+# “Suerte Loca”
 
 > "...to win, first I had to lose"_
 

@@ -1,16 +1,17 @@
 ---
 permalink: /02/
-title: Secrets of the milongueros
+section: Chapter 2 | Secrets of the Milongueros
+title: Secrets of the milongueros | 2005
+navtitle: Secrets of the Milongueros
+subtitle: An Introduction to Argentine Tango
 chapter: '02'
 slug: 01_secrets
 nick: 1secrets_title
 date: 2005-02-18
-#nav_order:
-has_children: yes
-#layout: default
+has_children: true
 ---
 
-## What a Long Strange Trip It's Been
+# What a Long Strange Trip It's Been
 
 > “And you may find yourself in another part of the world...
 > And you may find yourself behind the wheel of a large automobile.
