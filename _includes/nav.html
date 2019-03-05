@@ -17,9 +17,11 @@
                 {{ node.chapter }} -
               {% endif %}
               {{ node.navtitle }}
-              {% if node.subtitle != nil %}
+              <!--
+              { % if node.subtitle != nil % }
                 <br><small>{{ node.subtitle }}</small>
-              {% endif %}
+              { % endif % }
+              -->
             </a>
 
             {% if node.has_children %}

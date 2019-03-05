@@ -1,4 +1,5 @@
 ---
+layout: entry
 permalink: /
 chapter: "00"
 title: Home
@@ -30,6 +31,11 @@ Table of Content
 
 -----
 
+## Generated Navigation List
+{% include toc.html %}
+
+
+-----
 
 # Focus on writing good documentation
 {: .fs-9 }

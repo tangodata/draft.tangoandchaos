@@ -3,9 +3,11 @@ description: About Argentine Tango
 keywords: "tango, argentina, dance, culture"
 url: "https://tangodata.github.io"
 baseurl: "/draft.tangoandchaos/"
+res: "/draft.tangoandchaos/source/res"
 author:
   source: "Rick McGarrey"
   markdown: "Kace Ong"
+
 
 
 #============= THEME ======================
@@ -28,6 +30,17 @@ aux_links:
 # Enable or disable the site search
 #search_enabled: true
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "source/pages"
+    values:
+      layout: "default"
 
 #============= EXTENSION  ===================
 #plugins: [jekyll-paginate-v2]
@@ -39,6 +52,8 @@ plugins:
   #- jemoji
   #- jekyll-seo-tag
   #- jekyll-avatar
+  #- jekyll-assets
+
 
 #============= STRUCTURE ===================
 collections:

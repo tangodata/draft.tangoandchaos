@@ -12,12 +12,12 @@ date: 2003-10-22
 
 When I began to train for bike racing 25 years ago I started keeping a training diary, and although there's no longer any real reason to do it, I still keep a daily record of my physical activity. Here's the the entry for Oct. 22, 2003: _"Mendoza centro > base Andes—3.1 med +_ ”  It records a bicycle ride of 3 hours and 6 minutes from downtown Mendoza to the base of the Andes and back at a medium pace. The “+” means there were a few hard pulls on the hills. That pretty much tells the story: cruising along, enjoying the sights and smells of a completely new piece of real estate. Rolling south out of the busy center of town I pass a few locals on old bikes, who would probably think anyone that could afford a car must be crazy to be riding a bicycle. I also pass a few carts that are using _traccion a sangre_. “_Traccion a sangre_” means “blood traction”, or “blood power”, and it is Argentina’s great way of describing the old carts piled with junk or produce that are still pulled by horses. You sometimes even see them on the streets of BsAs, although they are supposed to be illegal there. Somehow they survive in the heavy traffic, and it’s nice to hear them outside your window clopping along the city streets early in the morning \[see _Manoblanca_ in chapter 4\]. I guess you could say I am also traveling by _traccion a sangre_ as I stand up out of the saddle and begin to climb into the foothills, feeling the first bite of lactic acid in my legs and the crisp thin air. The mountains ahead began to get bigger, and bigger, and… BIGGER. _Holy schnikies_\- they are HUGE!
 
-![1](/1_pics/and1.jpg)
-![2](/1_pics/and2.jpg)
-![3](/1_pics/and3.jpg)
-![4](/1_pics/and4.jpg)
-![5](/1_pics/and5.jpg)
-![6](/1_pics/and6.jpg)
+![1]({{site.res}}/1_pics/and1.jpg)
+![2]({{site.res}}/1_pics/and2.jpg)
+![3]({{site.res}}/1_pics/and3.jpg)
+![4]({{site.res}}/1_pics/and4.jpg)
+![5]({{site.res}}/1_pics/and5.jpg)
+![6]({{site.res}}/1_pics/and6.jpg)
 
 If Buenos Aires is the big league of tango, then the Andes are the big league of mountains! Once I am out of town, the highway rises through the arid foothills, following a valley on the left with a river running through it. The water has the milky look of glacial runoff, and it seems to come from a cut in the almost solid wall of the brown front range ahead. These foothills are formidable in their own right, rising steeply several thousand feet above the valley in a wall, broken only by the cut far ahead where the river pours out, and where the highway curves around to the right and disappears. But it is the towering mountains behind the foothills that are so ominous. A huge rock range, covered with snow and glaciers, and wisps of clouds streaming to the north off of the peaks. They are over 20,000 feet! It is beautiful and awe inspiring (and also a bit frightening, if you are going to try to ride over them into Chile in a few days). I wonder if one of them is Aconcagua, the highest mountain in all of North and South America . I suspect not, because on the very poor tourist map I got at the hotel it looks like it must be farther north, around the curve to the right where the river and the highway disappear. It is probably hiding behind the front range, which is now very close.
 
@@ -39,7 +39,7 @@ On the west side of Mendoza is a huge park. Alejandra runs the 2.5k circuit arou
 
 ## "La Gran Aventura"
 
-![The "Caracol", Uspallata Pass](/1_pics/image018.jpg)
+![The "Caracol", Uspallata Pass]({{site.res}}/1_pics/image018.jpg)
 _"Los Caracoles"_
 
 _Entry for day 6: “Mendoza centro > Uspallata. 6.4 Hard”_

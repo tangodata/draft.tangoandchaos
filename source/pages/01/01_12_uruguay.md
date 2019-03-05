@@ -13,7 +13,7 @@ date: 2003-07-30
 
 # Where is Everybody?
 
-_![Yacht Club, Buenos Aires ](/1_pics/yachtclub.jpg)
+_![Yacht Club, Buenos Aires ]({{site.res}}/1_pics/yachtclub.jpg)
 
 **Uruguay, Friday, July 18:** We arrived Friday evening on the _Buquebus_ hydrofoil boat from BsAs, and the contrast with the 24-hour raucous party and automobile demolition derby that is Buenos Aires was immediately apparent. The streets of central Montevideo seemed practically deserted. There were almost no cars, and almost no pedestrians. We saw the same beautiful old buildings BsAs has, but no one was around. We were shuttled to a big hotel on the main plaza that was almost empty. They advertise Montevideo as the safest city in the world, and it may be true. A career in street crime must be difficult when there is no one to rob. Also the few people we did see were old, and the 60-70 year old demographic is not heavily populated with armed robbers.
 

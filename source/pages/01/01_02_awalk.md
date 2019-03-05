@@ -64,7 +64,7 @@ I walked along eating it, and it was incredibly good.
 There were some tough looking guys on the sidewalk, and I got a little cautious.
 When I got close, one of them smiled and said _"Buen provecho!"_ So, instead of mugging me, they wished me good appetite.
 
-![Chacarita](/1_pics/image002.jpg)
+![Chacarita]({{site.res}}/1_pics/image002.jpg)
 Chacarita Cemetery, Buenos Aires
 
 Malik has been giving me this BS story that there is always a lit cigarette in the hand of the statue of Carlos Gardel at his tomb in Chacarita, so I decided to find out.

@@ -79,7 +79,7 @@ Actually, I've never been to a place I like as much as BA.
 _Quiero Buenos Aires!_
 When I get time, I will write some more and tell why.
 
-![Obelisco, Buenos Aires](/1_pics/image008.jpg)
+![Obelisco, Buenos Aires]({{site.res}}/1_pics/image008.jpg)
 A photo of the Obelisco during tango's Golden Age.
 
 **Tue Dec 11, 2001 7:05am** --
@@ -296,5 +296,5 @@ They stopped all flights, and his last email says he is stuck somewhere far to t
 Maybe _Tierra del Fuego_.
 He may now have become the southern most African American on the American continent.
 
-![Antartida](/1_pics/image003.jpg)
+![Antartida]({{site.res}}/1_pics/image003.jpg)
 
