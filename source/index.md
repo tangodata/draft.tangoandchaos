@@ -1,9 +1,8 @@
 ---
-layout: entry
 permalink: /
-chapter: "00"
 title: Home
-description: "Tango And Chaos -- recoded into Jekyll"
+chapter: "00"
+layout: entry
 ---
 
 # Welcome to Tango And Chaos
@@ -12,28 +11,7 @@ _A memoir_
 Table of Content
 {:toc}
 
-
------
-
-Table of Content
-
-- [Chapter 1](/01/)
-
-- [Chapter 2](/02/)
-
-- [Chapter 3](/03/)
-
-- [Chapter 4](/04/)
-
-- [Chapter 5](/05/)
-
-- [Chapter 6](/06/)
-
------
-
-## Generated Navigation List
 {% include toc.html %}
-
 
 -----
 
