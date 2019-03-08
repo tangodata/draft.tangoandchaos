@@ -29,7 +29,8 @@ Stretching tango: Astor Piazzolla
 But there are tangos that have been modified and modernized much more than _Volver._ One of the best even has astronauts in it, and it's played by the man who stretched the music almost to the breaking point. Of course, we’re talking about Astor Piazzolla. Piazzolla was a very talented musician, and he understood tango. He put in his time with Troilo and the other maestros, so whatever you think about him, he knew exactly what he was doing. Let's listen to one of his most interesting pieces. The words were written by Horacio Ferrer, and sung here by Roberto Goyeneche:
 
 **_BALADA PARA UN LOCO_, Astor Piazzolla con Roberto Goyeneche**
-17locogoyeneche.xspf
+{% include playaudio.html
+src='17locogoyeneche' %}
 
 Did you like it?  It’s not for everybody -- but if you listen a few times and learn the words, it may grow on you. It swept through BsAs like a storm in 1969, and I’m told everyone from kids to their grandparents were walking around town humming it ... which is even more interesting to me than the music itself. What does it say about _porteños_? I think it says that BsAs is one of the few cities in the world that truly has it’s own culture.
 
@@ -139,20 +140,46 @@ A classic photo of two _porteño_s over coffee.
 
 What do you think?  Is it? Obviously it isn’t a Golden Age tango (thirty years too late), and it’s certainly not a dance tango (a little _vals compás_, but no _dos por cuatro_). But it is heavy and thoughtful, and _muy, muy porteño_.
 
-There's no pandering to the global pop-culture, here. Ferrer and Piazzolla expect you to know the places in the story. A local _lunfardo_ street word (_"piantao"_) is at the very center of the poem, and you either get it, or you don't. These guys are like Werner Herzog. They're not going to give you a thing. Finally, _Loco_ is being played by Astor Piazzolla on the bandoneon, and sung by Goyeneche ("_El Polaco_") in that intense tango style. And Goyeneche was probably as close to Troilo as anyone could be. So I vote yes.  I think it's a tango -- because it can't really be anything else.
+There's no pandering to the global pop-culture, here.
+Ferrer and Piazzolla expect you to know the places in the story.
+A local _lunfardo_ street word (_"piantao"_) is at the very center of the poem, and you either get it, or you don't.
+These guys are like Werner Herzog.
+They're not going to give you a thing.
+Finally, _Loco_ is being played by Astor Piazzolla on the bandoneon, and sung by Goyeneche ("_El Polaco_") in that intense tango style.
+And Goyeneche was probably as close to Troilo as anyone could be.
+So I vote yes.
+I think it's a tango -- because it can't really be anything else.
 
-There's something haunting about this tango. It triggers a sort of sneaking feeling that reality may not be all it’s cracked up to be. The story is set in our neighborhood, and sometimes when Alej and I are walking along at night, I catch a glimpse the moon ... and it happens! Down it comes, floating between the buildings, and into the street. The traffic lights turn blue, and it rolls down the avenue toward us -- a fat, glowing beach ball, bumping lightly over the roofs of the buses and the taxis.
+There's something haunting about this tango.
+It triggers a sort of sneaking feeling that reality may not be all it’s cracked up to be.
+The story is set in our neighborhood, and sometimes when Alej and I are walking along at night, I catch a glimpse the moon ... and it happens!
+Down it comes, floating between the buildings, and into the street.
+The traffic lights turn blue, and it rolls down the avenue toward us -- a fat, glowing beach ball, bumping lightly over the roofs of the buses and the taxis.
 
 \[Note: There's another very good version of _Loco_ by Amelita Baltar on YouTube. It's the one that was so popular in BsAs 35 years ago.\]
 
 \*\*\*\*
 
-_Bueno. ¡Basta!_  Enough about imaginary street people and rockets to Venus. Lets get our feet back on the ground ... I mean the _pista_ (dance floor). Here are two tangos, and they’re not for thinking. They're for playing loud and dancing.  So ... _vamos_! Right now! Around the room… with or without a partner. It doesn’t matter. Stay in the _compás_, but _DO NOT_ think about your feet. Your body is the music. Have a coffee, or whiskey (or both, if it helps), and crank the volume. Blow out those crappy little speakers on your computer. _GO!_  Remember, don't worry about your feet. Your body _is_ the music ... express it right from the center of your chest, so your partner can feel it!
+_Bueno. ¡Basta!_  Enough about imaginary street people and rockets to Venus.
+Lets get our feet back on the ground ... I mean the _pista_ (dance floor).
+Here are two tangos, and they’re not for thinking.
+They're for playing loud and dancing.
+So ... _vamos_!
+Right now!
+Around the room ... with or without a partner.
+It doesn’t matter.
+Stay in the _compás_, but _DO NOT_ think about your feet.
+Your body is the music.
+Have a coffee, or whiskey (or both, if it helps), and crank the volume.
+Blow out those crappy little speakers on your computer. _GO!_
+Remember, don't worry about your feet.
+Your body _is_ the music ... express it right from the center of your chest, so your partner can feel it!
 
 Two tangos. First Biaggi, and then some transcendent, Golden Age Canaro:
 
 _TWO FOR DANCING_
-17twotangos.xspf
+{% include playaudio.html
+src='17twotangos' %}
 
 \*\*\*\*
 

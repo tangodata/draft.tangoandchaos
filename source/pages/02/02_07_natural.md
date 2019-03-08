@@ -17,14 +17,14 @@ Just as in nature, to  evolve  in tango means to change in response to some outs
 Let s look at some of the specific results of this natural evolution of movement in the milongas. First, the dancers in the following pictures stay straight and centered so that the muscles in the back, legs, ankles, and feet can relax. Forward movement is first led by the upper body... it begins with a slight tipping forward, leading with the chest. This communicates the energy to the follower just before the step is taken, and it allows both partners to remain tall and upright. The torso and upper body of the leader should surge forward and arrive right over the leading leg when it touches the floor, so that all of the weight is instantly transferred onto a straight leg. The result is the classic tango walk surging forward with the music, and stepping solidly into the floor. The couple should flow effortlessly, using the weight of the torso for forward momentum, without excessive pushing from the legs and ankles of the leader.
 
 
-![Cristina y Nestor Serra](/2_pics/7natural/image003.jpg)
-![](/2_pics/7natural/image005.jpg)
-![Alejandra Todaro y Alito](/2_pics/7natural/image004.jpg)
+![Cristina y Nestor Serra]({{site.res}}/2_pics/7natural/image003.jpg)
+![]({{site.res}}/2_pics/7natural/image005.jpg)
+![Alejandra Todaro y Alito]({{site.res}}/2_pics/7natural/image004.jpg)
 
 
-![Alejandra Todaro y Luis Grandona](/2_pics/7natural/image006.jpg)
-![Alejandra Todaro y Tito](/2_pics/7natural/image016.jpg)
-![Ricardo Vidort y Alejandra Todaro](/2_pics/7natural/image017.jpg)
+![Alejandra Todaro y Luis Grandona]({{site.res}}/2_pics/7natural/image006.jpg)
+![Alejandra Todaro y Tito]({{site.res}}/2_pics/7natural/image016.jpg)
+![Ricardo Vidort y Alejandra Todaro]({{site.res}}/2_pics/7natural/image017.jpg)
 Top row: Nestor y Cristina, Julio Duplaa, Alito. Second row: Luis Grandona, Tito, Ricardo Vidort
 
 The milongueros in the pictures above don't move their arms or heads around when they dance. Their shoulders stay down and relaxed, and they keep just enough tension in their arms to maintain a firm embrace. Keeping the head and the arms still is not just for looks. If the head and arms move around, muscles in the torso and legs must tighten to compensate for changes in balance. Unnecessary movement disrupts other parts of the body, as well as the balance of your partner.

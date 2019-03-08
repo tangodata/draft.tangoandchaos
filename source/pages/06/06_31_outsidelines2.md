@@ -26,7 +26,7 @@ Another problem with this chest back posture is that whenever Paiva and his part
 
 /6_videos/PaivaGiro
 
-You may also notice that Paiva's weight is so far back that he isn't grounded enough to actually lead his partner in the _giro_—and she even needs to pull him through part of it! She's obviously practiced it for the performance, but it's not something that would work in a milonga with different partners.
+You may also notice that Paiva's weight is so far back that he isn't grounded enough to actually lead his partner in the _giro_ -- and she even needs to pull him through part of it! She's obviously practiced it for the performance, but it's not something that would work in a milonga with different partners.
 
 This weight-back posture seems to be part of the traditions of stage tango. Virulazo was another famous performer who danced with his weight back. And he also did a highly decorated, partner-assisted _giro_:
 
@@ -36,9 +36,19 @@ Paiva has his own style, and it works well with the slower instrumental tangos t
 
 \*\*\*\*
 
-This video of Orlando Paiva was taken about a year before he died, and it's very nice. He's obviously not that strong, but the balance and the skill are still there. Just as with Copes, I spent some time trying to copy Paiva—but it wasn't planned. Around the time I first became interested in tango, I went to visit my cousin in Los Angeles. One evening I noticed a practica advertised nearby, so I decided to go. When I arrived, the only person there was the organizer. She was an Argentine woman, who was teaching with Paiva at the time. Since there was no one else at the practica, she spent the whole time dancing with me and showing me how he stepped. She had me stand with my weight and chest back, reach gracefully forward with my toe, and then give a little push with my trailing leg to bring my weight forward and up, just like Paiva is doing here. I thought it felt, and looked, pretty sharp. It wasn't that hard to pick up, and it had a very slow, relaxed feel that I liked.
+This video of Orlando Paiva was taken about a year before he died, and it's very nice. He's obviously not that strong, but the balance and the skill are still there. Just as with Copes, I spent some time trying to copy Paiva -- but it wasn't planned.
+Around the time I first became interested in tango, I went to visit my cousin in Los Angeles. One evening I noticed a practica advertised nearby, so I decided to go. When I arrived, the only person there was the organizer.
+She was an Argentine woman, who was teaching with Paiva at the time. Since there was no one else at the practica, she spent the whole time dancing with me and showing me how he stepped.
+She had me stand with my weight and chest back, reach gracefully forward with my toe, and then give a little push with my trailing leg to bring my weight forward and up, just like Paiva is doing here. I thought it felt, and looked, pretty sharp.
+It wasn't that hard to pick up, and it had a very slow, relaxed feel that I liked.
 
-When I left, I felt bad because I'd only paid about five dollars, and ended up with private instruction from an Argentine woman who obviously knew what she was talking about. It was a hundred times better than anything I was getting from other instructors. All they ever did was walk around in circles and demonstrate patterns they had memorized, so I bought a video from her. It was an instructional video with her and Paiva, but I seem to have lost it. I looked for it when I wrote this page, but I guess it's gone. I liked her, because she actually taught the mechanics of movement. You have to be smart to do that—I've run across very few people in tango, who can. Miguel Zotto's old partner Milena Plebs (who teaches a step similar to the one the lady showed me), and Natu (who is an engineer), are two that come to mind.
+When I left, I felt bad because I'd only paid about five dollars, and ended up with private instruction from an Argentine woman who obviously knew what she was talking about.
+It was a hundred times better than anything I was getting from other instructors.
+All they ever did was walk around in circles and demonstrate patterns they had memorized, so I bought a video from her.
+It was an instructional video with her and Paiva, but I seem to have lost it. I looked for it when I wrote this page, but I guess it's gone.
+I liked her, because she actually taught the mechanics of movement.
+You have to be smart to do that -- I've run across very few people in tango, who can.
+Miguel Zotto's old partner Milena Plebs (who teaches a step similar to the one the lady showed me), and Natu (who is an engineer), are two that come to mind.
 
 ## Leveling Tango
 
@@ -67,7 +77,13 @@ Check out this part near the end, where they begin to step in a jerky, robotic w
 
 Esther and Pablo Pugliese moving robotically to part of the music.
 
-They're definitely messing with the traditions of tango—but if you're going to mess around, then that's the way to do it. It's unorthodox, but they pull it off because it's original, their technique is excellent, and most importantly, it's a good interpretation of that small segment of music. It's nice to discover this hidden away in plain sight in this old tape. Who knows where the idea for that little part came from? Maybe they just did it a couple of times, and then forgot about it. If I had to guess, I'd say the idea came from someone who has heard and danced to this bit of Di Sarli about a thousand times. So maybe Mingo or Esther put it in because Pablo was pushing them to try new things. Or maybe they just wanted to keep their son interested in tango.
+They're definitely messing with the traditions of tango -- but if you're going to mess around, then that's the way to do it.
+It's unorthodox, but they pull it off because it's original, their technique is excellent, and most importantly, it's a good interpretation of that small segment of music.
+It's nice to discover this hidden away in plain sight in this old tape. Who knows where the idea for that little part came from?
+Maybe they just did it a couple of times, and then forgot about it.
+If I had to guess, I'd say the idea came from someone who has heard and danced to this bit of Di Sarli about a thousand times.
+So maybe Mingo or Esther put it in because Pablo was pushing them to try new things.
+Or maybe they just wanted to keep their son interested in tango.
 
 When I ordered this tape, it came in the mail along with several others. I hadn't looked at them in years, but the bit of music in the video above reminded me of something on another one of the tapes. It's Tete dancing to the same music, so I thought it might be fun to look at what Tete does with the same little _staccato_ part of Di Sarli's _Pollo Ricardo_. (That name... _Pollo Ricardo!_  Only in tango.)  In a way, this is like the comparison of Copes and Buglione that we did on the last page. It's not exactly fair to compare a performance to spontaneous social dancing, but let's do it anyway, and see what we get:
 

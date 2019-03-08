@@ -19,9 +19,23 @@ In this chapter we'll look more closely at the music. We'll translate some of th
 
 # A Dancer's Guide to the Music
 
-I once asked a friend what it was about tango that grabbed him.  I thought he was an unlikely candidate for tango addiction because he’s an African-American from Philadelphia with an Ivy League degree, and a background drenched in jazz and big-city culture ... but he got hooked nonetheless.  He said, simply, “It’s because the music is so powerful.”
+I once asked a friend what it was about tango that grabbed him.
+I thought he was an unlikely candidate for tango addiction because he’s an African-American from Philadelphia with an Ivy League degree, and a background drenched in jazz and big-city culture ... but he got hooked nonetheless.
+He said, simply, “It’s because the music is so powerful.”
 
-While the language of tango is filled with metaphors and colorful street poetry, its message is usually simple and direct.  And for me, that's a big part of its appeal.  It lacks the “hipness” of today’s culture.  It doesn’t try to hide strong feelings under a layer of irony or cool talk.  Tango just hangs out there, and says exactly what it feels.  It talks about big, strong emotional themes in a very straightforward way.  Look at two of the most popular _valses_ (tango waltzes) in Buenos Aires.  One is _“Desde el Alma”_ and the other is _“Lagrimas y Sonrisas”_ -- both are beautiful and complex pieces of music, but the versions played for dancing have no lyrics.  The only words connected to them are their titles ... but then, with titles like “_From the Soul_”, and “_Tears and Smiles_”, what more needs to be said?  Both are over 90 years old, but people in the milongas dance to them almost every day. They figured out what was important a long time ago, and haven’t seen any reason to corrupt it very much with popular culture (at least not yet).  So in this section we’ll look more closely at the music -- and also at the ways some of the best dancers connect to it in the milongas.  We’ll also try to decode some of the lyrics of the songs… and if we’re lucky, we may even be able to show how the meanings of the lyrics affect the way the milongueros dance.
+While the language of tango is filled with metaphors and colorful street poetry, its message is usually simple and direct.
+And for me, that's a big part of its appeal.
+It lacks the “hipness” of today’s culture.
+It doesn’t try to hide strong feelings under a layer of irony or cool talk.
+Tango just hangs out there, and says exactly what it feels.
+It talks about big, strong emotional themes in a very straightforward way.
+Look at two of the most popular _valses_ (tango waltzes) in Buenos Aires.
+One is _“Desde el Alma”_ and the other is _“Lagrimas y Sonrisas”_ -- both are beautiful and complex pieces of music, but the versions played for dancing have no lyrics.
+The only words connected to them are their titles ... but then, with titles like “_From the Soul_”, and “_Tears and Smiles_”, what more needs to be said?
+Both are over 90 years old, but people in the milongas dance to them almost every day.
+They figured out what was important a long time ago, and haven’t seen any reason to corrupt it very much with popular culture (at least not yet).
+So in this section we’ll look more closely at the music -- and also at the ways some of the best dancers connect to it in the milongas.
+We’ll also try to decode some of the lyrics of the songs ... and if we’re lucky, we may even be able to show how the meanings of the lyrics affect the way the milongueros dance.
 
 By the way, this intimate connection between the milongueros and their music isn't easy to see.  It took hundreds of milongas, and hundreds more hours of looking at film, for me to become aware of it.  Eventually, Alej and I found that after dancing around the milongueros in Buenos Aires every night, we were no longer comfortable in milongas in Europe or the U.S.  At first, we couldn’t put our finger on the problem -- Alej kept saying that foreign milongas felt _“chato”_ (“flat”).
 
@@ -35,7 +49,7 @@ The result is that they aren’t really “expressing” the music -- at least n
 ![Alberto Echague](/4_pics/image05.jpg)
 ![Angel Vargas](/4_pics/image07.jpg)
 Three stars of the milongas: Alberto Castillo, Alberto Echagüe, and Angel Vargas.
-Each has a distinct style… Castillo sings with the snarl of the _arrabal_, Echagüe
+Each has a distinct style ... Castillo sings with the snarl of the _arrabal_, Echagüe
 uses the rapid-fire _lunfardo_ slang of a tough guy from the street, and
 Vargas sings with a smooth, refined, downtown voice.
 

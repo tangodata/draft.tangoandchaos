@@ -18,7 +18,7 @@ Anyway, we have lots of film of the Buenos Aires milongas, so I decided to go th
 /6_videos/ChinoAdorno
 
 Here's _El Chino_ doing a beautiful _adorno_ by making small circular motions with his foot during a _giro_.
-He doesn't do them very often—this is the only one I have on film, and it's the only one he did during this tanda.
+He doesn't do them very often -- this is the only one I have on film, and it's the only one he did during this tanda.
 
 I don't do _adornos_, and I don't especially like to watch them, but the small work of art _El Chino_ inserts into this _giro_ is truly beautiful. He uses it right at the end of the tango as a subtle way of expressing his feeling for the music.
 
@@ -30,7 +30,7 @@ Really want to learn tango?  This is all you need.
 
 If you really want to understand how to dance tango, this is the only video you'll ever need. It's all here. This is what it means to have the music "inside".
 
-There are several different ways to look at it. First, there's the whole picture. Notice Ricardo's upright posture, and the way he keeps his head, arm, and torso still as he surges with the music. Look at the way he slows, pauses, and then accelerates again. Front, back, and side, efficiently using all the available space, and letting the sentiment of the music pull him around the room. Not too much, and not too little—only what he needs to follow the natural flow of the orchestra and the inflection and cadence of Vargas' voice.
+There are several different ways to look at it. First, there's the whole picture. Notice Ricardo's upright posture, and the way he keeps his head, arm, and torso still as he surges with the music. Look at the way he slows, pauses, and then accelerates again. Front, back, and side, efficiently using all the available space, and letting the sentiment of the music pull him around the room. Not too much, and not too little -- only what he needs to follow the natural flow of the orchestra and the inflection and cadence of Vargas' voice.
 
 If you want to dig a little deeper, block out the upper bodies, and concentrate on the feet. Notice the sharp way Ricardo steps into the floor to mark the _compás_. He begins simply, and then adds complexity as he varies the way his foot contacts the floor. Sometimes he freezes for a moment to let Vargas finish a phrase, and then starts a _corrida_ to bring in different combinations of the weak and strong beats. The more I watch this video, the more it seems like Vargas and D'Agostino are following Ricardo's dancing, rather than the other way around. Check it out -- it's like he's conducting the orchestra with his feet.
 
@@ -61,12 +61,14 @@ It doesn't seem like it, but I must have come a long way in tango. When I first 
 
 -----
 
-**Comment by Derrick Del Pilar — June 11, 2008**
+**Comment by Derrick Del Pilar -- June 11, 2008**
 
-The new page on decorating tango makes a good point--why "embellish" social dancing for an audience? I do think that, in the U.S. at least, women aren't comfortable with the thought of _entrega_—of really surrendering to and following the man, so that's why they want to do embellishments, however subtle. It is their way of taking a more "active" participation in the dance. And, if may I be forgiven for saying so, many leaders in U.S. are so far out of the _compás_ and musical expression that toe taps might be the only way a lady who really listens to and feels the music can stay in the music. That's rather sad, actually...but a lady actually said that to me at a milonga in San Francisco this past March.
+The new page on decorating tango makes a good point--why "embellish" social dancing for an audience? I do think that, in the U.S. at least, women aren't comfortable with the thought of _entrega_ -- of really surrendering to and following the man, so that's why they want to do embellishments, however subtle. It is their way of taking a more "active" participation in the dance. And, if may I be forgiven for saying so, many leaders in U.S. are so far out of the _compás_ and musical expression that toe taps might be the only way a lady who really listens to and feels the music can stay in the music.
+That's rather sad, actually ...but a lady actually said that to me at a milonga in San Francisco this past March.
 
-I also think you unintentionally showed how good adornments are "pulled" out of milongueras by the music—there are several in the video of Ricardo and Alej that you didn't mention; the most prominent (and yet subtle) are right when Vargas sings "_Madrecita, yo fui un reo..._" Alej does two quick sharp beats in front of her standing leg before taking the back steps that Ricardo leads. Also, Ofelia does a slightly larger version of that kick after the _giro_ where _El Chino_ does his _rulo_. Totally musical and beautiful and subtle, and so different from the extravagant _paradas_ and caresses we are used to seeing stateside...
+I also think you unintentionally showed how good adornments are "pulled" out of milongueras by the music -- there are several in the video of Ricardo and Alej that you didn't mention; the most prominent (and yet subtle) are right when Vargas sings "_Madrecita, yo fui un reo ..._" Alej does two quick sharp beats in front of her standing leg before taking the back steps that Ricardo leads.
+Also, Ofelia does a slightly larger version of that kick after the _giro_ where _El Chino_ does his _rulo_. Totally musical and beautiful and subtle, and so different from the extravagant _paradas_ and caresses we are used to seeing stateside ...
 
-**Comment by Xiaosong (Shanghai) — July 27, 2008**
+**Comment by Xiaosong (Shanghai) -- July 27, 2008**
 
 Ricardo was a regular sight at my local milonga in London when I first started to dance tango. A sweet little man, albeit a little frail. He didn't dance much but always seemed to be in a good mood. That was when the notion of milonguero entered my mind! Then the news of his death came a year or two later. We played a list of tangos entitled '_viejito_' dedicated to him that week, with most people dancing to it, myself included, without realizing the falling of one of the most brilliant stars in tango. How sad it is that we can only marvel the magic of this giant of tango now on videos!

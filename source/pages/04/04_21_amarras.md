@@ -19,7 +19,8 @@ We just listened to a couple of tangos from 1938, so let’s jump ahead to 1944 
 But the action in this tango takes place in a _recova_. A _recova_ is a sidewalk with the floor of a building extending over the top of it, and arches opening onto the street. _Recovas_ are part of the Spanish Colonial architecture of America, and they still exist in the older parts of BsAs around markets and government buildings -- which is good, because it gives our boatman some gloomy shadows to wander around in as he deals with... what else? Woman trouble:
 
 **_AMARRAS, D'Arienzo con Mauré_**
-amarras.xspf
+{% include playaudio.html
+src='amarras' %}
 
 > _I wander like a tormented shadow
 > in the gloom beneath the recova.
@@ -118,7 +119,8 @@ This is one of a handful of tangos that I got addicted to when I first began dan
 If you like _Amarras_, there's nothing wrong with standing up next to your computer and moving around. Dancing by yourself is a great way to get in touch with the music. We'll copy the music control here, in case you want to try it:
 
 **_AMARRAS, D'Arienzo con Mauré_**
-amarras.xspf
+{% include playaudio.html
+src='amarras' %}
 
 You don't need space or big movements, and you don't need to worry about a partner. A man or a woman can do it, and it doesn't matter at all what it looks like. Do what comes naturally. If you want to swing your arms around a little when Mauré starts to sing, go for it. You can enjoy D'Arienzo's beautiful introduction by simply changing weight back and forth from one foot to the other:
 
@@ -161,13 +163,30 @@ But I think the biggest difference is in Mauré’s voice. It sounds like he mov
 
 How about the piano. Do you hear Biaggi? It sounds like him -- but it can't be, because D'Arienzo fired him in 1938!
 ([See note.](../comments_updates_new.htm#biaggi))
-I'm sure D'Arienzo liked Biaggi's sound, and he may have decided to hire someone to replicate it. But is it the same? Here are two examples of Biaggi playing with his own orchestra after he left D'Arienzo. They're from about the same time that _Amarras_ was recorded:
+I'm sure D'Arienzo liked Biaggi's sound, and he may have decided to hire someone to replicate it.
+But is it the same?
+Here are two examples of Biaggi playing with his own orchestra after he left D'Arienzo.
+They're from about the same time that _Amarras_ was recorded:
 
-_BIAGGI, piano_
-Biaggimix.xspf
+**_BIAGGI, piano_**
+{% include playaudio.html
+src='Biaggimix' %}
 
-The first part is from _Gaucho Sentimiento_, and Biaggi's piano has a sharp, silvery sound. Then, the part at the end is from _Incendio._ In _Incendio_ it sounds like he's attacking the piano. It's like he's driving his fingers down into the keys, and it's so much louder than the rest of the music, that it almost sounds distorted -- as if he's about to overload the old recording equipment.
+The first part is from _Gaucho Sentimiento_, and Biaggi's piano has a sharp, silvery sound.
+Then, the part at the end is from _Incendio._
+In _Incendio_ it sounds like he's attacking the piano.
+It's like he's driving his fingers down into the keys, and it's so much louder than the rest of the music, that it almost sounds distorted -- as if he's about to overload the old recording equipment.
 
-At first, I thought the piano in _Amarras_ sounded like Biaggi, but after listening to these two examples, I can hear a difference. And I'm sure the difference would have been even more dramatic when he was playing live in the milongas. It must have been unforgettable -- the sound exploding straight from the piano, undistorted by the old recordings we hear today; his hands flying; attacking the keys -- literally bringing audiences to their feet. People were staying on the floor to applaud him after the tandas, until finally, D'Arienzo couldn't take it any more, and got rid of him. That's why his _sobre nombre_ was _Manos Brujas_. ("Magic Hands" ... "Wizard Hands".)
+At first, I thought the piano in _Amarras_ sounded like Biaggi, but after listening to these two examples, I can hear a difference. And I'm sure the difference would have been even more dramatic when he was playing live in the milongas.
+It must have been unforgettable -- the sound exploding straight from the piano, undistorted by the old recordings we hear today;
+his hands flying; attacking the keys -- literally bringing audiences to their feet.
+People were staying on the floor to applaud him after the tandas, until finally, D'Arienzo couldn't take it any more, and got rid of him.
+That's why his _sobre nombre_ was _Manos Brujas_. ("Magic Hands" ... "Wizard Hands".)
 
-After Biaggi left D'Arienzo, he took rhythmic _tango picado_ to a new level. The opportunities to play with the _compás_ in his tangos are endless, and for a while, some of his _valses_ were my favorite pieces for dancing. But everything changes. I've become a little older, and more contemplative, and I know more. Some of the Castillo _valses_ have moved up to join them ... and of course there's Vargas ... and Troilo with Fiorentino, and ... well, I guess my list is getting top-heavy. Everything we've discussed so far in this chapter is at the top -- along with about a hundred other tangos as well. The more I dance, and the more I learn, the better it gets. It's great, isn't it?
+After Biaggi left D'Arienzo, he took rhythmic _tango picado_ to a new level.
+The opportunities to play with the _compás_ in his tangos are endless, and for a while, some of his _valses_ were my favorite pieces for dancing.
+But everything changes. I've become a little older, and more contemplative, and I know more.
+Some of the Castillo _valses_ have moved up to join them ... and of course there's Vargas ... and Troilo with Fiorentino, and ... well, I guess my list is getting top-heavy.
+Everything we've discussed so far in this chapter is at the top -- along with about a hundred other tangos as well.
+The more I dance, and the more I learn, the better it gets.
+It's great, isn't it?

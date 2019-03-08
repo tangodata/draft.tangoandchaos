@@ -9,7 +9,7 @@ date: 2006-01-01
 
 ## One Hundred Years of Walking
 
-The first picture below shows how _Petroleo_ opened the embrace, and began to take large forward steps… but he is still hunched forward a bit, in the old style. The next picture shows Todaro. He has straightened up, and moved his shoulders back. He stands in the more upright posture used by modern stage dancers. The best stage performers today stay up, centered, and often separated, which gives them the balance and space necessary for athletic stage moves:
+The first picture below shows how _Petroleo_ opened the embrace, and began to take large forward steps ... but he is still hunched forward a bit, in the old style. The next picture shows Todaro. He has straightened up, and moved his shoulders back. He stands in the more upright posture used by modern stage dancers. The best stage performers today stay up, centered, and often separated, which gives them the balance and space necessary for athletic stage moves:
 
 ![](/3_pics/10ascent/image008.jpg)
 ![](/3_pics/10ascent/image029.jpg)
@@ -37,7 +37,7 @@ The four pictures above are a textbook study of good modern social tango. They r
 > patterns and figures, and then we walked close again.
 > When you danced with a girl you asked first if she only
 > danced tango liso (simple tango), or if she new how to
-> separate to do other steps. Today dancers are better—
+> separate to do other steps. Today dancers are better --
 > they can do the steps without separating.”_
 > -- Nestor Serra
 
@@ -56,7 +56,7 @@ Now let’s look at Todaro:
 ![](/3_pics/10ascent/image035.jpg)
 Todaro's _ocho cortado_.
 
-The picture above shows that Todaro is more upright than _Petroleo_. His legs are straight, so his knees are not blocking his partner’s path. By being up, he creates room for her to pass in front, without needing to bend forward at the waist. But this is still being done with both partners separated—there is some space between their bodies. Now let’s look the _ocho cortado_ of the 21st century milonga:
+The picture above shows that Todaro is more upright than _Petroleo_. His legs are straight, so his knees are not blocking his partner’s path. By being up, he creates room for her to pass in front, without needing to bend forward at the waist. But this is still being done with both partners separated -- there is some space between their bodies. Now let’s look the _ocho cortado_ of the 21st century milonga:
 
 ![](/3_pics/10ascent/Mil20.jpg)
 ![](/3_pics/10ascent/Mil21.jpg)

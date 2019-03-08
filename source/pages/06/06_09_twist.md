@@ -46,5 +46,7 @@ raised about 8 inches above the floor. Let your foot and ankle relax and hang.
 
 Comin' up... we be _learnin' to walk!_
 
+Walk Slo 2
+
 The balance and posture exercises on the last four pages make up
 the basic elements of my walking. Can you spot them?

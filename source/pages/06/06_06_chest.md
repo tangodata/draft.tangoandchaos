@@ -9,9 +9,9 @@ date: 2006-01-01
 
 # The Chest Connection
 
-Once you are comfortable standing tall and centered, with your shoulders down and back, it's time for the next stage. While it may seem simple, we're going to add things fairly rapidly, so remember to always return to the first posture exercises. Try to become aware of all the muscles in your body. Relax each one, until you feel almost ready to collapse. Your shoulders, back, legs, and feet should relax as much as possible, until it seems like only your skeleton and a few muscles are holding you up. Work on staying perfectly balanced over the center of your weight—think of it as being a point somewhere between the arches of your feet, a little in front of your heels. Try to become very aware of your center of balance, and stay right over it. Feel the tiny movements as you move around it.
+Once you are comfortable standing tall and centered, with your shoulders down and back, it's time for the next stage. While it may seem simple, we're going to add things fairly rapidly, so remember to always return to the first posture exercises. Try to become aware of all the muscles in your body. Relax each one, until you feel almost ready to collapse. Your shoulders, back, legs, and feet should relax as much as possible, until it seems like only your skeleton and a few muscles are holding you up. Work on staying perfectly balanced over the center of your weight -- think of it as being a point somewhere between the arches of your feet, a little in front of your heels. Try to become very aware of your center of balance, and stay right over it. Feel the tiny movements as you move around it.
 
-Now, let your body lean slightly forward. The center of balance is somewhere on a line exactly between your feet. Let it move forward a little—maybe from a spot near your heels, to a place more toward the balls of your feet. Do it smoothly and gently, as if a puff of wind pushed against your back. Be aware of how your balance changes**:**
+Now, let your body lean slightly forward. The center of balance is somewhere on a line exactly between your feet. Let it move forward a little -- maybe from a spot near your heels, to a place more toward the balls of your feet. Do it smoothly and gently, as if a puff of wind pushed against your back. Be aware of how your balance changes**:**
 
 ![](/6_pics/stick_man/feetwtfwdW.jpg)
 
@@ -24,7 +24,7 @@ Next, imagine that your chest is being pulled slightly up:
 
 There are a couple of things to think about. As your chest comes forward and up, think about the distance between your chest and your belly button. Try to increase it slightly. Imagine the muscles of your abdomen lengthening and stretching a little. Another thing that helps is to take a deep breath just before each dance. This tends to fill and raise your chest up a bit more, and it gives an "up" feeling to your chest that usually stays with you through the dance.
 
-Also, become aware of a small amount of tension in the front of your shins and the tops of your feet. It shouldn't be uncomfortable, but you should notice it. Finally, and most importantly, remain relaxed and conscious of your center of gravity. Your chest comes up, but your shoulders stay down and relaxed—and the tiny spot of balance between your feet has moved and inch or so along its axis, toward your toes.
+Also, become aware of a small amount of tension in the front of your shins and the tops of your feet. It shouldn't be uncomfortable, but you should notice it. Finally, and most importantly, remain relaxed and conscious of your center of gravity. Your chest comes up, but your shoulders stay down and relaxed -- and the tiny spot of balance between your feet has moved and inch or so along its axis, toward your toes.
 
 If you want to be a good tango dancer, you should think about this a lot. Practice it in front of a mirror, and get used to the way it looks, both from the front, and also from the side. At first it will probably feel unnatural, but if you work at it and do it enough, it will begin to feel unnatural _not_ to do it.
 

@@ -57,7 +57,7 @@ Obviously, I don’t think so. To say that the figures and moves taught in many 
 
 -----
 
-**Comment by Hezy Yushurun (Tel Aviv) — May 19, 2008**
+**Comment by Hezy Yushurun (Tel Aviv) -- May 19, 2008**
 
 The walking demos in chapter 6 are indeed illuminating. I had some teachers (In Israel) who taught the basics of walking along similar lines, but your visualization completely clarifies it.
 
@@ -66,4 +66,6 @@ An association that occurred to me reading your description of the biomechanical
 **Answer**:
 Thanks for the great comment. Sometimes when you present something it’s hard to know whether it’s clear or not, so it’s nice to hear that the walking demos are helpful.
 
-I use lots of sports comparisons (probably too many), but your music analogy is better. As you said, it’s like we only have so much emotional energy, so focusing it all into the musical instrument, or into the place at the center of the embrace where a dancer communicates with his or her partner, can be more powerful than bringing in a lot of other gestures. (I think I just restated what you wrote… only not as well. I should have just said, “Yep”.)
+I use lots of sports comparisons (probably too many), but your music analogy is better.
+As you said, it’s like we only have so much emotional energy, so focusing it all into the musical instrument, or into the place at the center of the embrace where a dancer communicates with his or her partner, can be more powerful than bringing in a lot of other gestures.
+(I think I just restated what you wrote ... only not as well. I should have just said, “Yep”.)

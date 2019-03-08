@@ -13,7 +13,7 @@
 
             <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">
               {% if node.chapter != nil %}
-                {{ node.chapter }} -
+                {{ node.chapter }}.
               {% endif %}
               {{ node.navtitle }}
               <!--

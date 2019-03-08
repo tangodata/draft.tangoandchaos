@@ -16,24 +16,24 @@ Staying centered and relaxed, and stepping solidly into the floor, allows the mi
 
 Here are some random shots of some of the very best of Buenos Aires -- a mixed bag of balanced, efficient, and beautiful dancing. We should enjoy it while we can ... the median age here is almost 70.
 
-![Tete y Alej](/2_pics/9secrets/image001.jpg)
-![Miguel Balbi](/2_pics/9secrets/image005.jpg)
+![Tete y Alej]({{site.res}}/2_pics/9secrets/image001.jpg)
+![Miguel Balbi]({{site.res}}/2_pics/9secrets/image005.jpg)
 
-![Alejandra Todaro y Osvaldo Buglione](/2_pics/9secrets/image007.jpg)
-![Alejandra Todaro y Gerard Gelle](/2_pics/9secrets/image009.jpg)
-![Elba y Blas](/2_pics/9secrets/image011.jpg)
+![Alejandra Todaro y Osvaldo Buglione]({{site.res}}/2_pics/9secrets/image007.jpg)
+![Alejandra Todaro y Gerard Gelle]({{site.res}}/2_pics/9secrets/image009.jpg)
+![Elba y Blas]({{site.res}}/2_pics/9secrets/image011.jpg)
 
-![Alejandra y Alito](/2_pics/9secrets/image013.jpg)
-![Alej y Buglione](/2_pics/9secrets/image015.jpg)
-![Alej y Tito](/2_pics/9secrets/image017.jpg)
+![Alejandra y Alito]({{site.res}}/2_pics/9secrets/image013.jpg)
+![Alej y Buglione]({{site.res}}/2_pics/9secrets/image015.jpg)
+![Alej y Tito]({{site.res}}/2_pics/9secrets/image017.jpg)
 
-![Napo y Lili](/2_pics/9secrets/image019.jpg)
-![](/2_pics/9secrets/image021.jpg)
-![Alejandra y Tete](/2_pics/9secrets/image023.jpg)
+![Napo y Lili]({{site.res}}/2_pics/9secrets/image019.jpg)
+![]({{site.res}}/2_pics/9secrets/image021.jpg)
+![Alejandra y Tete]({{site.res}}/2_pics/9secrets/image023.jpg)
 
-![Oscar Hector](/2_pics/9secrets/image025.jpg)
-![Gerard](/2_pics/9secrets/image027.jpg)
-![Ismael](/2_pics/9secrets/image029.jpg)
+![Oscar Hector]({{site.res}}/2_pics/9secrets/image025.jpg)
+![Gerard]({{site.res}}/2_pics/9secrets/image027.jpg)
+![Ismael]({{site.res}}/2_pics/9secrets/image029.jpg)
 
 Top row: Tete y Alej, Miguel Balbi
 Second row: Osvaldo Buglione y Alej  Gerard Gellé y Alej, Blas y Elba

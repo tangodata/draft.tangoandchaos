@@ -16,7 +16,7 @@ But breaking down biomechanical movement isn't that easy. Things that look simpl
 ![](/6_pics/photos/tomba4W.jpg)
 ![](/6_pics/photos/skierW.jpg)
 Social tango, like skiing, is made up of complex movements that can be broken down
-and practiced separately—the only difference is that skiing is more beautiful.
+and practiced separately -- the only difference is that skiing is more beautiful.
 
 Social tango, however, is more like a ski turn or a golf swing. It consists of biomechanical movements that are performed in "parallel" -- that is, rather than being single moves performed one after another, good tango is made up of several movements performed simultaneously. And what's more, these parallel movements change and evolve into new combinations. The skiers above are frozen in place, but they are concentrating on several different things: They must keep their shoulders quiet, and facing down the hill, their hip must be angulated to the inside of the turn, their hands and arms must be forward and up, while their weight is pressed against the front of the boot, and centered on the outside ski as they ride it through the turn (along with several other more subtle things, all done at 40 mph). And in a few seconds, this set of simultaneous biomechanical tasks will rapidly evolve into a different combination of challenges.
 

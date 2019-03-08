@@ -23,6 +23,8 @@ Now we'll do it with _ticks-tocks_ to mark both the strong and the weak beats. D
 You must always hear both the strong and weak beats of the _compás_ as you dance.
 The _tick-tocks_ on this soundtrack should be going through your head during this pausing exercise.
 
+[[ ,,,,,]
+
 Although it's not too common to link walking pauses, it's an important musical tool to have. Alej and I use them all the time in the milongas when the music calls for it, but it takes a lot of practice to do it well. Remember the basics, and instead of moving right into the next step, slow on the weak beat near your Zero Point, and let a strong-weak pass underneath you before dropping down to pick up the next one.
 
 By the way, how did it go? You probably found it's not as easy as it looks. In fact, it was probably damn hard. Go back and practice the balance exercises, and on the next page we'll go into some more details about stepping that might help.

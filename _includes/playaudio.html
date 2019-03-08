@@ -1,0 +1,22 @@
+{% assign _avsrc = site.data.audios[ include.src ].song %}
+{% capture _xspf %}{{ site.baseurl }}source/res/Audios/Tangos/{{ _avsrc }}{% endcapture %}
+
+<div class="audiobox" style="background-color:#eac;padding:5px 10px;">
+  <a href="{{ _xspf }}"
+  target="_BLANK" alt="{{ _avsrc }}">
+  Click to open XSPF {{ _avsrc }}</a>
+
+  <!-- object
+  width="540" height="16"
+  type="application/x-shockwave-flash"
+  data="xspf_player_slim.swf?playlist_url={{ _xspf }}">
+    <param name="movie"
+    value="xspf_player_slim.swf?playlist_url={{ _xspf }}" />
+  </object -->
+
+  <br>
+
+  <audio src="{{ _xspf }}"
+  controls="controls"></audio>
+
+</div>

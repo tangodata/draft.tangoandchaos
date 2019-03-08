@@ -13,7 +13,8 @@ date: 2006-01-01
 This is one of the dark tangos. The word “_copa_” means “cup”, so “_El Encopao_” is a man who takes too many cups ... a drunk. It’s about someone who has given up; someone who doesn’t care what anyone else thinks. Rodriguez’ orchestra begins with the melody, using the piano to mark the _compás_. The bandoneons and strings play around the piano’s strong cadence, which should help you get warmed up and solidly into the music with your partner. Then Moreno begins in a voice that sounds almost like a cry of pain -- a lost man, sitting alone with his alcohol:
 
 **_EL ENCOPAO_, Rodriguez Orchestra, Armando Moreno singing**
-4encopao.xspf
+{% include playaudio.html
+src='4encopao' %}
 
 > _They say I’m the "Man of the Bottle" ...
 > those who don’t know
@@ -72,7 +73,8 @@ I like the Rodriguez orchestra a lot. It has a very straightforward, driving, _t
 Francisco Fiorentino
 
 **_El Encopao,_ Troilo Orchestra, Francisco Fiorentino singing**
-4encopao2.xspf
+{% include playaudio.html
+src='4encopao2' %}
 
 What do you think? This one’s from the maestro, and to me it sounds more polished. Fiorentino (pictured above) sings more smoothly, and he pauses more. At times he draws out the words, and tends to stray from the strict cadence -- which of course is part of his artistic license. Sometimes the orchestra waits for him, sometimes it goes on ahead, and sometimes the orchestra just seems to go off on its own. And at times, things get a little jumbled up. It’s subtle, but if you can listen to the interplay between Troilo and Fiorentino -- how they separate, and come back together in the cadences, you can use it when you dance. Actually though, they play the Rodriguez’ version more in the milongas -- and I think I prefer it. There’s nothing sweet at all about this tango, and Rodriguez provides a sort of rough rendition for a rough tango.
 
@@ -80,5 +82,8 @@ Rodriguez falls pretty much within the mid-range of what is called _tango picado
 
 A couple of notes on Troilo: Piazzolla used to play in his orchestra, and drove him crazy by making funny noises during performances. He enjoyed seeing _El Gordo_ turn around and glare at the orchestra, looking for the culprit. He finally had to quit when Troilo threatened to fire him ... only to have other orchestra members begin to make noises, and pretend it was him. There is a lot of Troilo music, but the only really danceable tangos with lyrics are the ones with Fiorentino. When other musicians laughed at the super fast cadences D’Arienzo began to play, Troilo told them to shut up. “Without him, we’d all be out of work”, he said.  And while Fiorentino may have been his lead singer for the milongas, Troilo is quoted as saying the best instrument in all of tango is ... the voice of Angel Vargas!
 
-As always, you need to have the basics down cold: posture, step, and cadence. Rodriguez lets you warm up a little up by giving you a clear, strong _dos por cuatro_ in the intro. Feel the story as you dance. Hum along. Step sharply on the strong beats, then work into hitting the weak beats. In Troilo’s version, Fiorentino draws out words, or runs through them quickly, so you need more pausing and swaying. And sometimes you just need to stop and wait for the _compás_ to come back… but that’s okay, because tango isn’t a race. It takes time to get familiar with these differences, and being able to express that difference on the dance floor is advanced tango dancing. But the main thing is to have the music inside… and don’t run into anybody.
+As always, you need to have the basics down cold: posture, step, and cadence. Rodriguez lets you warm up a little up by giving you a clear, strong _dos por cuatro_ in the intro. Feel the story as you dance. Hum along. Step sharply on the strong beats, then work into hitting the weak beats. In Troilo’s version, Fiorentino draws out words, or runs through them quickly, so you need more pausing and swaying.
+And sometimes you just need to stop and wait for the _compás_ to come back ... but that’s okay, because tango isn’t a race.
+It takes time to get familiar with these differences, and being able to express that difference on the dance floor is advanced tango dancing.
+But the main thing is to have the music inside ... and don’t run into anybody.
 

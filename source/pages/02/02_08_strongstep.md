@@ -12,10 +12,10 @@ date: 2005-04-07
 Probably the most remarkable thing about the great milongueros is the strong, effortless way they step. Unlike stage performers, they never reach forward tentatively with the foot, or use a lot of muscle to step onto a bent leg. They know exactly where the floor is, and they step firmly into it. Even the smallest and oldest of them have this powerful, sure step.
 
 
-![Miguel Balbi](/2_pics/8strongstep/image008.jpg)
-![Ricardo Vidort y Alej](/2_pics/8strongstep/image023.jpg)
-![Elba y Blas](/2_pics/8strongstep/image013.jpg)
-![Lucia y Oscar](/2_pics/8strongstep/image024.jpg)
+![Miguel Balbi]({{site.res}}/2_pics/8strongstep/image008.jpg)
+![Ricardo Vidort y Alej]({{site.res}}/2_pics/8strongstep/image023.jpg)
+![Elba y Blas]({{site.res}}/2_pics/8strongstep/image013.jpg)
+![Lucia y Oscar]({{site.res}}/2_pics/8strongstep/image024.jpg)
 (L to R): Miguel Balbi, Ricardo Vidort y Alej, Blas y Elba, Oscar y Lucia
 
 
@@ -24,9 +24,9 @@ How do they do it? Part of it has to do with posture. Having the weight tip forw
 Stepping onto a straight leg does not mean that the legs are never bent. Note in the pictures below how the milongueros push off into their steps. They accelerate strongly, like an athlete running on a playing field.
 
 
-![Tonino](/2_pics/8strongstep/image014.jpg)
-![Oscar y Lucia](/2_pics/8strongstep/image022.jpg)
-![Oscar Hector](/2_pics/8strongstep/image012.jpg)
-![Gerard y Alej](/2_pics/8strongstep/image011.jpg)
+![Tonino]({{site.res}}/2_pics/8strongstep/image014.jpg)
+![Oscar y Lucia]({{site.res}}/2_pics/8strongstep/image022.jpg)
+![Oscar Hector]({{site.res}}/2_pics/8strongstep/image012.jpg)
+![Gerard y Alej]({{site.res}}/2_pics/8strongstep/image011.jpg)
 (L to R): Tonino y Norma, Oscar y Lucia, Oscar Hector, Gerard Gellé y Alej
 

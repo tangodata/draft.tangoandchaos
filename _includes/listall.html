@@ -1,0 +1,28 @@
+<h2>LIST OF AUDIO FILES</h2>
+({{ site.data.audios | size }})
+<ol>
+{% assign cnt = 0 %}
+{% for n in site.data.audios  %}
+  {% assign var = site.data.audios[cnt] %}
+  <li>
+      <b>{{ var.pre }}</b>
+  </li>
+
+{% endfor %}
+</ol>
+
+<h2>LIST OF VIDEO FILES</h2>
+({{ site.data.videos | size }})
+<ol>
+{% assign cnt = 0 %}
+{% for n in site.data.videos %}
+  {% assign var = site.data.videos[cnt] %}
+
+  <li>
+      <b>{{ var.pre }}</b><br>
+      <a href="https://youtu.be/{{ var.ytube }}"
+      target="_BLANK">Youtube {{ var.ytube }}</a>"
+  </li>
+
+{% endfor %}
+</ol>

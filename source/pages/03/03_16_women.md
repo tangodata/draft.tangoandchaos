@@ -11,9 +11,21 @@ date: 2006-01-01
 
 ![Tango: Osvaldo Buglione and Alejandra Todaro at El Beso](/image_files/2bg.jpg)
 
-What sets the very best tango dancers apart? When people in the milongas talk about a great male dancer they almost always mention the way he uses the music. I hesitate to say this here, but the ability to feel and dance to the music is so important that there are men who are considered great dancers even though their technique isn’t especially good. Some of the older milongueros from the barrios don’t really pay a lot of attention to posture, or to the discipline required to step and move elegantly, but they are still respected and admired for the creative way they express each piece of music. It’s not always easy to see past technical flaws—it usually takes several trips through a piece of video to find the art in the cadence and movement that lies beneath.
+What sets the very best tango dancers apart?
+When people in the milongas talk about a great male dancer they almost always mention the way he uses the music.
+I hesitate to say this here, but the ability to feel and dance to the music is so important that there are men who are considered great dancers even though their technique isn’t especially good.
+Some of the older milongueros from the barrios don’t really pay a lot of attention to posture, or to the discipline required to step and move elegantly, but they are still respected and admired for the creative way they express each piece of music.
+It’s not always easy to see past technical flaws -- it usually takes several trips through a piece of video to find the art in the cadence and movement that lies beneath.
 
-While a certain amount of technical sloppiness is forgiven in the best and most creative of the men, women are judged more strictly. The importance of posture and step can’t be overemphasized for women, and, like it or not, a woman who restricts a leader with poor technique will have problems. But does this mean the woman is simply a tango robot whose role is to move with perfect and mindless precision, while the man expresses his creativity? Not at all. It’s true that the man has more options, because the leader decides when and where to step. But the woman decides _how_ she will step, and the very best women can express a world of tango with their feet. \[To put things in perspective, we should note here that we are only discussing the technique of tango -- that is, the body mechanics that can be objectively observed. It’s important to remember that this is only the tip of the iceberg of social tango dancing -- the big part is lurking beneath the surface. The milongueros sometimes use the word “_entrega_” to describe it, and both the man and the woman contribute equally to the _entrega_ of tango. We’ll discuss it later.\]
+While a certain amount of technical sloppiness is forgiven in the best and most creative of the men, women are judged more strictly.
+The importance of posture and step can’t be overemphasized for women, and, like it or not, a woman who restricts a leader with poor technique will have problems.
+But does this mean the woman is simply a tango robot whose role is to move with perfect and mindless precision, while the man expresses his creativity?
+Not at all. It’s true that the man has more options, because the leader decides when and where to step.
+But the woman decides _how_ she will step, and the very best women can express a world of tango with their feet.
+\[To put things in perspective, we should note here that we are only discussing the technique of tango -- that is, the body mechanics that can be objectively observed.
+It’s important to remember that this is only the tip of the iceberg of social tango dancing -- the big part is lurking beneath the surface.
+The milongueros sometimes use the word “_entrega_” to describe it, and both the man and the woman contribute equally to the _entrega_ of tango.
+We’ll discuss it later.\]
 
 So the mark of a great woman tango dancer is how she steps. The first thing people say about a great woman dancer is that she has great feet. What does that mean? Well, it’s difficult to explain. It’s like trying to describe the way a great painter uses a brush, or the way a concert pianist touches the keys. But here are a couple of things to think about.
 

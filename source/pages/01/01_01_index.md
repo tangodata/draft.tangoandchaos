@@ -18,7 +18,7 @@ has_children: true
 > They describe my adventures and struggles while trying to learn tango in the old dance halls and clubs of Buenos Aires.
 > Those of you who make the long scroll through these pages will see that, as often happens in life, I got much more than I bargained for when that beautiful city began to unravel.
 > Those who want to jump directly to the dramatic events of December 19 that changed Argentina, [click here](/01/06_bigtrouble).
-> Everything that follows is true, except for the name “Malena”, which is made up to protect a friend's privacy.  -- Rick McGarrey, Dec. 30, 2001
+> Everything that follows is true, except for the name "Malena", which is made up to protect a friend's privacy.  -- Rick McGarrey, Dec. 30, 2001
 
 # A Report From the Heart of Tango
 
@@ -217,7 +217,7 @@ All of the tango clichés, "feel the music", "learn to walk", "take care of the 
 Unfortunately for me the unstoppable confidence roller coaster races on.
 One moment I'm the Baron of Buenos Aires, the next I'm afraid to get back on the floor -- stumbling and clumsy.
 Shakespeare, brilliant and cynical:
-I “strut and fret” through tango.
+I "strut and fret" through tango.
 I strut and fret through a life "full of sound and fury, signifying nothing".
 There are good dances, okay dances, and bad dances.
 And then there are the disasters where I actually break into a nervous flop sweat before they are over, struggling and claustrophobic on the crowded floor, smiling nervously at some disappointed Argentine woman as I slink away.

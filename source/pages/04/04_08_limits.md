@@ -30,18 +30,31 @@ _YES!_  These guys knew what they were doing! The sharp spikes in the top graph 
 Here are the last two graphs (I promise):
 
 ![Tango wave graph: Quejas de Bandoneon](/4_pics/8limits/image014.jpg)
-The waveforms of Troilo’s _Quejas de Bandoneon_ are almost chaotic…
+The waveforms of Troilo’s _Quejas de Bandoneon_ are almost chaotic ...
 which shows why it’s so difficult to dance to!
 
 ![Tango wave graph: La Yumba](/4_pics/8limits/image015.jpg)
 Finally, here is Pugliese’s masterpiece, _La Yumba_.
 
-The complex challenge of dancing to Troilo’s _Quejas_ is revealed in the top graph, while the bottom graph shows that Pugliese was the maestro of hard-soft. His music contrasts the cadences of traditional tango with the more complex use of strings and piano that was pioneered by De Caro. The graph of _La Yumba_ above illustrates this very clearly: hard bursts of sound on the left, softer sounds on the right, and then some alternating and mixing toward the end. Notice how high Pugliese’s cadences spike on the left half of the graph, which indicates how intensely he marks the compás. D’Arienzo may have achieved the longest consistent run of pure cadence in _El Cencerro_, but Pugliese probably attained the sharpest, most intense cadences in _La Yumba_.
+The complex challenge of dancing to Troilo’s _Quejas_ is revealed in the top graph, while the bottom graph shows that Pugliese was the maestro of hard-soft.
+His music contrasts the cadences of traditional tango with the more complex use of strings and piano that was pioneered by De Caro.
+The graph of _La Yumba_ above illustrates this very clearly: hard bursts of sound on the left, softer sounds on the right, and then some alternating and mixing toward the end.
+Notice how high Pugliese’s cadences spike on the left half of the graph, which indicates how intensely he marks the compás.
+D’Arienzo may have achieved the longest consistent run of pure cadence in _El Cencerro_, but Pugliese probably attained the sharpest, most intense cadences in _La Yumba_.
 
-The first time I went to Buenos Aires I watched _Los Reyes de Tango_ perform _La Yumba_ in a milonga. I was standing to the side of the orchestra, looking down the front row of five bandoneonistas, and I’ll always remember it. They were bobbing, rocking, jumping, twitching, sweating, and pounding away -- putting everything they had into giving Pugliese what he wanted. They were working so hard that they looked more like laborers laying railroad track than musicians.
+The first time I went to Buenos Aires I watched _Los Reyes de Tango_ perform _La Yumba_ in a milonga.
+I was standing to the side of the orchestra, looking down the front row of five bandoneonistas, and I’ll always remember it.
+They were bobbing, rocking, jumping, twitching, sweating, and pounding away -- putting everything they had into giving Pugliese what he wanted.
+They were working so hard that they looked more like laborers laying railroad track than musicians.
 
-If you listen to the old _guardia vieja_ tangos, you should find that their cadences were a little slower and softer than the ones used later. Troilo’s bandoneon and Biaggi’s fingers on the piano were noticeably quicker and crisper in the newer tangos -- but none of them matched the intensity of _La Yumba_.
+If you listen to the old _guardia vieja_ tangos, you should find that their cadences were a little slower and softer than the ones used later.
+Troilo’s bandoneon and Biaggi’s fingers on the piano were noticeably quicker and crisper in the newer tangos -- but none of them matched the intensity of _La Yumba_.
 
-How did Pugliese do it? Well, the answer is in a movie called “_Si Sos Brujo_” (“If you Were a Wizard” --  admittedly, not a good translation). If you’ve made it this far through these pages, then you must see this movie. It’s hard to find, and it’s in _castellano_… but it’s worth the effort.  _Si Sos Brujo_ is about a search for the musical techniques of the old maestros, and the reawakening (almost the rebirth, really) of a very sweet and funny old man -- the maestro Emilio Balcarce. And it ends, as all good things should, with a moving rendition of _La Cumparsita_.
+How did Pugliese do it? Well, the answer is in a movie called “_Si Sos Brujo_” (“If you Were a Wizard” --  admittedly, not a good translation).
+If you’ve made it this far through these pages, then you must see this movie. It’s hard to find, and it’s in _castellano_ ... but it’s worth the effort.
+_Si Sos Brujo_ is about a search for the musical techniques of the old maestros, and the reawakening (almost the rebirth, really) of a very sweet and funny old man -- the maestro Emilio Balcarce.
+And it ends, as all good things should, with a moving rendition of _La Cumparsita_.
 
-**Note:** You can now rent “_Si Sos Brujo_” with English subtitles from Netflix. Amazon.com says they will have it for sale after December 24, 2007. Anyone who's interested in tango should see it.
+**Note:** You can now rent “_Si Sos Brujo_” with English subtitles from Netflix.
+Amazon.com says they will have it for sale after December 24, 2007.
+Anyone who's interested in tango should see it.

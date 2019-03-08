@@ -9,11 +9,15 @@ date: 2006-01-01
 
 # “Manoblanca”
 
-This tango is not as well known for dancing as some of the others, but the story is very _porteña_. It’s about a young cart driver (a “_carrerito_”) hurrying across town at the end of the day to his home in _Once_, a commercial district near the center of town. As his horses trot along, he thinks about his girlfriend in _Nuevo Pompeya_, near the banks of the _Riachuelo_ to the south. Homero Manzi describes the “_pinta_” (the dressed up look) of the boy’s decorated clothes, his polished cart, and the way he urges his two horses, _Manoblanca_ and _Porteñito_, up a small hill on the way home. It's a nice mental picture about something a little different in tango… a happy story about youth, energy, and optimism:
+This tango is not as well known for dancing as some of the others, but the story is very _porteña_.
+It’s about a young cart driver (a “_carrerito_”) hurrying across town at the end of the day to his home in _Once_, a commercial district near the center of town.
+As his horses trot along, he thinks about his girlfriend in _Nuevo Pompeya_, near the banks of the _Riachuelo_ to the south.
+Homero Manzi describes the “_pinta_” (the dressed up look) of the boy’s decorated clothes, his polished cart, and the way he urges his two horses, _Manoblanca_ and _Porteñito_, up a small hill on the way home.
+It's a nice mental picture about something a little different in tango ... a happy story about youth, energy, and optimism:
 
 **_MANOBLANCA_, D’Agostino con Vargas**
-
-13mano.xspf
+{% include playaudio.html
+src='13mano' %}
 
 > _Where are you going, carrerito of the east side,
 > urging on your roan horses,
@@ -113,8 +117,21 @@ I did a little search on the web to try to obtain some documentation on a horse'
 
 Another thing: "_Vamos, fuerza que viene barranca_!" I think that "_barranca_" should be capitalized. I don't remember if there's a "_barranca_" in the _Once_ and _Caballito_ neighborhood, where the lyrics place the scene. A "barranca" being a kind of gentle cliff. There's one at _Belgrano_, somehow afar from _Once_. But if there is one at that eastern side of town and doesn't have a name like "_Barranca de Belgrano_", the poet would have put: "_Vamos, fuerza que viene LA barranca!_" or "_Vamos, fuerza que SE viene UNA barranca!_" So I Think that when he names this particular "_barranca_" it's a shortening of "_Barranca de_ Somewhere". _Un abrazo milonguero_.
 
-Leo, thanks again for your excellent help and attention. It’s surprising how many people read these translations, and they should be correct. So I changed the literal translation of “attached to the boot sole” to “attached to the harness”, meaning, attached somewhere on one of the harnesses. I think that’s about as close as we can get.
+Leo, thanks again for your excellent help and attention.
+It’s surprising how many people read these translations, and they should be correct.
+So I changed the literal translation of “attached to the boot sole” to “attached to the harness”, meaning, attached somewhere on one of the harnesses.
+I think that’s about as close as we can get.
 
-The next question is also tough:  Does “_barranc_a” refer to a specific hill, in which case it should be capitalized, or is it just any hill? I think we’re splitting some pretty fine hairs, but it’s a fun discussion, so let’s keep going. It seems to me it could be either one… but if had to guess, I’d say Manzi and Vargas probably didn’t think about it that much. Maybe they just needed a hill to make the story more interesting, and putting in “_la_” or “_una_” didn’t fit well with the music.
+The next question is also tough:
+Does “_barranca_” refer to a specific hill, in which case it should be capitalized, or is it just any hill?
+I think we’re splitting some pretty fine hairs, but it’s a fun discussion, so let’s keep going.
+It seems to me it could be either one ... but if had to guess, I’d say Manzi and Vargas probably didn’t think about it that much.
+Maybe they just needed a hill to make the story more interesting, and putting in “_la_” or “_una_” didn’t fit well with the music.
 
-Anyway, BsAs is pretty flat, and most of the _barrancas_ I know of slope downhill toward the river. And the route from _Once_ to _Pompeya_ is toward the _Riachuelo_, so you’d expect that if there are any hills, _Manoblanca_ would be more likely to descend rather than climb them. However, in the interest of historical accuracy and academic rigor, I am prepared to go the extra mile on this one… literally! So, if this freezing, grey weather ever lets up, I’ll ride the route on my bicycle, and look for hills! The only people who are more aware of hills than horse cart drivers are cyclists, so I’ll follow an approximation of the boy’s path from _Plaza Once_ to _Manoblanca's_ monument at _Centenera y Tabare_. And if I find any hills, I’ll ask the locals if they have a name (and maybe also if they ever saw _Manoblanca_ trot by). So stay tuned, and I'll report back.
+Anyway, BsAs is pretty flat, and most of the _barrancas_ I know of slope downhill toward the river.
+And the route from _Once_ to _Pompeya_ is toward the _Riachuelo_, so you’d expect that if there are any hills, _Manoblanca_ would be more likely to descend rather than climb them.
+However, in the interest of historical accuracy and academic rigor, I am prepared to go the extra mile on this one ... literally!
+So, if this freezing, grey weather ever lets up, I’ll ride the route on my bicycle, and look for hills!
+The only people who are more aware of hills than horse cart drivers are cyclists, so I’ll follow an approximation of the boy’s path from _Plaza Once_ to _Manoblanca's_ monument at _Centenera y Tabare_.
+And if I find any hills, I’ll ask the locals if they have a name (and maybe also if they ever saw _Manoblanca_ trot by).
+So stay tuned, and I'll report back.

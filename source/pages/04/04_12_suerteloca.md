@@ -18,8 +18,8 @@ A _truco_ card
 
 
 **_SUERTE LOCA,_ Troilo con Fiorentino**
-
-12suerte.xspf
+{% include playaudio.html
+src='12suerte' %}
 
 > _In the deck of life,
 > I always draw the card of the “boca” ...
@@ -73,11 +73,31 @@ A _truco_ card
 > ¡Que si jugás a cartas de ilusion,
 > son de dolor las cartas que se dan!_
 
-These lyrics hit you on several levels. On the surface, Fiorentino is singing about a card game called ”_truco_”. It’s a gambling game that uses old-fashioned Spanish cards, and it has close ties to the _arrabal_. And it also has ties to tango, because _truco_ was commonly played in the same clubs where tango was danced. Although I’ve never seen it played in a milonga today, they do still play it in some _boliches,_ and I once saw it played at a sidewalk table in _Mataderos._
+These lyrics hit you on several levels.
+On the surface, Fiorentino is singing about a card game called ”_truco_”.
+It’s a gambling game that uses old-fashioned Spanish cards, and it has close ties to the _arrabal_.
+And it also has ties to tango, because _truco_ was commonly played in the same clubs where tango was danced.
+Although I’ve never seen it played in a milonga today, they do still play it in some _boliches,_ and I once saw it played at a sidewalk table in _Mataderos._
 
-I had a tough time finding out about “_la carta de la boca_” (the card of the mouth) that’s mentioned in the first line. I finally asked a taxi driver, and he went into a long, complex explanation… but at the end, I still wasn’t sure what it was. I think it’s a card you need to draw at a certain time… and you hope it’s the right one. Our guy sings that at first, he was like all beginners… he thought _truco_ was about luck. But later he came to realize that the sharp guys always won… and that they were merciless and tricky. Over time, he picked up their tricks and learned their game. He says luck is an illusion. Don't be a sucker. Either wise up and learn from your mistakes… or lose. The language is great: “play the cards of illusion, and you will only draw cards of pain”. And anyone who has been in sports, or business (or lived a little) knows exactly what it means when Fiorentino sings, “To win, first you must lose.”
+I had a tough time finding out about “_la carta de la boca_” (the card of the mouth) that’s mentioned in the first line.
+I finally asked a taxi driver, and he went into a long, complex explanation ... but at the end, I still wasn’t sure what it was.
+I think it’s a card you need to draw at a certain time ... and you hope it’s the right one.
+Our guy sings that at first, he was like all beginners ... he thought _truco_ was about luck.
+But later he came to realize that the sharp guys always won ... and that they were merciless and tricky.
+Over time, he picked up their tricks and learned their game.
+He says luck is an illusion.
+Don't be a sucker. Either wise up and learn from your mistakes ... or lose.
+Language is great: “play the cards of illusion, and you will only draw cards of pain”.
+And anyone who has been in sports, or business (or lived a little) knows exactly what it means when Fiorentino sings, “To win, first you must lose.”
 
-So it’s good gambling advice, and it’s good general advice as well. And, depending on how you want interpret it, it may also reflect a bit of tango's cynicism against the rich and powerful.  At the lowest level, Fiorentino talks like a Mafioso: Mess with me and you’ll die. He uses the word “_vil_” , which literally means “vile”, to describe the people who know how to win. But for me, that’s a very strong translation -- unless he really is talking about killing people when he says you have to “_banquen con la muerte_” (“bet your life”) to challenge him. Finally, he could also be talking in a cynical way about the illusion of love and relationships: Could “_the card of the mouth_” be about a kiss? Could “Follow your heart, and you won’t win” be about relationships? Probably not… but it’s one way to look at it.
+So it’s good gambling advice, and it’s good general advice as well.
+And, depending on how you want interpret it, it may also reflect a bit of tango's cynicism against the rich and powerful.
+At the lowest level, Fiorentino talks like a Mafioso: Mess with me and you’ll die.
+He uses the word “_vil_” , which literally means “vile”, to describe the people who know how to win.
+But for me, that’s a very strong translation -- unless he really is talking about killing people when he says you have to “_banquen con la muerte_” (“bet your life”) to challenge him.
+Finally, he could also be talking in a cynical way about the illusion of love and relationships: Could “_the card of the mouth_” be about a kiss?
+Could “Follow your heart, and you won’t win” be about relationships?
+Probably not ... but it’s one way to look at it.
 
 At this point we should be familiar with some of the things Troilo is doing. Listen to how artfully he mixes the sharp _compás_ of the bandoneon and piano with the smoother melodies of the full orchestra! Troilo pioneered the uniting of singer and orchestra in tango, and no one was better at weaving the cadences of the singer's words into the rest of the music. Notice how his tangos with Fiorentino use the orchestra to lead up to the place where the words begin -- and then the singer is given a place to tell a fairly complete and coherent story. He meshes the words into the cadences and melodies of the instruments with incredible skill. And when you combine Troilo’s talent with the words of a poet that were specifically written for the cadences of tango, the results can be spectacular (see “[_Farol_](/04/05_farol)”).
 
@@ -91,7 +111,17 @@ For the milongueros, Troilo represents the ultimate expression of their tango. T
 ![Anibal Troilo](/4_pics/12suerte/image004.jpg)
 The Maestro
 
-What a great tango! Can you feel it? From the first notes, you should be humming along: “_En el naipe de vivir_ ...” Fiorentino hasn’t begun yet, but the intro is a warm-up for the little opera that is to come. You need to get ready -- and if your partner is good, he or she will be doing the same. You know what’s coming; you know Troilo’s format, and you have the skills to express it. Posture and balance, connection and step. The cadence supports you and the melody carries you. You don’t rush. You wait for the music ... and the words inspire you. Calm, centered and focused… channeling the music. Doing this well is called “having the music inside” -- and it’s rare to find it outside of a few places in BsAs.
+What a great tango! Can you feel it?
+From the first notes, you should be humming along: “_En el naipe de vivir_ ...”
+Fiorentino hasn’t begun yet, but the intro is a warm-up for the little opera that is to come.
+You need to get ready -- and if your partner is good, he or she will be doing the same.
+You know what’s coming; you know Troilo’s format, and you have the skills to express it.
+Posture and balance, connection and step.
+The cadence supports you and the melody carries you.
+You don’t rush.
+You wait for the music ... and the words inspire you.
+Calm, centered and focused ... channeling the music.
+Doing this well is called “having the music inside” -- and it’s rare to find it outside of a few places in BsAs.
 
 \*\*\*\*
 

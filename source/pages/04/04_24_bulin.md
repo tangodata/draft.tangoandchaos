@@ -13,7 +13,8 @@ date: 2006-01-01
 Tango was born in the southern part of Buenos Aires, but it quickly spread all around the city. This famous tango is about an apartment in the fashionable _Recoleta_ neighborhood of the 1920s:
 
 **_EL BULÍN DE LA CALLE AYACUCHO_, Troilo con Fiorentino**
-bulin.xspf
+{% include playaudio.html
+src='bulin' %}
 
 > _The bulín on Ayacucho Street,
 > that I rented when I was young and wild ...

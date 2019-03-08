@@ -9,10 +9,10 @@ Gemfile
 Gemfile.lock
 rakefile
 _site
-assets
-source/res/Tangos
-source/res/6_videos
-source/res/5_videos
-source/res/3_videos
+#assets
+#source/res/Tangos
+#source/res/6_videos
+#source/res/5_videos
+#source/res/3_videos
 
 

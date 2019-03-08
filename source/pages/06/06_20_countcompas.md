@@ -11,7 +11,7 @@ date: 2006-01-01
 
 Once we've begun to figure out how to stand and step, the next stage is to "dance". Most of us start down the tango road with some sort of vision. It could be anything from dreams of glory picked up from watching tango in movies and stage shows, to simply wanting to keep from embarrassing ourselves in a milonga. Surprisingly, dreams of the first kind are much easier to follow. Only a small handful of people actually make a living by performing, but their shows have spawned a worldwide system of classes and workshops for learning stage tango.
 
-Ironically, however, the techniques needed to become a competent social dancer are more difficult to acquire. The problem is that the tango of the milongas isn't made up of figures and embellishments. Social tango involves moving around the floor and using the music—and that has very little to do with the patterns that fit so well into the "demonstrate, copy, and memorize" approach of the classroom. The closer you look at the infinite varieties of good social dancing, the more difficult the task seems. It's hard to even know where to begin—but let's see if we can find a place.
+Ironically, however, the techniques needed to become a competent social dancer are more difficult to acquire. The problem is that the tango of the milongas isn't made up of figures and embellishments. Social tango involves moving around the floor and using the music -- and that has very little to do with the patterns that fit so well into the "demonstrate, copy, and memorize" approach of the classroom. The closer you look at the infinite varieties of good social dancing, the more difficult the task seems. It's hard to even know where to begin -- but let's see if we can find a place.
 
 ## Counting the _Compás_
 
@@ -23,7 +23,7 @@ Normally when we talk about the _compás_, we prefer using the terms "strong bea
 
 It's best to count the 3 quick steps in this clip as "_1-2-3_".
 
-In the video above, let's count our steps on the consecutive "_STRONG - weak - STRONG_" beats as "_1-2-3_". Most tango dancing is based on these short 3-run segments that hit one weak beat. They're used for changes of direction and rotational movements, and women do them all the time when they cross, or follow a _giro_. But there's no reason to restrict ourselves to only three quick steps. We can do as many as we want—as long as we end up back on the _STRONG_ beat. That mean's, our runs of quick steps must always end on an odd number: 3, 5, 7, 9, 11 ... and on up. You can go as high as you want. Let's look at some milongueros, and see how this fit's into dancing:
+In the video above, let's count our steps on the consecutive "_STRONG - weak - STRONG_" beats as "_1-2-3_". Most tango dancing is based on these short 3-run segments that hit one weak beat. They're used for changes of direction and rotational movements, and women do them all the time when they cross, or follow a _giro_. But there's no reason to restrict ourselves to only three quick steps. We can do as many as we want -- as long as we end up back on the _STRONG_ beat. That mean's, our runs of quick steps must always end on an odd number: 3, 5, 7, 9, 11 ... and on up. You can go as high as you want. Let's look at some milongueros, and see how this fit's into dancing:
 
 /6_videos/NoliBlasRic2
 
@@ -36,7 +36,7 @@ For practice, you can go back two pages and count the consecutive step runs Alej
 
 ## Slowing Down
 
-The tango in the video above is a sample of good social tango -- but it’s only a small sample—and it's weighted toward _tango picado_. That is, it represents a way of dancing to the more rhythmic tangos of the D'Arienzo tradition. But tango can be danced in many different ways, and music that doesn’t have such a pronounced beat may call for a different way of dancing. Let's look at an example of excellent tango that isn’t built around such obvious runs of consecutive quick steps:
+The tango in the video above is a sample of good social tango -- but it’s only a small sample -- and it's weighted toward _tango picado_. That is, it represents a way of dancing to the more rhythmic tangos of the D'Arienzo tradition. But tango can be danced in many different ways, and music that doesn’t have such a pronounced beat may call for a different way of dancing. Let's look at an example of excellent tango that isn’t built around such obvious runs of consecutive quick steps:
 
 /6_videos/Xxlite
 

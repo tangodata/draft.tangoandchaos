@@ -18,12 +18,12 @@ But that doesn’t mean pauses aren’t used on the _pistas_ (dance floors). Pau
 
 A few examples of the art of pausing:
 
-![](/2_pics/5pausing/image012.jpg)
-![Miguel Balbi](/2_pics/5pausing/image010.jpg)
-![Alej y Duplaa](/2_pics/5pausing/image014.jpg)
-![Hector y Maria Eugenia](/2_pics/5pausing/image015.jpg)
+![]({{site.res}}/2_pics/5pausing/image012.jpg)
+![Miguel Balbi]({{site.res}}/2_pics/5pausing/image010.jpg)
+![Alej y Duplaa]({{site.res}}/2_pics/5pausing/image014.jpg)
+![Hector y Maria Eugenia]({{site.res}}/2_pics/5pausing/image015.jpg)
 
-![Alej y Tete](/2_pics/5pausing/image016.jpg)
-![Ismael y Alej](/2_pics/5pausing/image017.jpg)
+![Alej y Tete]({{site.res}}/2_pics/5pausing/image016.jpg)
+![Ismael y Alej]({{site.res}}/2_pics/5pausing/image017.jpg)
 Top row: Juan Manuel, Miguel Balbi, Julio Duplaa y Alej, Hector y Maria Eugenia
 Bottom: Tete y Alej, Ismael El Jalil y Alej

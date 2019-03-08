@@ -13,8 +13,8 @@ date: 2006-01-01
 The people who really know tango music (not just the milongueros, but the older people who have listened to tango radio all their lives) say Angel Vargas has a “_voz chica_”, which means “small voice”. At first I thought this was derogatory -- but it’s not. They are saying that singers like Fiorentino and Vargas have voices that are smooth and soft -- that they don’t sing with a lot of volume. The best way to understand this is to contrast them with someone like Alberto Castillo (who we’ll listen to soon). Castillo has a strong, sharp voice that could probably fill a room without a microphone. But neither a “big” nor a “small” voice is better. It’s how you sing that’s important -- and of course the same thing applies to dancing. For non-Argentines who want to pick up the rhythms and accents of _castellano_ (Argentine Spanish), Angel Vargas is a great place to start. So before we wander into the minefield of tango technique, let’s listen to the way Angel Vargas sings “_Tres Esquinas_”
 
 **_TRES ESQUINAS_, D’Agostino con Vargas**
-
-14esquinas.xspf
+{% include playaudio.html
+src='14esquinas' %}
 
 > _I’m from the barrio of the three corners,
 > an old bastion of the arrabal ...
@@ -58,7 +58,18 @@ The people who really know tango music (not just the milongueros, but the older 
 > Quemé en los ojos de una maleva
 > la ardiente ceba de mi pasión._
 
-In _Tres Esquinas_, the voice of tango itself is speaking about its origins: “I’m from this humble neighborhood of flowers and beautiful girls ... of _mate_ and vines, and angled corners. I was young and full of passion… fighting with knives ... burning in the eyes of bad women.” Well, here we are on another journey into the _arrabal_. As you become more familiar with the words of the tangos, you find that they are mostly about three things: love (good, bad, lack thereof, etc.), the neighborhoods of BsAs, and of course tango itself. For me, the tangos about tango, and about the neighborhoods, are the ones that are the most interesting. Everyone from Barry Manilow to Barry White has covered the subject of love thoroughly, but the _arrabal_ of Buenos Aires belongs to tango. Some people may be getting a little tired of touring the _arrabal_ ... but “_El Tango es el Tango_”. Whether you like it or not, it is what it is. The music is bandoneon and _dos por cuatro_, the milongueros dance the way they dance, and tango is the _arrabal_. The song says, “I am tango… and I’m from the _arrabal_ of the _tres esquinas_.” My _profesora_ and I translated these words on a Thursday, and as I began to write them up on this beautiful Sunday morning, it hit me ... I must find the “three corners”! I need to go to the birthplace of tango!
+In _Tres Esquinas_, the voice of tango itself is speaking about its origins: “I’m from this humble neighborhood of flowers and beautiful girls ... of _mate_ and vines, and angled corners.
+I was young and full of passion ... fighting with knives ... burning in the eyes of bad women.”
+Well, here we are on another journey into the _arrabal_.
+As you become more familiar with the words of the tangos, you find that they are mostly about three things: love (good, bad, lack thereof, etc.), the neighborhoods of BsAs, and of course tango itself.
+For me, the tangos about tango, and about the neighborhoods, are the ones that are the most interesting.
+Everyone from Barry Manilow to Barry White has covered the subject of love thoroughly, but the _arrabal_ of Buenos Aires belongs to tango.
+Some people may be getting a little tired of touring the _arrabal_ ... but “_El Tango es el Tango_”.
+Whether you like it or not, it is what it is.
+The music is bandoneon and _dos por cuatro_, the milongueros dance the way they dance, and tango is the _arrabal_.
+The song says, “I am tango ... and I’m from the _arrabal_ of the _tres esquinas_.”
+My _profesora_ and I translated these words on a Thursday, and as I began to write them up on this beautiful Sunday morning, it hit me ... I must find the “three corners”!
+I need to go to the birthplace of tango!
 
 ![Nestor Serra y Cristina ](/4_pics/14tresesquinas/50.jpg)
 
@@ -105,7 +116,8 @@ A couple of years ago someone came up to me in a milonga, introduced himself, an
 I still think about his question sometimes. Tango and the _arrabal_ are intertwined and inseparable -- but what exactly is the _arrabal_? It’s one of those "sort of easy, but also hard" kind of questions. It's like asking what, exactly, is a horse? Well, here’s one definition of the _arrabal_:
 
 **_ARRABALERO_, Osvaldo Fresedo Orchestra**
-
+{% include playaudio.html
+src='14arrabalero' %}
 
 **
 \*\*\*\*

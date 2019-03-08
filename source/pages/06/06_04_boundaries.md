@@ -14,7 +14,7 @@ In this chapter we’ll be talking about some of the specific techniques needed 
 
 Tango is divided into two parts: **Stage tango** and **social tango**:
 
-**Social tango** is sometimes called **_tango milonguero_**, meaning tango for the milonga, or **_tango salon_**, meaning tango for the dance salon—but they are the same thing.
+**Social tango** is sometimes called **_tango milonguero_**, meaning tango for the milonga, or **_tango salon_**, meaning tango for the dance salon -- but they are the same thing.
 
 **Stage tango** is called **_tango escenario_** or **_tango fantasia_** in Argentina, although today it’s also being taught under variations labeled **_tango nuevo_**, or **_tango alternativo_**.
 
@@ -32,21 +32,21 @@ Miguel Balbi is dancing _tango salon_. He stays close to hi partner, he keeps hi
 
 It’s fairly easy to see the differences between stage and social tango just by watching people dance. But if you look beneath the surface, you'll find other differences. Stage tango is the result of conscious planning. It's made up mostly of figures and steps that were intentionally designed by people for the purpose of entertaining other people. Social tango, on the other hand, is the result of natural selection. Like organisms that exist in the natural world, social tango has been shaped and polished over the years by the conditions that surround it. Social tango was shaped by the environment of the milonga, and you can't separate them. Social tango and the milonga are meaningless without each other.
 
-![Peptio y Suzuki](/6_pics/photos/Pepito1.jpg)
-![](/6_pics/photos/stagetango9.jpg)
+![Peptio y Suzuki]({{site.res}}/6_pics/photos/Pepito1.jpg)
+![]({{site.res}}/6_pics/photos/stagetango9.jpg)
 Maestros Suzuki y Pepito Avellaneda (left), and stage dancers.
 
 There is also a basic philosophical difference between the two tangos. The goal of social tango is to express Golden Age tango music in a milonga. And while some of us may like to watch it, entertaining the people sitting around the floor is not really its goal. We’ve probably beaten this point to death here, but I think most of the problems with tango outside of Buenos Aires stem from an inability (or unwillingness) to really understand these differences. And it's almost certain that if you've taken tango classes from anyone other than the handful of teachers who really know how to dance in the clubs (I know...they all say they do... but most of them don't), then it's almost certain that you've been exposed to a lot of tango that was never meant to be danced in a milonga.
 
-Which style is more elegant?  I'm sure most people would say stage tango. Which is understandable, because like jewelry, or a Rolls Royce, it's designed to look flashy and elegant. That's the whole point. But there are other types of beauty. For instance, there is beauty and elegance in the solution of a problem—like the beauty in good ski racing, or the lines of a sailing ship. So let's look at social tango as the solution to a problem—an engineering problem posed by the environment of the milonga.
+Which style is more elegant?  I'm sure most people would say stage tango. Which is understandable, because like jewelry, or a Rolls Royce, it's designed to look flashy and elegant. That's the whole point. But there are other types of beauty. For instance, there is beauty and elegance in the solution of a problem -- like the beauty in good ski racing, or the lines of a sailing ship. So let's look at social tango as the solution to a problem -- an engineering problem posed by the environment of the milonga.
 
 ## The Geometry of the Embrace
 
-Two people dancing together in a milonga face several challenges. They must be able to dance comfortably close to other dancers in a restricted space that's constantly moving and changing shape. Furthermore, they need to use two different parts of the body to express the music. The feet express the _compás_ of tango by stepping on the cadences of the music, while the upper bodies express the melodic sentiment—usually by moving around the floor, or by turning in place. Finally, one partner has the job of moving to the music and leading, while the other partner's job is to follow smoothly and efficiently (and occasionally to help with navigation). This is basically an engineering problem—and the best biomechanical solution is the modern tango embrace.
+Two people dancing together in a milonga face several challenges. They must be able to dance comfortably close to other dancers in a restricted space that's constantly moving and changing shape. Furthermore, they need to use two different parts of the body to express the music. The feet express the _compás_ of tango by stepping on the cadences of the music, while the upper bodies express the melodic sentiment -- usually by moving around the floor, or by turning in place. Finally, one partner has the job of moving to the music and leading, while the other partner's job is to follow smoothly and efficiently (and occasionally to help with navigation). This is basically an engineering problem -- and the best biomechanical solution is the modern tango embrace.
 
 In the milongas today, couples usually embrace facing each other, with their upper bodies connecting at the chest, and their feet separated sufficiently to leave space for stepping:
 
-![Fino y Teresa](/6_pics/photos/AframeW.jpg)
+![Fino y Teresa]({{site.res}}/6_pics/photos/AframeW.jpg)
 Tango as the solution to an engineering problem:  To understand the structure of
 social tango, you need to look at the conditions that formed it.  (Maestros Teresa _y Fino)_
 

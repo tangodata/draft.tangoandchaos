@@ -18,7 +18,7 @@ In some ways, walking in tango is easier for me than the slouching inefficient w
 Two video captures of Fino dancing in a milonga. They come from
 15 seconds of film that is only record that exists of his social dancing.
 
-But of course, there's more to dancing tango than just conserving energy. I mean, if energy conservation were our only goal, we could just sit at the table and tap our fingers to the music. Efficiency means doing something in the easiest way possible, so if we're going to use it to describe tango, we need to know exactly it is we're trying to do. What exactly is the tango problem we're trying to solve? We'll, I think the technical problem we all face as tango dancers how to physically express the soul of the music—and the very core of that physical expression comes from the _dos por cuatro_ of the _compás_. The 2 x 4 rhythm of tango. Before we can express anything else we may feel in tango, we need to be able to express the _dos por cuatro_ of the music. Let's see how our walk can help.
+But of course, there's more to dancing tango than just conserving energy. I mean, if energy conservation were our only goal, we could just sit at the table and tap our fingers to the music. Efficiency means doing something in the easiest way possible, so if we're going to use it to describe tango, we need to know exactly it is we're trying to do. What exactly is the tango problem we're trying to solve? We'll, I think the technical problem we all face as tango dancers how to physically express the soul of the music -- and the very core of that physical expression comes from the _dos por cuatro_ of the _compás_. The 2 x 4 rhythm of tango. Before we can express anything else we may feel in tango, we need to be able to express the _dos por cuatro_ of the music. Let's see how our walk can help.
 
 ## Physics and Harmony
 
@@ -33,9 +33,23 @@ My body sinks goes lower when I step: The yellow point on my hip in the middle i
 than the first and last ones. When you walk tall on a straight leg, your body will always
 sink down through the step, and rise up through the Zero Point as your heels pass.
 
-I marked a spot on my hip with a horizontal line beneath it. It shows that, when I’m tall and balanced with my feet together at the Zero Point, my hip is a little higher. And when I have my legs stretched apart for the step, I’m a little lower. The reason is obvious -- when your leg is vertical, you're taller, and the more your legs move apart away from vertical, the farther down you drop. But for this to happen predictably while walking, you must always support yourself on a straight leg. You need to begin on a straight leg the moment your foot strikes the floor, and you need to stay on it until all the weight leaves.
+I marked a spot on my hip with a horizontal line beneath it.
+It shows that, when I’m tall and balanced with my feet together at the Zero Point, my hip is a little higher.
+And when I have my legs stretched apart for the step, I’m a little lower.
+The reason is obvious -- when your leg is vertical, you're taller, and the more your legs move apart away from vertical, the farther down you drop.
+But for this to happen predictably while walking, you must always support yourself on a straight leg.
+You need to begin on a straight leg the moment your foot strikes the floor, and you need to stay on it until all the weight leaves.
 
-When I’m standing tall, with heels close, I have potential energy. Gravity wants to pull me down… but it doesn’t do it at a constant speed. As I tip forward and come down, the speed increases and I accelerate. So from the tall Zero Point, to the point where my foot strikes the floor, (the point of maximum leg separation), I accelerate down and forward. Then, as I move back up to my zero point, gravity slows me. My forward speed decreases until I stand tall at my Zero Point. Then the process begins again with the other leg: Lowest speed when I'm balanced up high with heels passing, high speed with my legs extended at my lowest point -- which is just when my foot strikes the floor. Then the cycle repeats with the other leg.  In short ... I am a human roller coaster.
+When I’m standing tall, with heels close, I have potential energy.
+Gravity wants to pull me down ... but it doesn’t do it at a constant speed.
+As I tip forward and come down, the speed increases and I accelerate.
+So from the tall Zero Point, to the point where my foot strikes the floor, (the point of maximum leg separation), I accelerate down and forward.
+Then, as I move back up to my zero point, gravity slows me.
+My forward speed decreases until I stand tall at my Zero Point.
+Then the process begins again with the other leg:
+Lowest speed when I'm balanced up high with heels passing, high speed with my legs extended at my lowest point -- which is just when my foot strikes the floor.
+Then the cycle repeats with the other leg.
+In short ... I am a human roller coaster.
 
 By continually clicking on the arrow on the right, you can see me ride over the top of a straight leg, and then accelerate back down into the next step:
 

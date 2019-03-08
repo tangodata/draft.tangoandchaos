@@ -11,7 +11,7 @@ date: 2006-01-01
 
 /6_videos/SixWalks/Swoop
 
-The step in the demo above is exaggerated. And also, it's not tango, because it's not answering to any music -- but let's use it as a way of identifying what happens when we add a little leg bend to the end of our step. What we have done is taken our basic straight-leg tango step, and added some knee bend around the high point where the heels pass. As the heels pass, we smoothly bend our supporting leg, and then straighten it a bit to push off, just before the other foot strikes the floor. But be careful—this step is a minefield. It's a Pandora's box, and it comes with warnings:
+The step in the demo above is exaggerated. And also, it's not tango, because it's not answering to any music -- but let's use it as a way of identifying what happens when we add a little leg bend to the end of our step. What we have done is taken our basic straight-leg tango step, and added some knee bend around the high point where the heels pass. As the heels pass, we smoothly bend our supporting leg, and then straighten it a bit to push off, just before the other foot strikes the floor. But be careful -- this step is a minefield. It's a Pandora's box, and it comes with warnings:
 
 1. If you aren't completely comfortable and proficient with the straight-leg walk, then you don't have a chance of doing this step well. Learn how to walk over a straight leg first, before attempting this one. If you don't, you may have a mess on your hands.
 
