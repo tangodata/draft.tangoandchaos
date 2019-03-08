@@ -16,8 +16,8 @@ date: 2006-01-01
 
 I’ve heard this tango and danced to it many times, but I never paid much attention to it. It’s called _Como Se Pianta La Vida_ (“How Life Slips Away”). The title uses the verb “_piantarse_”, which is an Italian/Argentine slang word that actually means “to leave” or "flee". Here’s my translation (aided by Alej):
 
-**_COMO SE PIANTA LA VIDA_, Enrique Rodriguez con Armando Moreno**
 {% include playaudio.html
+title='_COMO SE PIANTA LA VIDA_, Enrique Rodriguez con Armando Moreno'
 src='9pianta' %}
 
 

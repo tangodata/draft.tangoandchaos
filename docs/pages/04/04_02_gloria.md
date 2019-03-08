@@ -17,8 +17,8 @@ So here’s my first pick. Most people probably wouldn’t put this orchestra or
 In fact, many would consider this tango to be from the middle of the pack ... but for me it’s a diamond.
 And it contains most of the things every great tango should have:
 
-**_GLORIA_, De Angelis orchestra, Carlos Dante singing**
 {% include playaudio.html
+title='_GLORIA_, De Angelis orchestra, Carlos Dante singing'
 src='2gloria' %}
 
 _CHAN CHAN!_  ... two sharp chords from a single bandoneon.
@@ -165,8 +165,8 @@ Here it is (Canaro wrote the music of this tango, and his first orchestra, _Quin
 
 ![Francisco Canaro](/4_pics/image009.jpg)
 
-**_GLORIA_, Quinteto Don Pancho**
 {% include playaudio.html
+title='_GLORIA_, Quinteto Don Pancho'
 src='2gloria2' %}
 
 (Note: If you want to see how a great milonguero uses the cadences of this tango, there's a short clip of

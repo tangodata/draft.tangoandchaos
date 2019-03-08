@@ -34,12 +34,12 @@ Here are a couple of examples of the kind of "Old Guard" sound a _porteño_ migh
 ![Eduardo Arolas (left)](/4_pics/7revolution/image008.jpg)
 Eduardo Arolas, (seated left, 1912) introduced the bandoneon to tango.
 
-**_Musica Guardia Vieja_**
 {% include playaudio.html
+title='_Musica Guardia Vieja_'
 src='7rev1' %}
 
-**_MEDIA LUZ_, Carlos Gardel**
 {% include playaudio.html
+title='_MEDIA LUZ_, Carlos Gardel'
 src='7rev2' %}
 
 ## The Sextet
@@ -51,20 +51,20 @@ Here they are in 1928 (The first tango is “Fireworks”, and the second is “
 ![Roberto Firpo](/4_pics/7revolution/image009.jpg)
 Roberto Firpo
 
-**_FUEGOS ARTICIALES_, Roberto Firpo and Eduardo Arolas**
 {% include playaudio.html
+title='_FUEGOS ARTICIALES_, Roberto Firpo and Eduardo Arolas'
 src='7rev3' %}
 
-**_EL AMANECER_, Roberto Firpo**
 {% include playaudio.html
+title='_EL AMANECER_, Roberto Firpo'
 src='7rev4' %}
 
 ## De Caro’s Revolution
 
 Let’s listen one more time to a typical 1920s tango orchestra. Here is _Orquesta Tipica Victor_ in 1926:
 
-**_PATO,_ Orquesta Tipica Victor**
 {% include playaudio.html
+title='_PATO,_ Orquesta Tipica Victor'
 src='7rev5' %}
 
 Now, here’s the Revolution -- this is _Flores Negras_ (“Black Flowers”), recorded two years after _Pato_.
@@ -73,8 +73,8 @@ Now, here’s the Revolution -- this is _Flores Negras_ (“Black Flowers”), r
 Julio De Caro
 
 
-**_FLORES NEGRAS_, Julio De Caro**
 {% include playaudio.html
+title='_FLORES NEGRAS_, Julio De Caro'
 src='7rev6' %}
 
 The difference in these two pieces music is striking.
@@ -85,16 +85,15 @@ The split in styles can be seen in these two tangos that were recorded ten years
 They are different versions of _Vieja Amiga_, both from 1938:
 
 
-**_VIEJA AMIGA_, Francisco Canaro**
 {% include playaudio.html
+title='_VIEJA AMIGA_, Francisco Canaro'
 src='7rev7' %}
 
 ![Pedro Laurenz](/4_pics/7revolution/image007.jpg)
 Pedro Laurenz
 
-
-**VIEJA AMIGA, Pedro Laurenz**
 {% include playaudio.html
+title='VIEJA AMIGA, Pedro Laurenz'
 src='7rev8' %}
 
 The first version of _Vieja Amiga_ by Canaro uses the old marching cadences from the very start, while Laurenz’s _Vieja Amiga_ begins with a piano melody

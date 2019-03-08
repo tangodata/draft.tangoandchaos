@@ -17,8 +17,8 @@ Tango music is made up of cadence, melody, and lyrics -- and each tango has its 
 A _truco_ card
 
 
-**_SUERTE LOCA,_ Troilo con Fiorentino**
 {% include playaudio.html
+title='_SUERTE LOCA,_ Troilo con Fiorentino'
 src='12suerte' %}
 
 > _In the deck of life,

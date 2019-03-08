@@ -12,8 +12,8 @@ date: 2006-01-01
 
 This is one of the dark tangos. The word “_copa_” means “cup”, so “_El Encopao_” is a man who takes too many cups ... a drunk. It’s about someone who has given up; someone who doesn’t care what anyone else thinks. Rodriguez’ orchestra begins with the melody, using the piano to mark the _compás_. The bandoneons and strings play around the piano’s strong cadence, which should help you get warmed up and solidly into the music with your partner. Then Moreno begins in a voice that sounds almost like a cry of pain -- a lost man, sitting alone with his alcohol:
 
-**_EL ENCOPAO_, Rodriguez Orchestra, Armando Moreno singing**
 {% include playaudio.html
+title='_EL ENCOPAO_, Rodriguez Orchestra, Armando Moreno singing'
 src='4encopao' %}
 
 > _They say I’m the "Man of the Bottle" ...
@@ -72,8 +72,8 @@ I like the Rodriguez orchestra a lot. It has a very straightforward, driving, _t
 ![The Maestro](/4_pics/image001.jpg)
 Francisco Fiorentino
 
-**_El Encopao,_ Troilo Orchestra, Francisco Fiorentino singing**
 {% include playaudio.html
+title='_El Encopao,_ Troilo Orchestra, Francisco Fiorentino singing'
 src='4encopao2' %}
 
 What do you think? This one’s from the maestro, and to me it sounds more polished. Fiorentino (pictured above) sings more smoothly, and he pauses more. At times he draws out the words, and tends to stray from the strict cadence -- which of course is part of his artistic license. Sometimes the orchestra waits for him, sometimes it goes on ahead, and sometimes the orchestra just seems to go off on its own. And at times, things get a little jumbled up. It’s subtle, but if you can listen to the interplay between Troilo and Fiorentino -- how they separate, and come back together in the cadences, you can use it when you dance. Actually though, they play the Rodriguez’ version more in the milongas -- and I think I prefer it. There’s nothing sweet at all about this tango, and Rodriguez provides a sort of rough rendition for a rough tango.

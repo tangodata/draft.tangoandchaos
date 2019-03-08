@@ -3,7 +3,7 @@ description: About Argentine Tango
 keywords: "tango, argentina, dance, culture"
 url: "https://tangodata.github.io"
 baseurl: "/draft.tangoandchaos/"
-res: "/draft.tangoandchaos/source/res"
+res: "/draft.tangoandchaos/res/"
 author:
   source: "Rick McGarrey"
   markdown: "Kace Ong"

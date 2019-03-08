@@ -36,8 +36,8 @@ This part is sung in a very strong, almost threatening voice. Campos is making a
 ![Enrique Campos](/4_pics/3emocion/image003.jpg)
 Ricardo Tanturi
 
-**_UNA EMOCIÓN_, Ricardo Tanturi orchestra, Enrique Campos singing**
 {% include playaudio.html
+title='_UNA EMOCIÓN_, Ricardo Tanturi orchestra, Enrique Campos singing'
 src='3emocion' %}
 
 > _Come and see what I bring

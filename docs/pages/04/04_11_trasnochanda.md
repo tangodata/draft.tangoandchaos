@@ -37,8 +37,8 @@ But then, it also evokes images of the colors in the Buenos Aires streets late a
 And if I hear it when we are back in the U.S., I instantly begin to miss Buenos Aires.
 Here it is:
 
-**_TRASNOCHANDO_, Miguel Calo con Raul Berón**
 {% include playaudio.html
+title='_TRASNOCHANDO_, Miguel Calo con Raul Berón'
 src='11trasnochando' %}
 
 > _Out all night ...

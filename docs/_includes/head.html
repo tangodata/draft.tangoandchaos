@@ -10,7 +10,7 @@
    src="{{ "/assets/js/just-the-docs.js" | absolute_url }}"></script>
 
   <link rel="icon" type="image/x-icon" class="js-site-favicon"
-   href="{{ "/source/res/favicon.ico" | absolute_url }}">
+   href="{{ "/res/favicon.ico" | absolute_url }}">
 
   {% if site.ga_tracking != nil %}
     <script>
@@ -24,5 +24,20 @@
     <script type="text/javascript"
     src="{{ "/assets/js/vendor/lunr.min.js" | absolute_url }}"></script>
   {% endif %}
+
+  <style>
+  .audiobox, .videobox, .sliderbox {
+    padding:5px 10px;
+  }
+  .audiobox {
+    background-color:#fce;
+  }
+  .videobox {
+    background-color:#ace;
+  }
+  .sliderbox {
+    background-color:#aec;
+  }
+  </style>
 
 </head>

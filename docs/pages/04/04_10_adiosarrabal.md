@@ -12,8 +12,8 @@ date: 2006-01-01
 > “_Esta musica es muy envolvente! Que voz que tiene el señor!_”
 > -- Alejandra
 
-**_ADIOS ARRABAL_, D’Agostino con Vargas**
 {% include playaudio.html
+title='_ADIOS ARRABAL_, D’Agostino con Vargas'
 src='10adios' %}
 
 > _Sweet arrabal morning,

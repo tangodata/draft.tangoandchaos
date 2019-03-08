@@ -28,8 +28,8 @@ Stretching tango: Astor Piazzolla
 
 But there are tangos that have been modified and modernized much more than _Volver._ One of the best even has astronauts in it, and it's played by the man who stretched the music almost to the breaking point. Of course, we’re talking about Astor Piazzolla. Piazzolla was a very talented musician, and he understood tango. He put in his time with Troilo and the other maestros, so whatever you think about him, he knew exactly what he was doing. Let's listen to one of his most interesting pieces. The words were written by Horacio Ferrer, and sung here by Roberto Goyeneche:
 
-**_BALADA PARA UN LOCO_, Astor Piazzolla con Roberto Goyeneche**
 {% include playaudio.html
+title='_BALADA PARA UN LOCO_, Astor Piazzolla con Roberto Goyeneche'
 src='17locogoyeneche' %}
 
 Did you like it?  It’s not for everybody -- but if you listen a few times and learn the words, it may grow on you. It swept through BsAs like a storm in 1969, and I’m told everyone from kids to their grandparents were walking around town humming it ... which is even more interesting to me than the music itself. What does it say about _porteños_? I think it says that BsAs is one of the few cities in the world that truly has it’s own culture.
@@ -177,9 +177,13 @@ Your body _is_ the music ... express it right from the center of your chest, so 
 
 Two tangos. First Biaggi, and then some transcendent, Golden Age Canaro:
 
-_TWO FOR DANCING_
 {% include playaudio.html
-src='17twotangos' %}
+title='_TWO FOR DANCING_'
+src='17twotangos1' %}
+
+{% include playaudio.html
+title='_TWO FOR DANCING_'
+src='17twotangos2' %}
 
 \*\*\*\*
 

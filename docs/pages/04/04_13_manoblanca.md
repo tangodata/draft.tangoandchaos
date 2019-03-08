@@ -15,8 +15,8 @@ As his horses trot along, he thinks about his girlfriend in _Nuevo Pompeya_, nea
 Homero Manzi describes the “_pinta_” (the dressed up look) of the boy’s decorated clothes, his polished cart, and the way he urges his two horses, _Manoblanca_ and _Porteñito_, up a small hill on the way home.
 It's a nice mental picture about something a little different in tango ... a happy story about youth, energy, and optimism:
 
-**_MANOBLANCA_, D’Agostino con Vargas**
 {% include playaudio.html
+title='_MANOBLANCA_, D’Agostino con Vargas'
 src='13mano' %}
 
 > _Where are you going, carrerito of the east side,

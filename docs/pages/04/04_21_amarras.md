@@ -18,8 +18,8 @@ We just listened to a couple of tangos from 1938, so let’s jump ahead to 1944 
 
 But the action in this tango takes place in a _recova_. A _recova_ is a sidewalk with the floor of a building extending over the top of it, and arches opening onto the street. _Recovas_ are part of the Spanish Colonial architecture of America, and they still exist in the older parts of BsAs around markets and government buildings -- which is good, because it gives our boatman some gloomy shadows to wander around in as he deals with... what else? Woman trouble:
 
-**_AMARRAS, D'Arienzo con Mauré_**
 {% include playaudio.html
+title="_AMARRAS_, D'Arienzo con Mauré"
 src='amarras' %}
 
 > _I wander like a tormented shadow
@@ -118,8 +118,8 @@ This is one of a handful of tangos that I got addicted to when I first began dan
 
 If you like _Amarras_, there's nothing wrong with standing up next to your computer and moving around. Dancing by yourself is a great way to get in touch with the music. We'll copy the music control here, in case you want to try it:
 
-**_AMARRAS, D'Arienzo con Mauré_**
 {% include playaudio.html
+title="_AMARRAS_, D'Arienzo con Mauré"
 src='amarras' %}
 
 You don't need space or big movements, and you don't need to worry about a partner. A man or a woman can do it, and it doesn't matter at all what it looks like. Do what comes naturally. If you want to swing your arms around a little when Mauré starts to sing, go for it. You can enjoy D'Arienzo's beautiful introduction by simply changing weight back and forth from one foot to the other:
@@ -168,8 +168,8 @@ But is it the same?
 Here are two examples of Biaggi playing with his own orchestra after he left D'Arienzo.
 They're from about the same time that _Amarras_ was recorded:
 
-**_BIAGGI, piano_**
 {% include playaudio.html
+title='_BIAGGI, piano_'
 src='Biaggimix' %}
 
 The first part is from _Gaucho Sentimiento_, and Biaggi's piano has a sharp, silvery sound.

@@ -1,0 +1,8 @@
+{% assign _avsrc = site.data.slides[ include.src ].frames %}
+<div class="sliderbox">
+  <ol>
+  {% for n in _avsrc %}
+  <li>{{ n }}</li>
+  {% endfor %}
+  </ol>
+</div>

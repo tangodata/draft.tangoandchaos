@@ -22,8 +22,8 @@ Ernesto Delgado and Miguelito kept marveling at the difficulty of staying with C
 but then, most of us have been there -- and we lived through it.
 So from the distance of a few years, it's possible to see a touch of humor in the way Castillo hammers out that last line:
 
-**_IDILIO TRUNCO,_ Balcarce con Castillo**
 {% include playaudio.html
+title='_IDILIO TRUNCO,_ Balcarce con Castillo'
 src='19idiliotrunco' %}
 
 > _Go away ...

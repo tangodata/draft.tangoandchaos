@@ -1,0 +1,33 @@
+{% assign _av = site.data.videos[ include.src ] %}
+{% assign _avsrc = _av.ytube %}
+<div class="videobox" style="background-color:#ace;padding:5px 10px;">
+  <iframe width="525" height="394" frameborder="0" allowfullscreen
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  src="https://www.youtube.com/embed/{{ _avsrc }}"></iframe>
+  <br>Open
+  <a href="https://youtu.be/{{ _avsrc }}"
+  target="_BLANK" alt="{{ _avsrc }}">
+  Youtube clip</a>
+  <!--
+  <div style="font-size:0.8em;line-height:1.1em;display:none;"><i>
+  NOTE: Because of its size, this video may take several minutes to load.
+  The player may stop several times until the download finishes.
+  When it stops, you can use the slider to replay the first part while you
+  wait, or just leave the page open & check back in a few minutes.
+  Once it loads, you can play the entire video.
+  </i></div>
+
+
+  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="640" height="480" id="FLVPlayer1">
+    <param name="movie" value="FLVPlayer_Progressive.swf" />
+    <param name="salign" value="lt" />
+    <param name="quality" value="high" />
+    <param name="scale" value="noscale" />
+    <param name="FlashVars" value="&MM_ComponentVersion=1&skinName=Clear_Skin_3&streamName=5videos/Ismael1&autoPlay=false&autoRewind=false" />
+    <embed src="FLVPlayer_Progressive.swf" flashvars="&MM_ComponentVersion=1&skinName=Clear_Skin_3&streamName=5videos/Ismael1&autoPlay=false&autoRewind=false" quality="high" scale="noscale" width="640" height="480" name="FLVPlayer1" salign="LT" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+    </embed>
+  </object>
+
+
+   -->
+</div>

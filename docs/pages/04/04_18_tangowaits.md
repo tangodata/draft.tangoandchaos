@@ -42,8 +42,8 @@ He once reluctantly admitted that he sometimes even cried.
 
 Listen one more time to the ending of _Suerte Loca_ -- the part after Fiorentino stops singing, where Troilo comes in. This is a man at the top of his game. He’s at the center ... probably the most respected man in tango, in front of his orchestra. They have just played through a performance of one of the greatest tangos ever created, and his friend Fiorentino, the average singer who he stuck by and helped, has somehow managed to rise to the occasion. Troilo has stayed in the background through most of it, and now, it’s his turn to finish with the bandoneon. Here it is -- the difficult instrument that defines tango -- played by the man who defines tango. At the height of tango's popularity, and the height of his powers:
 
-**_SUERTE LOCA,_ Troilo con Fiorentino**
 {% include playaudio.html
+title='_SUERTE LOCA,_ Troilo con Fiorentino'
 src='12suerte' %}
 
 Listen closely to the ending. It isn't complex. In fact, it's almost anticlimactic. There’s no striking display of keyboard artistry -- I've been told there were _bandoneonistas_ who were actually more technically skilled than Troilo. And it isn't loud, either. It's almost like he’s playing with a blanket draped over the instrument; like a man practicing in a small apartment who doesn’t want to disturb the neighbors. It's as if he's playing casually ... but if you listen very, _very_ closely you may notice that he subtly changes the volume level as he plays. It's always changing ... slightly up, then slightly down ... like a man carefully adjusting the volume knob on a radio. He plays humbly and simply ... but Troilo puts more of himself into that last half minute of _Suerte Loca_ than most people put into a lifetime of tango.

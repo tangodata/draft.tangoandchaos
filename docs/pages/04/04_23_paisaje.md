@@ -14,8 +14,8 @@ What a fascinating thing -- the way art can mysteriously transform something and
 
 How is it possible to make vibrations in the air into something more? How, for example, is it possible to make sound waves become a certain time of year? Obviously there are birds chirping in the summer, and the winter is sometimes quieter -- but I don’t normally think of the seasons as having a different sound. Yet after I translated this tango, it began to sound like autumn. Not just the words -- but the music itself! It began to sound like "the ache of autumn". Like the sound of fall slipping into winter. How do you put something into the cadence and the tone of an orchestra that does that?
 
-**_PAISAJE, Laurenz con Podestá_**
 {% include playaudio.html
+title='_PAISAJE_, Laurenz con Podestá'
 src='paisaje' %}
 
 I'm always looking for words to describe the music on these pages.

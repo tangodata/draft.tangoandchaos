@@ -23,8 +23,8 @@ This is the tango they were dreaming about in _Emoción_:
 ![The Maestro](/4_pics/5farol/image002.jpg)
 Anibal Troilo
 
-**_FAROL_, Anibal Troilo orchestra, Francisco Fiorentino singing**
 {% include playaudio.html
+title='_FAROL_, Anibal Troilo orchestra, Francisco Fiorentino singing'
 src='5farol' %}
 
 Where do we start?
@@ -181,8 +181,8 @@ The truth is there was a time when I didn’t like _Farol_ all that much. Here i
 ![Osvaldo Pugliese](/4_pics/5farol/image004.jpg)
 Osvaldo Pugliese
 
-**_FAROL_, Osvaldo Pugliese orchestra, Roberto Chanel singing**
 {% include playaudio.html
+title='_FAROL_, Osvaldo Pugliese orchestra, Roberto Chanel singing'
 src='5farol2' %}
 
 

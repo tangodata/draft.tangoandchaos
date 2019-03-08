@@ -11,8 +11,8 @@ date: 2006-01-01
 
 **"Think Carefully"**
 
-**_PENSALO BIEN_**
 {% include playaudio.html
+title='_PENSALO BIEN_'
 src='pensalo' %}
 
 Can you identify the orchestra?
@@ -55,8 +55,9 @@ We've already heard D’Arienzo use it to accent the music in _Pensalo Bien_, an
 This tango isn't a _Cencerro_, but it's still a very nice one that provides a clear example of Biaggi’s bright piano, and it also has that unforgettable violin, with D'Arienzo's bandoneons _chunking_ away in the background.
 I included a few lines of Hector Mauré’s voice at the end (we’ll listen to him more later):
 
-**_TIERRITA, D'Arienzo, Biaggi piano, Hector Mauré singing**
-tierrita.xspf
+{% include playaudio.html
+title="_TIERRITA_, D'Arienzo, Biaggi piano, Hector Mauré singing"
+src='tierrita' %}
 
 Once your ear learns the old-fashioned sound of this violin and Biaggi's piano, you shouldn’t have any trouble identifying the D’Arienzo-Biaggi tangos ... but the lyrics can fool you.
 Up until today, I thought _Tierrita_ was about something nice.

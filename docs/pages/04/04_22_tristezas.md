@@ -16,8 +16,8 @@ Now however, with the help of my _profesora_, I discovered that part of the earl
 
 _Tristezas_ is a very well known and important tango, so we'll look at three different versions. The first is probably the one that's the most popular in the milongas. Here's the version most dancers are familiar with -- Calo with Berón singing:
 
-**_TRISTEZAS DE LA CALLE CORRIENTES, Calo con Berón_**
 {% include playaudio.html
+title='_TRISTEZAS DE LA CALLE CORRIENTES_, Calo con Berón'
 src='tristezascalo' %}
 
 > _Street like a valley
@@ -110,8 +110,8 @@ Now let's listen to Troilo with Fiorentino. It's the version I like best for dan
 
 
 
-**_TRISTEZAS DE LA CALLE CORRIENTES, Troilo con Fiorentino_**
 {% include playaudio.html
+title='_TRISTEZAS DE LA CALLE CORRIENTES_, Troilo con Fiorentino'
 src='tristezastroilo' %}
 
 Earlier, when talking about tango artists, I used the words "he or she" -- although when it comes to the Golden Age, it's mostly "he". I don't think there were any women in the orchestras, and as far as women singers, most milongueros don't like to dance to them -- but that doesn't mean there aren't any great women tango singers.
@@ -122,8 +122,8 @@ The last version we'll listen to is sung by Libertad Lamarque. Although it was r
 
 Here's Libertad Lamarque's "_todo la carne en la parrilla_" version of _Tristezas de la Calle Corrientes_:
 
-**_TRISTEZAS DE LA CALLE CORRIENTES, Libertad Lamarque_**
 {% include playaudio.html
+title='_TRISTEZAS DE LA CALLE CORRIENTES_, Libertad Lamarque'
 src='tristezaslibertad' %}
 
 _Yes!_ Now we're getting somewhere. You'll notice that this one contains more lyrics, and it includes the last, and maybe the most powerful lines of Expósito's poem:
