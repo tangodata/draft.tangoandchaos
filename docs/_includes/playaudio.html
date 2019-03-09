@@ -1,5 +1,5 @@
 {% assign _avsrc = site.data.audios[ include.src ].song %}
-{% capture _mp3 %}{{ site.baseurl }}res/Audios/Tangos/{{ _avsrc }}{% endcapture %}
+{% capture _mp3 %}{{ site.baseurl }}res/Audios/{{ _avsrc }}{% endcapture %}
 <div class="audiobox">
   <div><b>{{ include.title | markdownify }}</b></div>
   <audio src="{{ _mp3 }}"

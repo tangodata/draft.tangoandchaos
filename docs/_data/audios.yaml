@@ -1,153 +1,160 @@
 10adios:
   pre: 10adios.xspf
-  song: Adios Arrabal.mp3
+  song: Tangos/Adios Arrabal.mp3
 
 11trasnochando:
   pre: 11trasnochando.xspf
-  song: Trasnochando Calo Beron.mp3
+  song: Tangos/Trasnochando Calo Beron.mp3
 
 12suerte:
   pre: 12suerte.xspf
-  song: Suerte Loca Triolo.mp3
+  song: Tangos/Suerte Loca Triolo.mp3
 
 13mano:
   pre: 13mano.xspf
-  song: Manoblanca Vargas.mp3
+  song: Tangos/Manoblanca Vargas.mp3
 
 14arrabalero:
   pre: 14arrabalero.xspf
-  song: Arrabalero.mp3
+  song: Tangos/Arrabalero.mp3
 
 14esquinas:
   pre: 14esquinas.xspf
-  song: Tres Esquinas.mp3
+  song: Tangos/Tres Esquinas.mp3
 
 15volver:
   pre: 15volver.xspf
-  song: volver.mp3
+  song: Tangos/volver.mp3
 
 17locogoyeneche:
   pre: 17locogoyeneche.xspf
-  song: locogoyenech.mp3
+  song: Tangos/locogoyenech.mp3
 
 17twotangos1:
   pre: 17twotangos.xspf
-  song: viejoporton.mp3
+  song: Tangos/viejoporton.mp3
 
 17twotangos2:
   pre: 17twotangos.xspf
-  song: cuartitozaul.mp3
+  song: Tangos/cuartitozaul.mp3
 
 2gloria2:
   pre: 2gloria2.xspf
-  song: Gloria Canaro.mp3
+  song: Tangos/Gloria Canaro.mp3
 
 2gloria:
   pre: 2gloria.xspf
-  song: Gloria DAngelis.mp3
+  song: Tangos/Gloria DAngelis.mp3
 
 3emocion:
   pre: 3emocion.xspf
-  song: Una Emocion Tanturi Campos.mp3
+  song: Tangos/Una Emocion Tanturi Campos.mp3
 
 4encopao2:
   pre: 4encopao2.xspf
-  song: Encopao Rodriguez.mp3
+  song: Tangos/Encopao Rodriguez.mp3
 
 4encopao:
   pre: 4encopao.xspf
-  song: Encopao Troilo.mp3
+  song: Tangos/Encopao Troilo.mp3
 
 5farol2:
   pre: 5farol2.xspf
-  song: Farol Pugliese.mp3
+  song: Tangos/Farol Pugliese.mp3
 
 5farol:
   pre: 5farol.xspf
-  song: Farol Troilo.mp3
+  song: Tangos/Farol Troilo.mp3
 
 6cows:
   pre: 6cows.xspf
-  song: D'Arienzo El Cencerro.mp3
+  song: Tangos/D'Arienzo El Cencerro.mp3
 
 6lagrimas:
   pre: 6lagrimas.xspf
-  song: D'Arienzo Lagrimas y Sonrisas.mp3
+  song: Tangos/D'Arienzo Lagrimas y Sonrisas.mp3
 
 7rev1:
   pre: 7rev1.xspf
-  song: Guardia Vieja2.mp3
+  song: Tangos/Guardia Vieja2.mp3
 
 7rev2:
   pre: 7rev2.xspf
-  song: Gardel Media Luz 1928.mp3
+  song: Tangos/Gardel Media Luz 1928.mp3
 
 7rev3:
   pre: 7rev3.xspf
-  song: Firpo Arolas Fuegos Artificiales 1928.mp3
+  song: Tangos/Firpo Arolas Fuegos Artificiales 1928.mp3
 
 7rev4:
   pre: 7rev4.xspf
-  song: Firpo Amanecer.mp3
+  song: Tangos/Firpo Amanecer.mp3
 
 7rev5:
   pre: 7rev5.xspf
-  song: Orqesta Victor Pato 1926.mp3
+  song: Tangos/Orqesta Victor Pato 1926.mp3
 
 7rev6:
   pre: 7rev6.xspf
-  song: De Caro Flores Negras 1928.mp3
+  song: Tangos/De Caro Flores Negras 1928.mp3
 
 7rev7:
   pre: 7rev7.xspf
-  song: Vieja Amiga Canaro.mp3
+  song: Tangos/Vieja Amiga Canaro.mp3
 
 7rev8:
   pre: 7rev8.xspf
-  song: Vieja Amiga Laurenz.mp3
+  song: Tangos/Vieja Amiga Laurenz.mp3
 
 9pianta:
   pre: 9pianta.xspf
-  song: Como Pianta La Vida Rodriguez.mp3
+  song: Tangos/Como Pianta La Vida Rodriguez.mp3
 
 amarras:
   pre: amarras.xspf
-  song: amarras.mp3
+  song: Tangos/amarras.mp3
 
 Biaggimix:
   pre: Biaggimix.xspf
-  song: Biaggimix.mp3
+  song: Tangos/Biaggimix.mp3
 
 bulin:
   pre: bulin.xspf
-  song: Bulin.mp3
+  song: Tangos/Bulin.mp3
 
 paisaje:
   pre: paisaje.xspf
-  song: Paisaje.mp3
+  song: Tangos/Paisaje.mp3
 
 pensalo:
   pre: pensalo.xspf
-  song: Pensalo Bien.mp3
+  song: Tangos/Pensalo Bien.mp3
 
 recien:
   pre: recien.xspf
-  song: Recien.mp3
+  song: Tangos/Recien.mp3
 
 tierrita:
   pre: tierrita.xspf
-  song: TierritaCut.mp3
+  song: Tangos/TierritaCut.mp3
 
 tristezascalo:
   pre: tristezascalo.xspf
-  song: TristezasCalo.mp3
+  song: Tangos/TristezasCalo.mp3
 
 tristezaslibertad:
   pre: tristezaslibertad.xspf
-  song: TristezasLib.mp3
+  song: Tangos/TristezasLib.mp3
 
 tristezastroilo:
   pre: tristezastroilo.xspf
-  song: TristezasTroilo.mp3
+  song: Tangos/TristezasTroilo.mp3
 
+tick1:
+  pre: tick1
+  song: Tick1.wav
+
+tick2:
+  pre: tick2
+  song: Tick2.wav
 

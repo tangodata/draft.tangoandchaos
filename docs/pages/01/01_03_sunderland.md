@@ -10,7 +10,13 @@ date: 2001-12-19
 
 # Sunderland
 
->"Those 'potranca' girls, they got you crazy!" -- Malena
+{% include pix.html
+src='1_pics/image001.jpg'
+alt='Pepito Avellenada'
+width='310' height='236' float='left'
+%}
+
+> "Those 'potranca' girls, they got you crazy!" -- Malena
 
 **Wed Dec 19, 2001 2:40 am**
 (_"Potranca"_ is castellano for a female racehorse.)

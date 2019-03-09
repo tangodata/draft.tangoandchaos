@@ -10,6 +10,12 @@ date: 2003-07-08
 
 # A trip to the other side
 
+{% include pix.html
+src='1_pics/image014.jpg'
+alt='Riachuelo'
+width='300' height='210' float='left'
+%}
+
 **July 8, 2003:** In my part of the U.S. the Mexicans use the phrase _"Es un hombre del otro lado"_ to refer to someone who lives on the 'other side' of the frontier, in Mexico. In BsAs they use a similar phrase, meaning the other side of the page. It means the down neighborhood, the _"barrio, barrio"_... the _"arrabal"_. Last night we headed south to _Avellaneda_, to the other side of the tango world. It is not in the city, but in _La Provincia de Buenos Aires_, across the _Riachuelo_ River to the south of the city, where today there are few remaining tango clubs. When our taxi got near our destination, the driver locked the doors, and said, "It's dangerous. Don't walk here." But this may have been a bit overstated. We know people who live here and they walk around all the time. A few minutes later we arrived at _Club Leales y Pampeanos_ where _"Un Cacho de Tango"_ milonga is held on Sunday nights. If _El Beso_, which is frequented by upscale professionals, is at one end of the tango world, this club is at the other. Not one in a million tourists has been to it, and few if any of the dancers from downtown or the neighborhoods know it either.
 
 Admission to _Un Cacho_ is one peso (about 35 cents U.S.), and that's all that many of these people can afford to pay. But although they don't have much money, the have other things. Your peso gets you a seat at a table with bowls of free mate, sugar, and thermos jugs of hot water... and one of the best atmospheres in Argentina for dancing tango. It has a different feel from any of the other places we've been. The name of the club is a play on words, meaning "a piece of tango", and it also refers to Cacho, the organizer of the milonga, who used to be a stage tango performer (you can see Cacho sitting at Copes' table in the club scene in Saura's movie _Tango_). Like some of the other clubs away from _El Centro_, it is also a social and sports club, with banners of _fútbol_ teams like _Boca Jr., Independiente_, and _River Plate_ on the walls. We met our friend Nestor Serra, a milonguero from the neighborhood, and his partner Cristina there. Nestor is a retired dockworker, with the heart of a poet. One of his handwritten poems is framed in Alejandra's house, and it was Nestor who had picked us up at the airport when Alejandra's children (a busy doctor, and a busy lawyer) couldn't get away from work to meet us.

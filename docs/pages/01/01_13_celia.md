@@ -74,19 +74,82 @@ He would have taken her under his wing, showered her with praise and attention, 
 She was very nice to the woman, and the woman kept trying in the classes, but Celia didn't blow smoke up her tango dress.
 Celia respected her enough to gently say that she could keep coming, but the prospects for stardom were not good.
 
-The first class we sat in on at the club was for social dancers. Then last week we went to one of her classes for students who want to perform on stage, and I expected her to be really rough on them -- but she wasn't. We were in a large rehearsal room at Teatro San Martin, and I was hiding in the corner. I just wanted to watch, because I was actually pretty sick from coughing and not sleeping, and she knew it, but ... "_Amor! Amor! Vamos! Vamos a trabajar!_" She was laughing, but she wouldn't start the class until I got up with the other 35 or 40 young students. She didn't smoke during the class, which must have been hard for her, and it shows how nice she really is, but she worked me over! I will never complain again about a lack of basic technique drills in tango classes. Back and forth we went, doing the hardest balance and step drills, frontward and backward across the big room, always to the beat of loud tango, Celia clapping if the class began to falter. I was feeling terrible, and soaked in sweat, but I actually loved it! It's easy to get a sort of 'I'm a milonguero' attitude that can be punctured pretty quickly in a place like this. The drills were similar to the ones Milena Plebs does in her classes, really a little more stage oriented, but any drill for balance and control is a good one.
+The first class we sat in on at the club was for social dancers.
+Then last week we went to one of her classes for students who want to perform on stage, and I expected her to be really rough on them -- but she wasn't.
+We were in a large rehearsal room at Teatro San Martin, and I was hiding in the corner.
+I just wanted to watch, because I was actually pretty sick from coughing and not sleeping, and she knew it, but ...
+"_Amor! Amor! Vamos! Vamos a trabajar!_"
+She was laughing, but she wouldn't start the class until I got up with the other 35 or 40 young students.
+She didn't smoke during the class, which must have been hard for her, and it shows how nice she really is, but she worked me over!
+I will never complain again about a lack of basic technique drills in tango classes.
+Back and forth we went, doing the hardest balance and step drills, frontward and backward across the big room, always to the beat of loud tango, Celia clapping if the class began to falter.
+I was feeling terrible, and soaked in sweat, but I actually loved it!
+It's easy to get a sort of 'I'm a milonguero' attitude that can be punctured pretty quickly in a place like this.
+The drills were similar to the ones Milena Plebs does in her classes, really a little more stage oriented, but any drill for balance and control is a good one.
 
-She was relaxed and kidding around with the students in this class. Argentina is a country that takes the arts seriously, and _Teatro San Martin_ is supported by the government, and it's at the center of the action. Every year they put on a big show and competition between all the departments -- drama, modern dance, music, etc., and it is Celia's mission to win it for tango every year. And she does. One of the students got a big laugh by asking if she was going to make everyone cry again this year in the intense preparation for the show, and she said, "Of course!" After the drills, she taught us a step, and I liked it. It actually was the bread and butter step Cacho Dante does, that ends with a boleo. I wonder if he learned it from her. I'm not good at boleos, but I learned a lot, and I really figured out how to do them, if the time ever comes. Maybe I'll start using them a little after I try it out. She came over and led me -- and the milongueros are right. She is a great leader, and she laughed and applauded when I did a couple of boleos. She said that her goal as a teacher is to make her woman students better than she is, and that this has only clearly happened twice. One is a woman who is now a known performer in BsAs, Alejandra Arrue. I saw her and her husband Sergio at a performance in Nino Bien last year. She says the other one is a woman I spend a lot of time dancing with.
+She was relaxed and kidding around with the students in this class.
+Argentina is a country that takes the arts seriously, and _Teatro San Martin_ is supported by the government, and it's at the center of the action.
+Every year they put on a big show and competition between all the departments -- drama, modern dance, music, etc., and it is Celia's mission to win it for tango every year. And she does.
+One of the students got a big laugh by asking if she was going to make everyone cry again this year in the intense preparation for the show, and she said, "Of course!"
+After the drills, she taught us a step, and I liked it.
+It actually was the bread and butter step Cacho Dante does, that ends with a boleo. I wonder if he learned it from her.
+I'm not good at boleos, but I learned a lot, and I really figured out how to do them, if the time ever comes.
+Maybe I'll start using them a little after I try it out.
+She came over and led me -- and the milongueros are right.
+She is a great leader, and she laughed and applauded when I did a couple of boleos.
+She said that her goal as a teacher is to make her woman students better than she is, and that this has only clearly happened twice.
+One is a woman who is now a known performer in BsAs, Alejandra Arrue.
+I saw her and her husband Sergio at a performance in Nino Bien last year.
+She says the other one is a woman I spend a lot of time dancing with.
 
-I said that I have a healthy skepticism about tango instructors. Buyer beware. And I have the same skepticism about ski instructors. They can mess you up. I know, because I used to be one. When I was learning to ski I went from one bad class to another, until one good instructor finally pointed me in the direction of a well-known racing coach named Olle Larson. I got to know him, we became friends, and I learned to ski mostly by going to races with him and his team, and skiing around socially with him between the races. Here is how he taught me. Every few days he would tell me to try one, small, simple thing. To do something very simple like thinking only about keeping shin pressure on the front of the boot at a certain part of the turn, or keeping a certain part of the body still. I would always say, "Yeah, but what about..." He'd say, don't worry about it. Then, maybe a week later, he'd tell me another small, simple thing. Over time, I became a good skier without even knowing it. The important point is that although he would tell me only one thing, he knew so much, and his eye was so good, that it was always the right thing. And then he would wait. When he saw I had it down, he would add something else.
+I said that I have a healthy skepticism about tango instructors.
+Buyer beware. And I have the same skepticism about ski instructors.
+They can mess you up. I know, because I used to be one.
+When I was learning to ski I went from one bad class to another, until one good instructor finally pointed me in the direction of a well-known racing coach named Olle Larson.
+I got to know him, we became friends, and I learned to ski mostly by going to races with him and his team, and skiing around socially with him between the races.
+Here is how he taught me.
+Every few days he would tell me to try one, small, simple thing.
+To do something very simple like thinking only about keeping shin pressure on the front of the boot at a certain part of the turn, or keeping a certain part of the body still.
+I would always say, "Yeah, but what about..." He'd say, don't worry about it.
+Then, maybe a week later, he'd tell me another small, simple thing.
+Over time, I became a good skier without even knowing it.
+The important point is that although he would tell me only one thing, he knew so much, and his eye was so good, that it was always the right thing.
+And then he would wait. When he saw I had it down, he would add something else.
 
-This kind of sneaky teaching isn't common in tango. The first person I saw use it was Osvaldo Natucci, and his partner Eladia Cordoba at El Beso. Natu is a smart guy. He worked in Spain as an industrial engineer, and he is a serious student of the milongueros, and of tango technique. His classes seem very casual. Music plays, and you dance. Occasionally he will wander over and tell you to switch partners. Sometimes, but not often, he will demonstrate something. But you find that every class or two he corrects one small thing, hand position, a small thing about posture or stepping. And you start to improve. Normally he is very quiet, but sometimes something interesting happens. When he is inspired, he will suddenly go off on a wild monologue about tango, like a preacher who has seen the light. Sometimes it starts quietly, and people will begin to notice that he is sort of talking quietly, almost to himself. Then it gets louder, and people start to notice, and gather around. I have seen large rooms of people held breathless in rapt attention as he testifies in the Church of Tango for 10 or 15 minutes. He's very knowledgeable, and my Spanish is so bad that when he's on a roll like that, I don't get most of it. The few English speakers in the classes used to see me straining for the words, and offered to help by writing them down. I can still remember him yelling, "_Tango es bajo y sucio! No es academia! No es academia!_" Later Alejandra went to the classes with me and helped me understand what he was saying better, and Natu seemed very excited that she was coming to his classes.
+This kind of sneaky teaching isn't common in tango.
+The first person I saw use it was Osvaldo Natucci, and his partner Eladia Cordoba at El Beso.
+Natu is a smart guy. He worked in Spain as an industrial engineer, and he is a serious student of the milongueros, and of tango technique.
+His classes seem very casual. Music plays, and you dance.
+Occasionally he will wander over and tell you to switch partners.
+Sometimes, but not often, he will demonstrate something.
+But you find that every class or two he corrects one small thing, hand position, a small thing about posture or stepping. And you start to improve.
+Normally he is very quiet, but sometimes something interesting happens.
+When he is inspired, he will suddenly go off on a wild monologue about tango, like a preacher who has seen the light.
+Sometimes it starts quietly, and people will begin to notice that he is sort of talking quietly, almost to himself.
+Then it gets louder, and people start to notice, and gather around.
+I have seen large rooms of people held breathless in rapt attention as he testifies in the Church of Tango for 10 or 15 minutes.
+He's very knowledgeable, and my Spanish is so bad that when he's on a roll like that, I don't get most of it.
+The few English speakers in the classes used to see me straining for the words, and offered to help by writing them down.
+I can still remember him yelling, "_Tango es bajo y sucio! No es academia! No es academia!_"
+Later Alejandra went to the classes with me and helped me understand what he was saying better, and Natu seemed very excited that she was coming to his classes.
 
-![Anibal Triolo and Osvaldo Natucci]({{site.res}}/1_pics/image016.jpg)
+{% include pix.html
+src='1_pics/image016.jpg'
+alt='Anibal Triolo and Osvaldo Natucci'
+width='300' height='298' float='right'
+%}
 
-Here is a young Osvaldo Natucci with his hero, Anibal Troilo. Natu lived for many years in Spain, and when he returned to Buenos Aires, the milongueros said, "Who are you? What do you know about tango?"  Natu was able to use this picture to gain entry into their world. (I told him I could put myself in the picture in five minutes using Photoshop -- but he says the picture is genuine)
+Here is a young Osvaldo Natucci with his hero, Anibal Troilo.
+Natu lived for many years in Spain, and when he returned to Buenos Aires, the milongueros said,
+"Who are you? What do you know about tango?"
+Natu was able to use this picture to gain entry into their world.
+(I told him I could put myself in the picture in five minutes using Photoshop -- but he says the picture is genuine)
 
-When Natucci first started his milonga, "_Un Monton de Tango_", about the only people sitting around the empty room were Natu and his partner Osvaldo Buglione, Gerard Gellé, and Alejandra. It later became one of the most popular milongas in BsAs, and Alejandra quit going when the tourists began to crowd in. I think Natu's feeling were a little hurt, but everything is fine now, and Natu and I have become friends. We are on the same wavelength, and he's another one I seem to be able to have flowing, broad ranging discussions with in castellano. He's well educated, intense, and he seems to know everything there is to know about tango, its history, and the people in it. Especially the music.
+When Natucci first started his milonga, "_Un Monton de Tango_", about the only people sitting around the empty room were Natu and his partner Osvaldo Buglione, Gerard Gellé, and Alejandra.
+It later became one of the most popular milongas in BsAs, and Alejandra quit going when the tourists began to crowd in.
+I think Natu's feeling were a little hurt, but everything is fine now, and Natu and I have become friends.
+We are on the same wavelength, and he's another one I seem to be able to have flowing, broad ranging discussions with in castellano.
+He's well educated, intense, and he seems to know everything there is to know about tango, its history, and the people in it. Especially the music.
 
 Natu's way of teaching, and I realized Celia's as well, was similar to that of my friend Olle, the ski coach.
 Teach the important basics, and then let people dance.
@@ -110,41 +173,207 @@ He wouldn't have had a chance.
 
 ## "It's a beautiful day in the neighborhood..."
 
-**August 2, 2003:** A fantastic day in Buenos Aires! The cold and damp has lifted, and it's clear and warm. It feels like spring, and all of the cold damp pollution that has been hanging around the streets seems to have blown away. My movie has gone from black and white to Technicolor. I get off the _subte_ (subway) at _Tribunales_ and walk past the big old courthouse building, and past the _confiteria_ on the corner where the lawyers hang out. Every town seems to have a courthouse square and a coffee shop for the lawyers, and BsAs is no exception. Then I head down the street behind _Teatro Colon_, one the world's great opera houses, and out onto the broad expanse of _9 de Julio_. A glorious sight. There is no other way to put it. The _Obelisco_ glowing in the sun, the wide avenue lined with stately old buildings. I walk south toward Congreso, soaking in the sights and sounds of the street. I have awakened from my long coughing winter's nap. There are people in cow suits and a mouse hopping around for the kids, and all sorts of jugglers running into the avenue to work for tips in front of the cars. I see a car rush by honking with a white cloth being held out of the window. I used to think this was some kind of celebration, until Alejandra told me this was what people did in an emergency to get to the hospital fast.
+**August 2, 2003:** A fantastic day in Buenos Aires!
+The cold and damp has lifted, and it's clear and warm.
+It feels like spring, and all of the cold damp pollution that has been hanging around the streets seems to have blown away.
+My movie has gone from black and white to Technicolor. I get off the _subte_ (subway) at _Tribunales_ and walk past the big old courthouse building, and past the _confiteria_ on the corner where the lawyers hang out.
+Every town seems to have a courthouse square and a coffee shop for the lawyers, and BsAs is no exception.
+Then I head down the street behind _Teatro Colon_, one the world's great opera houses, and out onto the broad expanse of _9 de Julio_.
+A glorious sight. There is no other way to put it.
+The _Obelisco_ glowing in the sun, the wide avenue lined with stately old buildings.
+I walk south toward Congreso, soaking in the sights and sounds of the street.
+I have awakened from my long coughing winter's nap.
+There are people in cow suits and a mouse hopping around for the kids, and all sorts of jugglers running into the avenue to work for tips in front of the cars.
+I see a car rush by honking with a white cloth being held out of the window.
+I used to think this was some kind of celebration, until Alejandra told me this was what people did in an emergency to get to the hospital fast.
 
-I'm headed to _Parana_ street, just off Plaza Congreso to see Oscar, in search of some rare music. I'm looking for Anselmo Aieta, a name that I first encountered on the back wall at _Club Sin Rumbo_. But we can talk about that later. For now, the day is too nice to stay inside of Oscars cramped office. So I wander around _Congreso_, looking at the interesting buildings with their tall towers and clocks. There is even an ornate Dutch windmill on the _Confiteria El Molino_. I've thought about living in this part of town, but it has a few problems. Almost every political demonstration seems to end up either here or in _Plaza de Mayo_ in front of the _Casa Rosada_, so it can be an inconvenient and noisy place at times. But today it is beautiful. The tall _Obelisco_ on _9 de Julio_ seems like it should be the center of the country, but actually the central survey point of Argentina is a monolith across from the old _Teatro Liceo_ in the Plaza. Just like the tower in _Plaza Cagancha_ in Montevideo, which is kilometer zero at the center of Uruguay, this block of white marble is the center of everything in Argentina. It is the point from which everything is measured. _Kilometro Cero_, a place to begin the journey to every other place. A "zero point". I've been thinking about the "zero point" in tango lately as well. It is a point of perfect balance. The place to look for at the heel-to-heel position, the place where every single tango step must begin and end. And every dance as well. I'm convinced that finding posture and equilibrium at this point is the technical key to dancing tango. Late one night after the milonga at _Club Español_, and dinner and champagne at the Museum of Ham (no kidding!), I actually scrambled up to the top of the 7 ft. high _monolito_ to try out my balance. I stood right on top in the exact middle of the column in _Plaza Congreso_ at 1am. in the dark, dead center at the start and finish of Argentina, while Alejandra kept an eye out for the cops.
+I'm headed to _Parana_ street, just off Plaza Congreso to see Oscar, in search of some rare music.
+I'm looking for Anselmo Aieta, a name that I first encountered on the back wall at _Club Sin Rumbo_. But we can talk about that later.
+For now, the day is too nice to stay inside of Oscars cramped office.
+So I wander around _Congreso_, looking at the interesting buildings with their tall towers and clocks.
+There is even an ornate Dutch windmill on the _Confiteria El Molino_. I've thought about living in this part of town, but it has a few problems.
+Almost every political demonstration seems to end up either here or in _Plaza de Mayo_ in front of the _Casa Rosada_, so it can be an inconvenient and noisy place at times. But today it is beautiful.
+The tall _Obelisco_ on _9 de Julio_ seems like it should be the center of the country, but actually the central survey point of Argentina is a monolith across from the old _Teatro Liceo_ in the Plaza.
+Just like the tower in _Plaza Cagancha_ in Montevideo, which is kilometer zero at the center of Uruguay, this block of white marble is the center of everything in Argentina.
+It is the point from which everything is measured. _Kilometro Cero_, a place to begin the journey to every other place.
+A "zero point".
+I've been thinking about the "zero point" in tango lately as well. It is a point of perfect balance.
+The place to look for at the heel-to-heel position, the place where every single tango step must begin and end. And every dance as well.
+I'm convinced that finding posture and equilibrium at this point is the technical key to dancing tango.
+Late one night after the milonga at _Club Español_, and dinner and champagne at the Museum of Ham (no kidding!), I actually scrambled up to the top of the 7 ft. high _monolito_ to try out my balance.
+I stood right on top in the exact middle of the column in _Plaza Congreso_ at 1am. in the dark, dead center at the start and finish of Argentina, while Alejandra kept an eye out for the cops.
 
-But now it's midday, and after my visit with Oscar I have two ways to head home from _Congreso_. One is my favorite way to travel, the old 'A' line subte with its wood paneled cars, and hanging lamps. The other is _colectivo 12_. I decide to catch bus 12 right in front of the _Congreso_ building, and three _doces_ show up at the same time. They seem to bunch up sometimes, and being a wily commuter, I jump on the last one to avoid the crowd. Riding home I keep thinking, "What a glorious day!" The sights are endless. I see lots of businessmen in their sharp suits, and beautiful women walking down the sidewalk. On one street a line of about 20 workmen stretch halfway down the block, walking slowly and hauling on a rope. They bend forward, walking in a line with the rope over their shoulders, grinning self-consciously. They seem to be aware of the primal nature of their task, although instead of pulling a barge on the Volga, they are probably pulling a quarter mile of fiber optics cable under the street. I feel so good I want to jump out and help them pull. Tonight Alejandra and I are headed out to the ornate _Club Español_, which may be the most beautiful place in BsAs for a milonga. It may be even nicer than _La Ideal_, and certainly the dancing is better. I just talked to my friend Olle the ski coach last night, and his summer racing camps are finished on Mt. Hood. He wants to get a place in Hood River to catch the last of the windsurfing season in the Gorge, and we are ready! What could be better than ripping on the river in September, with the best tango dancing in the USA just down the road in Portland? A large skinhead with a goatee and piercings is sitting next to me on the bus, and I notice he's making a funny movement with his finger in front of his chest. I look out the window, and see we are passing a Catholic church, and I realize he has just crossed himself.
+But now it's midday, and after my visit with Oscar I have two ways to head home from _Congreso_.
+One is my favorite way to travel, the old 'A' line subte with its wood paneled cars, and hanging lamps.
+The other is _colectivo 12_. I decide to catch bus 12 right in front of the _Congreso_ building, and three _doces_ show up at the same time.
+They seem to bunch up sometimes, and being a wily commuter, I jump on the last one to avoid the crowd.
+Riding home I keep thinking, "What a glorious day!"
+The sights are endless. I see lots of businessmen in their sharp suits, and beautiful women walking down the sidewalk.
+On one street a line of about 20 workmen stretch halfway down the block, walking slowly and hauling on a rope.
+They bend forward, walking in a line with the rope over their shoulders, grinning self-consciously.
+They seem to be aware of the primal nature of their task, although instead of pulling a barge on the Volga, they are probably pulling a quarter mile of fiber optics cable under the street.
+I feel so good I want to jump out and help them pull.
+Tonight Alejandra and I are headed out to the ornate _Club Español_, which may be the most beautiful place in BsAs for a milonga.
+It may be even nicer than _La Ideal_, and certainly the dancing is better.
+I just talked to my friend Olle the ski coach last night, and his summer racing camps are finished on Mt. Hood. He wants to get a place in Hood River to catch the last of the windsurfing season in the Gorge, and we are ready!
+What could be better than ripping on the river in September, with the best tango dancing in the USA just down the road in Portland?
+A large skinhead with a goatee and piercings is sitting next to me on the bus, and I notice he's making a funny movement with his finger in front of his chest. I look out the window, and see we are passing a Catholic church, and I realize he has just crossed himself.
 
-I am constantly reminded that Argentina is a different country. We were in the electronics department of a large discount warehouse type of store down here, a cutting edge 21st century kind of place where everyone in the U.S. would immediately feel at home. I was talking to the young salesman about buying a notebook computer, when he apologized and said he was leaving. The other young man who was taking over came up, and they exchanged a hug and a kiss to signify the shift change at work. Argentines and Uruguayos are always walking up to each other on the street and asking questions, discussing things. In the U.S. I may go out on a day of running errands in public and remain in my own world, talking only to people in banks, stores, or offices that are necessary to take care of business. Without realizing it, I have walls up, avoiding physical, emotional, and even eye contact with strangers. There is a subconscious feeling that strangers are a bit annoying, intrusive, and possibly even dangerous. Take a walk around BsAs and these walls start to crumble. Someone will open the door to your private portable little shelter, and walk right in. They may walk up to ask for the time, or for directions, and then tell you what they are doing and where they have been. Someone in the car next to you will roll down the window and start talking to you. A pretty young woman may stop you on the street for something. Casually meet an attractive woman, either socially or professionally, and she may walk right over to give you a hug and a kiss. The walls come down in a very shocking and nice way. I learned that if you think of Argentina as a huge family, one that is more affectionate and expressive than many real families in the U.S., things begin to make sense. The young sales boys are not making a public gay statement. The young woman is not trying to proposition you. The guy in the car who just cut you off is not rolling down the window to shoot you. He is just another member of your family who wants to talk about something. They are all members of the Argentine family, acting in a way that is very natural for them. And if they really like you, watch out. On this trip I sat next to an older milonguero in _Lo de Celia's_ who I feel real affection for, and the fact that Alejandra and I had appeared unexpectedly from the U.S. was almost too much for him. For five minutes he kept looking at me and laughing, giving me hugs, and pinching my cheeks. I don't want to be a spokesman for the tourist bureau down here, but this experience alone makes it worth the price of the airfare.
+I am constantly reminded that Argentina is a different country.
+We were in the electronics department of a large discount warehouse type of store down here, a cutting edge 21st century kind of place where everyone in the U.S. would immediately feel at home.
+I was talking to the young salesman about buying a notebook computer, when he apologized and said he was leaving.
+The other young man who was taking over came up, and they exchanged a hug and a kiss to signify the shift change at work.
+Argentines and Uruguayos are always walking up to each other on the street and asking questions, discussing things.
+In the U.S. I may go out on a day of running errands in public and remain in my own world, talking only to people in banks, stores, or offices that are necessary to take care of business.
+Without realizing it, I have walls up, avoiding physical, emotional, and even eye contact with strangers.
+There is a subconscious feeling that strangers are a bit annoying, intrusive, and possibly even dangerous.
+Take a walk around BsAs and these walls start to crumble.
+Someone will open the door to your private portable little shelter, and walk right in.
+They may walk up to ask for the time, or for directions, and then tell you what they are doing and where they have been.
+Someone in the car next to you will roll down the window and start talking to you.
+A pretty young woman may stop you on the street for something.
+Casually meet an attractive woman, either socially or professionally, and she may walk right over to give you a hug and a kiss.
+The walls come down in a very shocking and nice way.
+I learned that if you think of Argentina as a huge family, one that is more affectionate and expressive than many real families in the U.S., things begin to make sense.
+The young sales boys are not making a public gay statement.
+The young woman is not trying to proposition you.
+The guy in the car who just cut you off is not rolling down the window to shoot you.
+He is just another member of your family who wants to talk about something.
+They are all members of the Argentine family, acting in a way that is very natural for them.
+And if they really like you, watch out.
+On this trip I sat next to an older milonguero in _Lo de Celia's_ who I feel real affection for, and the fact that Alejandra and I had appeared unexpectedly from the U.S. was almost too much for him.
+For five minutes he kept looking at me and laughing, giving me hugs, and pinching my cheeks.
+I don't want to be a spokesman for the tourist bureau down here, but this experience alone makes it worth the price of the airfare.
 
-What is their opinion of us _Norte Americanos_? The word "refrigerator" is sometimes used, meaning "cold". I didn't think this was fair, until I thought about it. I tried to see myself through their eyes. I have several very good friends, that I have known for more than 20 years, and I am barely comfortable shaking their hands. I'm not just a refrigerator, I'm a freezer.
+What is their opinion of us _Norte Americanos_?
+The word "refrigerator" is sometimes used, meaning "cold".
+I didn't think this was fair, until I thought about it.
+I tried to see myself through their eyes.
+I have several very good friends, that I have known for more than 20 years, and I am barely comfortable shaking their hands.
+I'm not just a refrigerator, I'm a freezer.
 
 \*\*\*\*
 
-We have been back in the clubs and enjoying the dancing this week. Because we've been trying to avoid the smoke we go early to avoid the big crowds, and we've also been looking for places with larger rooms and higher ceilings. Last Saturday night we went to _Circulo Trovador_. This was our first night out at a genuine BsAs milonga for couple of weeks. _Circulo Trovador_ is a relatively new milonga. While the big Saturday night crowds are at Sunderland in the suburbs, and at _Celia's_ and Canning downtown, _Circulo Trovador_ has become popular with couples who are looking primarily for a good place to dance with a little extra space. It's held in a very large room with a glass wall facing the street that makes it look like a large modern car dealership. The milonga location is new, but the rest of the club is very old, dating from the 1800s. I like it because the large room, plus another adjoining one, makes it possible to avoid the smoke. The music was excellent, and while there were a lot of people, there was also a lot of floor space and skilled navigation by most couples. It doesn't have the ambiance of the old clubs, but the floor is less crowded (a bit slippery- use water or resin on the shoes) and the air is reasonably healthy. By the way, Cacho's milonga in _Avellaneda_ on Sunday night (the one I wrote about at _Leales y Pampeanos_ with the picture of Carlos Gardel) has a non-smoking area separated from the main floor by clear plastic curtains, which has made it our favorite spot. It's part of the bar area, it's visible from the main floor, and it has good sound. It's close enough to the action to feel like part of the milonga, but the air is separate. The last time we went, 7 or 8 couples joined us dancing there, and several others came over to watch.
+We have been back in the clubs and enjoying the dancing this week.
+Because we've been trying to avoid the smoke we go early to avoid the big crowds, and we've also been looking for places with larger rooms and higher ceilings.
+Last Saturday night we went to _Circulo Trovador_.
+This was our first night out at a genuine BsAs milonga for couple of weeks.
+_Circulo Trovador_ is a relatively new milonga.
+While the big Saturday night crowds are at Sunderland in the suburbs, and at _Celia's_ and Canning downtown, _Circulo Trovador_ has become popular with couples who are looking primarily for a good place to dance with a little extra space.
+It's held in a very large room with a glass wall facing the street that makes it look like a large modern car dealership.
+The milonga location is new, but the rest of the club is very old, dating from the 1800s.
+I like it because the large room, plus another adjoining one, makes it possible to avoid the smoke.
+The music was excellent, and while there were a lot of people, there was also a lot of floor space and skilled navigation by most couples.
+It doesn't have the ambiance of the old clubs, but the floor is less crowded (a bit slippery- use water or resin on the shoes) and the air is reasonably healthy.
+By the way, Cacho's milonga in _Avellaneda_ on Sunday night (the one I wrote about at _Leales y Pampeanos_ with the picture of Carlos Gardel) has a non-smoking area separated from the main floor by clear plastic curtains, which has made it our favorite spot.
+It's part of the bar area, it's visible from the main floor, and it has good sound.
+It's close enough to the action to feel like part of the milonga, but the air is separate.
+The last time we went, 7 or 8 couples joined us dancing there, and several others came over to watch.
 
-There may be signs of change. Last week there was a letter in _La Nacion_ written by the most prominent cardio pulmonary specialist in the country saying that two-thirds of the Argentine population doesn't smoke, and that many of them are having respiratory problems from all the smoke in the air. He is calling for some restrictions on public smoking.
+There may be signs of change.
+Last week there was a letter in _La Nacion_ written by the most prominent cardio pulmonary specialist in the country saying that two-thirds of the Argentine population doesn't smoke, and that many of them are having respiratory problems from all the smoke in the air.
+He is calling for some restrictions on public smoking.
 
-My cough has been so persistent that a friend brought some tea for me that contained a mix of manzanilla tea, anise, and also some coca leaves. My first experience with coca leaves was when we were in _La Puna_ last year, the otherworldly valley in the Argentine Andes, in _La Provincia de Salta_, near Bolivia. The place reminds me of Northern Nevada where I grew up, but instead of being at an altitude of 5,000 feet, it's at an incredible 15,000 feet... and the mountains go up from there! The Indians that work there at the mines and salt flats chew big gobs of the leaves, along with a strange mix of ashes somehow molded together with eggs to look like small ashtrays made of pumice. They cram the leaves in, and take a small bite of the "ashtray" to go along with it, to help cut the power of the leaves. The green coca leaves are sold in large bags everywhere for a few pesos, and we made tea out of them to prevent altitude sickness. I also drank some of it before we went to a milonga nearby in Salta, and it will positively get you up dancin'. This was the strangest and funniest milonga I've ever been to, and it was so much fun we stayed over to hit it again the next Saturday night. I had a bag of the leaves left over when we flew back to the U.S., and I almost stuck them in my suitcase, until I came to my senses and gave them away.
+My cough has been so persistent that a friend brought some tea for me that contained a mix of manzanilla tea, anise, and also some coca leaves.
+My first experience with coca leaves was when we were in _La Puna_ last year, the otherworldly valley in the Argentine Andes, in _La Provincia de Salta_, near Bolivia.
+The place reminds me of Northern Nevada where I grew up, but instead of being at an altitude of 5,000 feet, it's at an incredible 15,000 feet... and the mountains go up from there!
+The Indians that work there at the mines and salt flats chew big gobs of the leaves, along with a strange mix of ashes somehow molded together with eggs to look like small ashtrays made of pumice.
+They cram the leaves in, and take a small bite of the "ashtray" to go along with it, to help cut the power of the leaves.
+The green coca leaves are sold in large bags everywhere for a few pesos, and we made tea out of them to prevent altitude sickness.
+I also drank some of it before we went to a milonga nearby in Salta, and it will positively get you up dancin'.
+This was the strangest and funniest milonga I've ever been to, and it was so much fun we stayed over to hit it again the next Saturday night.
+I had a bag of the leaves left over when we flew back to the U.S., and I almost stuck them in my suitcase, until I came to my senses and gave them away.
 
-Alejandra and I have been renting practice rooms, as well as dancing out. You can get them for about 5 pesos an hour, which is less than two dollars. They usually have nice wooden floors, mirrors, and a CD player for your music. Sometimes we just relax and have a private milonga, really enjoying the music, but my obsessive side also comes out, so we often end up working a lot on posture, equilibrium, and walking. For me tango walking is an almost impossibly difficult endeavor, and sometimes I work on it to the point where Alejandra gets tired and needs a break. She says she has danced for years with the best in BsAs, so sometimes she gets a little tired of a gringo telling her she doesn't know how to walk. But she does admit I have changed her style, and she thinks it is a better and more musical way to move -- although a more difficult one. Our recent practicing prompted me to write a report on what I have learned about equilibrium and walking from all of my filming in the clubs, and watching tapes of the old time dancers, but after reading it through I'm not sure it's appropriate for the list.
+Alejandra and I have been renting practice rooms, as well as dancing out.
+You can get them for about 5 pesos an hour, which is less than two dollars.
+They usually have nice wooden floors, mirrors, and a CD player for your music.
+Sometimes we just relax and have a private milonga, really enjoying the music, but my obsessive side also comes out, so we often end up working a lot on posture, equilibrium, and walking.
+For me tango walking is an almost impossibly difficult endeavor, and sometimes I work on it to the point where Alejandra gets tired and needs a break.
+She says she has danced for years with the best in BsAs, so sometimes she gets a little tired of a gringo telling her she doesn't know how to walk.
+But she does admit I have changed her style, and she thinks it is a better and more musical way to move -- although a more difficult one.
+Our recent practicing prompted me to write a report on what I have learned about equilibrium and walking from all of my filming in the clubs, and watching tapes of the old time dancers, but after reading it through I'm not sure it's appropriate for the list.
 
-There is always a lot of talk and interest by new people in tango about learning more steps. I'm very reluctant to pile on new steps, but we found something interesting in our practices. Without intentionally adding anything, we are doing new "steps" anyway. That is, we are stepping in new directions, to new cadences that we are apparently just absorbing from our time in all of the different clubs. One of the nice things about dancing down here is that while there are all levels of dancing, almost everyone stays in the _compás_, and everyone moves in a way that supports your own feel of the music. They step on the beat, and then let the heels brush with a 'tic', exactly on the half-beat. Step-_tic_\-Step-_tic_\-Step-_tic_. Everyone in the _compás._ There are rarely any couples on the floor dancing jarringly out of tune.
+There is always a lot of talk and interest by new people in tango about learning more steps.
+I'm very reluctant to pile on new steps, but we found something interesting in our practices.
+Without intentionally adding anything, we are doing new "steps" anyway.
+That is, we are stepping in new directions, to new cadences that we are apparently just absorbing from our time in all of the different clubs.
+One of the nice things about dancing down here is that while there are all levels of dancing, almost everyone stays in the _compás_, and everyone moves in a way that supports your own feel of the music.
+They step on the beat, and then let the heels brush with a 'tic', exactly on the half-beat.
+Step-_tic_\-Step-_tic_\-Step-_tic_. Everyone in the _compás._
+There are rarely any couples on the floor dancing jarringly out of tune.
 
-One of the difficult things at this stage of tango for me is to avoid falling into habits of repeating patterns, such as sometimes doing the same thing after a _giro_, or taking the same side step at a certain time. All of the different clubs and music seem to have rearranged and added things to our dancing. Even our _giros_ are breaking apart. Sometimes we start a _giro_, block it, hesitate, back out, and start again. It's new and interesting... and for me it feels very musical. Start to wind up, unwind, and go again. It takes a good connection to do it, but we both feel like we are moving well together, and finding new cadences. Very comfortable. We seem to be feeling the music at a better level, and really just having a great time. It's very nice, like a gift that came without classes or without consciously working. We've both been in tango for quite awhile, but we're both enjoying it more than ever!
+One of the difficult things at this stage of tango for me is to avoid falling into habits of repeating patterns, such as sometimes doing the same thing after a _giro_, or taking the same side step at a certain time.
+All of the different clubs and music seem to have rearranged and added things to our dancing.
+Even our _giros_ are breaking apart.
+Sometimes we start a _giro_, block it, hesitate, back out, and start again.
+It's new and interesting ... and for me it feels very musical. Start to wind up, unwind, and go again.
+It takes a good connection to do it, but we both feel like we are moving well together, and finding new cadences.
+Very comfortable. We seem to be feeling the music at a better level, and really just having a great time.
+It's very nice, like a gift that came without classes or without consciously working.
+We've both been in tango for quite awhile, but we're both enjoying it more than ever!
 
 ## A Bad Boy
 
-I like to watch him work. He slowly takes his turn around the ornate room, and as he dances by with the young girl from Brazil pressed close against his chest he gives us an impish grin. He looks like a happy child skipping school. I don't really know him, but I'm sure that he worked hard somewhere for 50 years, and now it's time for him to play. This slight rounding man, who I am fairly certain has not been fighting off women for most of his life, has, at the unlikely age of 75, become a ladies man. And a good one at that. He is always immaculately dressed, with a bottle of champagne chilling on the table, and every lady in the place knows she is invited to stop by for a complimentary glass. Beginning ladies from all countries are always welcome to take a tango lesson, and the rules of the milonga are always bent early in the afternoon to accommodate his gentle instruction on the un-crowded floor. His lessons seem a little heavy on the _ganchos_, and especially the deep _sacadas_, but the ladies never seem to mind. They get a badly needed tango class, and a glass of champagne, and he gets to have the time of his life. What could be better? The dance always ends with a nice compliment, and a kiss. A gentle man, and a gentleman. I am charmed. I have seen my future and it is not on the golf course.
+I like to watch him work.
+He slowly takes his turn around the ornate room, and as he dances by with the young girl from Brazil pressed close against his chest he gives us an impish grin.
+He looks like a happy child skipping school.
+I don't really know him, but I'm sure that he worked hard somewhere for 50 years, and now it's time for him to play.
+This slight rounding man, who I am fairly certain has not been fighting off women for most of his life, has, at the unlikely age of 75, become a ladies man. And a good one at that.
+He is always immaculately dressed, with a bottle of champagne chilling on the table, and every lady in the place knows she is invited to stop by for a complimentary glass.
+Beginning ladies from all countries are always welcome to take a tango lesson, and the rules of the milonga are always bent early in the afternoon to accommodate his gentle instruction on the un-crowded floor.
+His lessons seem a little heavy on the _ganchos_, and especially the deep _sacadas_, but the ladies never seem to mind.
+They get a badly needed tango class, and a glass of champagne, and he gets to have the time of his life. What could be better?
+The dance always ends with a nice compliment, and a kiss.
+A gentle man, and a gentleman. I am charmed.
+I have seen my future and it is not on the golf course.
 
 ## Mario Orlando
 
 > _"Ya' load sixteen tons and whatta' ya' get?  Another day older and deeper in debt!"_  -- Tennessee Ernie Ford
 
-**August 3, 2003:** Our cigarette smoke avoidance program involves a strategy of going very early to the milongas, and then leaving about half way through, when the air starts to get thick. It works well, and it gives us a different perspective on the whole scene, like going early to watch the circus set up. None of this "arrive fashionably late and kiss your way around the room" stuff for us. We are out there dancing while the janitor is still sweeping the floors and putting toilet paper in the bathrooms. We get to spend some quality time with the DJs and the organizers as well, because they are around and not very busy. We keep seeing Mario Orlando everywhere. He must be the busiest DJ in town because we see him at _Nino Bien_ and Sunderland at night, and also at _El Arranque_, and Diego's milonga in _La Ideal_ in the afternoons. And he may be at others. He's a good guy, and we've spent time talking to him this year before people arrive. He has a new clean look, with no goatee or ponytail, and he's lost weight. No more Star Trek geek- he looks good. The other day he got out and danced with us with a young lady friend of his before the show got going. His taste in music is not exactly like mine, but he does a good job. I noticed he uses _Tie a Yellow Ribbon_ for his _cortina_ at Sunderland , and he's using Tennessee Ernie Ford's _Sixteen Tons_ at _La Ideal_. It's been about 25 years since I heard that one: "When ya' see me comin' better step aside! A lotta' men didn't and a lotta' men died!" It borders on the surrealistic watching dignified _Porteños_ in coats and ties bopping their way back to the tables to this music in _La Ideal_. _Desde el Alma_ followed immediately by _Sixteen Tons_.
+**August 3, 2003:** Our cigarette smoke avoidance program involves a strategy of going very early to the milongas, and then leaving about half way through, when the air starts to get thick.
+It works well, and it gives us a different perspective on the whole scene, like going early to watch the circus set up.
+None of this "arrive fashionably late and kiss your way around the room" stuff for us.
+We are out there dancing while the janitor is still sweeping the floors and putting toilet paper in the bathrooms.
+We get to spend some quality time with the DJs and the organizers as well, because they are around and not very busy.
+We keep seeing Mario Orlando everywhere.
+He must be the busiest DJ in town because we see him at _Nino Bien_ and Sunderland at night, and also at _El Arranque_, and Diego's milonga in _La Ideal_ in the afternoons.
+And he may be at others. He's a good guy, and we've spent time talking to him this year before people arrive.
+He has a new clean look, with no goatee or ponytail, and he's lost weight.
+No more Star Trek geek -- he looks good.
+The other day he got out and danced with us with a young lady friend of his before the show got going.
+His taste in music is not exactly like mine, but he does a good job.
+I noticed he uses _Tie a Yellow Ribbon_ for his _cortina_ at Sunderland , and he's using Tennessee Ernie Ford's _Sixteen Tons_ at _La Ideal_.
+It's been about 25 years since I heard that one:
+"When ya' see me comin' better step aside!
+A lotta' men didn't and a lotta' men died!"
+It borders on the surrealistic watching dignified _Porteños_ in coats and ties bopping their way back to the tables to this music in _La Ideal_.
+_Desde el Alma_ followed immediately by _Sixteen Tons_.
 
-Orlando is very popular because he plays what people like, and that's his job. Musical taste is very personal, and while Alejandra loves Daniel at _Celia's_, my favorite is Natucci at _El Beso_. His _Monton de Tango_ milonga is very popular with all the heavy hitter milongueros, but in the past people have sometimes had trouble understanding his music. He may be an example of being too smart to be a DJ. He told me he has identified over 700 danceable tangos, and his project is to find, classify, and play even more of them for the public. It doesn't seem to me like they are all good for dancing, but he says they are, and to prove it he sometimes sticks them on at _El Beso_ to see what will happen -- and usually what happens is that he gets complaints. But he has an ear and a way with cadences that really does allow him to dance to them. I have filmed him doing it, and I have learned more about cadence from him than anyone else. Here's what he does: He stands perfectly still on the floor, and waits. He says it's like waiting for a streetcar. Then, when he picks up his rhythm, he grabs on and goes for a ride. Then, he hops off and waits again. I have filmed him doing it, and once you understand it, it is fascinating and beautiful ... but a lot of people think it's strange. Of course Natu couldn't care less what anyone thinks, and he hangs out with some very high level guys like Tete and Gerard, who understand and respect him. These guys often dance in series of 7, 9, 11, 13, and even more, quicks. This means hitting beats and half beats in a series. I had trouble understanding it for a long time, because it is usually buried within things that are linked together in complicated ways. But after Natu demonstrated it, and I filmed it, it began to make sense. Now I do it also, but I don't pretend to be in their league. I love to dance this way, though, with long quick runs when the music calls for it. It's this kind of dancing that caused my big crash at Sunderland (coming up). It opens up new worlds, and it will definitely get you noticed. The old dancers often ask about it, and even Michael Walker likes it and has asked a lot about it. It's very different from his style, but he has asked us several times to come and show it in his classes.
+Orlando is very popular because he plays what people like, and that's his job.
+Musical taste is very personal, and while Alejandra loves Daniel at _Celia's_, my favorite is Natucci at _El Beso_.
+His _Monton de Tango_ milonga is very popular with all the heavy hitter milongueros, but in the past people have sometimes had trouble understanding his music.
+He may be an example of being too smart to be a DJ.
+He told me he has identified over 700 danceable tangos, and his project is to find, classify, and play even more of them for the public.
+It doesn't seem to me like they are all good for dancing, but he says they are, and to prove it he sometimes sticks them on at _El Beso_ to see what will happen -- and usually what happens is that he gets complaints.
+But he has an ear and a way with cadences that really does allow him to dance to them.
+I have filmed him doing it, and I have learned more about cadence from him than anyone else.
+Here's what he does: He stands perfectly still on the floor, and waits.
+He says it's like waiting for a streetcar.
+Then, when he picks up his rhythm, he grabs on and goes for a ride.
+Then, he hops off and waits again.
+I have filmed him doing it, and once you understand it, it is fascinating and beautiful ... but a lot of people think it's strange.
+Of course Natu couldn't care less what anyone thinks, and he hangs out with some very high level guys like Tete and Gerard, who understand and respect him.
+These guys often dance in series of 7, 9, 11, 13, and even more, quicks.
+This means hitting beats and half beats in a series.
+I had trouble understanding it for a long time, because it is usually buried within things that are linked together in complicated ways.
+But after Natu demonstrated it, and I filmed it, it began to make sense.
+Now I do it also, but I don't pretend to be in their league.
+I love to dance this way, though, with long quick runs when the music calls for it.
+It's this kind of dancing that caused my big crash at Sunderland (coming up).
+It opens up new worlds, and it will definitely get you noticed.
+The old dancers often ask about it, and even Michael Walker likes it and has asked a lot about it.
+It's very different from his style, but he has asked us several times to come and show it in his classes.
 
 The Saturday night milonga at Sunderland is supposed to start at 10pm, but we arrived so early last night that the big basketball gymnasium was empty and cold.
 No one was there, although there was some music on the sound system.

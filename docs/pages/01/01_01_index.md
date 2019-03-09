@@ -11,7 +11,6 @@ has_children: true
 ---
 
 ## Introduction
-{: .no_toc .text-delta }
 
 > In November 2001 I flew down to Argentina for a five-week vacation.
 > The following stories were posted on several Internet groups during that trip.
@@ -79,8 +78,12 @@ Actually, I've never been to a place I like as much as BA.
 _Quiero Buenos Aires!_
 When I get time, I will write some more and tell why.
 
-![Obelisco, Buenos Aires]({{site.res}}/1_pics/image008.jpg)
-A photo of the Obelisco during tango's Golden Age.
+{% include pix.html
+src='1_pics/image008.jpg'
+alt='Obelisco, Buenos Aires'
+width='200' height='239' float='left'
+caption="A photo of the Obelisco during tango's Golden Age."
+%}
 
 **Tue Dec 11, 2001 7:05am** --
 I got a couple of emails asking for more reports from Buenos Aires (thanks Homer), so here are some notes I made on the flight down, and after the first day.
@@ -267,18 +270,14 @@ The music tugs you along, like a child with a wagon on a rope;
 the child pauses to play and then, giving his wagon a tug, moves again.
 The music tugs me around the floor ... and this older heavier woman is with me completely.
 She seems to know each step before I take it.
-The music is through me, into her.
-Absolutely simple.
+The music is through me, into her. Absolutely simple.
 Step, pause, a little weight change, swoop, a short step and a longer step.
 Maybe a quick, sharp milonguero step, or maybe a softer one.
 Pause, very still.
 Then slightly rocking, and a surge forward, moving among the struggling couples and the lurking instructors.
-Very, very simple.
-It was nothing.
-It was everything.
+Very, very simple. It was nothing. It was everything.
 Freed by the music.
-Then it ends, and again the two left hand squeezes, harder this time, and she says quietly to herself
-"_Lindo, lindo_", ... a comment that is not meant for me.
+Then it ends, and again the two left hand squeezes, harder this time, and she says quietly to herself "_Lindo, lindo_", ... a comment that is not meant for me.
 Maybe for a moment there is no economic collapse in this sad and beautiful country.
 For a moment the students aren't quite as annoying.
 She gives me a sidelong glance that says, okay, you got away with it this time.
@@ -296,5 +295,9 @@ They stopped all flights, and his last email says he is stuck somewhere far to t
 Maybe _Tierra del Fuego_.
 He may now have become the southern most African American on the American continent.
 
-![Antartida]({{site.res}}/1_pics/image003.jpg)
 
+{% include pix.html
+src='1_pics/image003.jpg'
+alt='Antartida'
+width='226' height='144'
+%}

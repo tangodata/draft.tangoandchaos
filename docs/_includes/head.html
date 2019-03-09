@@ -26,18 +26,19 @@
   {% endif %}
 
   <style>
-  .audiobox, .videobox, .sliderbox {
-    padding:5px 10px;
+  .figure-left {float: left; margin-right: 10px;}
+  .figure-right {float: right; margin-left: 10px;}
+  .audiobox, .videobox, .sliderbox, .imgbox {padding: 8px;}
+  .audiobox, .videobox, .sliderbox {width: 100%;}
+  .audiobox { background-color:#fce; }
+  .videobox { background-color:#ace; }
+  .sliderbox { background-color:#aec; }
+  .imgbox {
+    background-color: #F5F5ED;
+    border: thin silver solid;
+    text-align: center;
   }
-  .audiobox {
-    background-color:#fce;
-  }
-  .videobox {
-    background-color:#ace;
-  }
-  .sliderbox {
-    background-color:#aec;
-  }
+  .imgbox img { border:0;padding:0; }
   </style>
 
 </head>
