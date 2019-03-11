@@ -9,21 +9,45 @@ date: 2006-01-01
 
 ## Mixed Up
 
-It's crucial to understand that the job of tango performers is to entertain. Their only obligation is to amuse an audience that has no special interest in understanding the nature of tango. Everything else is secondary. This may seem obvious, but it's implications are far reaching -- because in the end, it means that successful performers, who represent tango all over the world, have no great motivation, or even obligation, to follow its traditions. They can dance any way they like, to whatever music they like, and they can move in any direction at any time. They can even ignore the music and the traditions of tango. They have no reason to follow them, or even understand them. This isn't criticism, it's simply a fact. Dancing tango isn't part of a performer's job.
+It's crucial to understand that the job of tango performers is to entertain.
+Their only obligation is to amuse an audience that has no special interest in understanding the nature of tango.
+Everything else is secondary.
+This may seem obvious, but it's implications are far reaching -- because in the end, it means that successful performers, who represent tango all over the world, have no great motivation, or even obligation, to follow its traditions.
+They can dance any way they like, to whatever music they like, and they can move in any direction at any time.
+They can even ignore the music and the traditions of tango.
+They have no reason to follow them, or even understand them.
+This isn't criticism, it's simply a fact.
+Dancing tango isn't part of a performer's job.
 
-In a way, performing and teaching are the same things. Most tango teachers perform, at least for their classes, and most performers teach. This means that almost every student's first exposure to tango is through teaching performers, and the inevitable result is that inappropriate show-tango is constantly trickling into milongas. Many of these teachers, especially the ones who travel, are good dancers -- but although what they show and teach is very pretty, most of it isn't tango. The word used in the milongas for this mix of tango and rehearsed decoration is _"academia"_. For many years academic tango was promoted simply as "tango", but today some of it is being marketed as a "style" of social tango. (The terms _Villa Urquiza_ and _Tango Salon_ seem to be the current popular labels.) Don't let them fool you! Whatever name they give it, academic tango is fine for a stage, practica, or dance studio. But it's not for a milonga.
+In a way, performing and teaching are the same things.
+Most tango teachers perform, at least for their classes, and most performers teach.
+This means that almost every student's first exposure to tango is through teaching performers, and the inevitable result is that inappropriate show-tango is constantly trickling into milongas.
+Many of these teachers, especially the ones who travel, are good dancers -- but although what they show and teach is very pretty, most of it isn't tango.
+The word used in the milongas for this mix of tango and rehearsed decoration is _"academia"_.
+For many years academic tango was promoted simply as "tango", but today some of it is being marketed as a "style" of social tango. (The terms _Villa Urquiza_ and _Tango Salon_ seem to be the current popular labels.) Don't let them fool you! Whatever name they give it, academic tango is fine for a stage, practica, or dance studio.
+But it's not for a milonga.
 
-While a performer is free to do whatever he or she wants, a milonguero is not. Anyone who goes to a milonga has a duty to understand tango -- and that means understanding the important differences between a performance, and real tango. A social dancer in the milongas (a milonguero) has three obligations:
+While a performer is free to do whatever he or she wants, a milonguero is not.
+Anyone who goes to a milonga has a duty to understand tango -- and that means understanding the important differences between a performance, and real tango.
+A social dancer in the milongas (a milonguero) has three obligations:
 
 ## Obligations of a Milonguero
 
-1. To faithfully express the music by trying to understand the message of each tango, and to express it as closely as possible by moving to the melody and cadence.
+1.
+To faithfully express the music by trying to understand the message of each tango, and to express it as closely as possible by moving to the melody and cadence.
 
-2. To navigate the floor efficiently by using the space available, and to dance without bothering other dancers in any way.
+2.
+To navigate the floor efficiently by using the space available, and to dance without bothering other dancers in any way.
 
-3. To respect tango by learning and following the body of tradition that has developed in the milongas over the years.
+3.
+To respect tango by learning and following the body of tradition that has developed in the milongas over the years.
 
-Of course, most performers don't ignore all of these elements. They pick and choose from a mix of tango-like things in order to create an interesting show or class. While the result isn't really tango, it is tango-_ish_, and it can be misleading for students who want to learn to dance in a milonga. So on this page we’ll review some of the videos from the previous pages. We’ll compare them, and we’ll try to grade them objectively to see which ones meet the standards of traditional social tango we listed above. I’m not sure how it will turn out, but our goal will be to separate the tango from the tango_ish_.
+Of course, most performers don't ignore all of these elements.
+They pick and choose from a mix of tango-like things in order to create an interesting show or class.
+While the result isn't really tango, it is tango-_ish_, and it can be misleading for students who want to learn to dance in a milonga.
+So on this page we'll review some of the videos from the previous pages.
+We'll compare them, and we'll try to grade them objectively to see which ones meet the standards of traditional social tango we listed above.
+I'm not sure how it will turn out, but our goal will be to separate the tango from the tango_ish_.
 
 ## _Fantasía_
 
@@ -50,10 +74,12 @@ Like Copes, Buglione moves to the melody -- but he also uses the _compás_.
 He both takes, and leads steps on the weak beats to share the music with Alej.
 
 The clue is in the "_tick-tocks_".
-Buglione uses the weak beats of the music to make little three-runs of quick steps. One way to identify them is by saying "_tick-tock-tick_", or "_strong-weak-strong_", or "_1-2-3_", whenever Buglione or Alej hit the three consecutive beats.
+Buglione uses the weak beats of the music to make little three-runs of quick steps.
+One way to identify them is by saying "_tick-tock-tick_", or "_strong-weak-strong_", or "_1-2-3_", whenever Buglione or Alej hit the three consecutive beats.
 At first, he brings in a lot of these three-run elements, and then when the music becomes more _picado_, you can count a run of seven consecutive steps.
 (There's a more detailed discussion on [page 20](/06/20_countcompas)).
-This rhythmic use of the _compás_ is characteristic of the tango of the milongueros. It not only allows them to express the soft melodies of the Golden Age tangos, but also their _staccato_ cadences.
+This rhythmic use of the _compás_ is characteristic of the tango of the milongueros.
+It not only allows them to express the soft melodies of the Golden Age tangos, but also their _staccato_ cadences.
 And it's a way of sharing the music with their partners.
 Rather than standing apart and doing the independent figures and embellishments of academic tango, milongueros share the melody with movements of the upper body, and the cadences by exchanging _corridas_ with their partner.
 This close link between the special music and special dancing of the milongas is part of the tradition of social tango.
@@ -65,7 +91,8 @@ They are separate people, dancing to independent choreographies.
 One way to think of it is that Buglione's job is to entertain Alej.
 If you listen to the _ticks_ on the soundtrack, it's kind of neat.
 It's like he's showing her how he hears the music by using her feet to play with the _compás_.
-So, this is an interesting comparison. We see two accomplished dancers from the two different worlds of tango dancing to the same piece of music in different ways.
+So, this is an interesting comparison.
+We see two accomplished dancers from the two different worlds of tango dancing to the same piece of music in different ways.
 The performers are sharing the melody with their audience, and the milongueros are sharing both the melody and the _compás_ with each other.
 
 Another part of a milonguero's duty is to try to faithfully express the sentiment of the music -- or at the very least, not make something up that isn't there.
@@ -87,7 +114,8 @@ They also know that the quirky interplay between the harsh bandoneons and the so
 So they use an "easy listening" arrangement that emphasizes strings and romance.
 As far as the second element, Navigation, there isn't any.
 They dance a racetrack pattern laid out for the camera.
-And as far as the following the third rule, the Traditions of Tango (connection, lead and follow, man's step technique v. woman's, using _corriditas_), I don't see any of that either.
+And as far as the following the third rule, the Traditions of Tango (connection, lead and follow, man's step technique v.
+woman's, using _corriditas_), I don't see any of that either.
 Out of 3 possible authenticity points, I would give half a point for moving well to the melody, zero for using the _compás_ creatively, zero for navigation, and zero for following the traditions of tango.
 Score: 0.5 points out of 3.
 
@@ -105,11 +133,12 @@ often extend their legs out in sweeps or kicks.
 
 These kicks and leg swings are annoying, but the real problem with academic tango comes from the planned nature of the dancing.
 Teachers and performers like to mix in figures that require partners to pause, separate, and dance independently.
-They do it because it's easy to teach, it's fun to learn, it allows more freedom of movement, and when it’s done by talented professionals, it’s a pleasure to watch.
+They do it because it's easy to teach, it's fun to learn, it allows more freedom of movement, and when it's done by talented professionals, it's a pleasure to watch.
 But I suspect they also do it because it panders to people's secret fantasies of stardom (the Argentines don't call it _tango fantasía_ for nothing).
 
 Real tango is a moving dance, in which the partners interpret the music as they maneuver around in traffic.
-The music and the surrounding dancers present new situations from moment to moment, so a close connection and instantaneous communication are essential. Milongueros often pause when the music and the situation call for it, but couples that stop to perform pre-planned figures cause huge problems.
+The music and the surrounding dancers present new situations from moment to moment, so a close connection and instantaneous communication are essential.
+Milongueros often pause when the music and the situation call for it, but couples that stop to perform pre-planned figures cause huge problems.
 Not only do they disrupt the movement of nearby dancers, but they also create a ripple effect that travels around the floor.
 One person pausing this way can affect a dozen other couples.
 That's why moving smoothly and embracing closely are fundamental traditions of tango.
@@ -130,7 +159,8 @@ the music -- which they couldn't do if he were blocking the way.
 ![](/6_pics/photos/p4.jpg)
 ![](/6_pics/photos/P2.jpg)
 ![](/6_pics/photos/p5.jpg)
-13 more seconds of milonga-blocking choreography. No matter how famous the teacher who
+13 more seconds of milonga-blocking choreography.
+No matter how famous the teacher who
 taught it to you, don't do it if you want to be welcome in the milongas. (See above.)
 
 Here's the Paiva video again, for those who want to review it:
@@ -149,7 +179,8 @@ Score: 1.5 points out of 3.
 
 The Pugliese video is more difficult.
 Esther and Pablo are from different generations -- and so is their dancing -- so we'll look at them separately.
-Esther's dancing is an example of the kind of tango that was common in the neighborhood milongas 50 years ago, and it still exists today in many of the barrio clubs. Like all tango, it's a product of its environment.
+Esther's dancing is an example of the kind of tango that was common in the neighborhood milongas 50 years ago, and it still exists today in many of the barrio clubs.
+Like all tango, it's a product of its environment.
 The neighborhoods of Buenos Aires are filled with places that are a combination of athletic club and social club.
 They usually have a small restaurant, and spaces for meetings, sports, and dancing.
 There is a tradition in the barrios called _Salida del Sabado_, which means dressing up and going out to the local club on Saturday night for dinner and dancing.
@@ -177,7 +208,8 @@ He looks like he was trained in other types of stage dancing, and he walks with 
 Because most Golden Age dance tangos are a mix of smooth melodies punctuated by Troilo's angry bandoneons, and Biaggi's "shatter the keyboard" fingers, milongueros use a combination of flowing movement and stiff-legged walking to express them.
 Pablo, however, absorbs everything with his knees.
 It looks cool ... but tango isn't cool.
-As Natu said, _"Tango no es academia. El tango es bajo y sucio_."
+As Natu said, _"Tango no es academia.
+El tango es bajo y sucio_."
 Tango is down and dirty.
 And as Natu's hero Troilo said, to create tango, you have to "_embarrarlo_" -- to throw some mud on it.
 I have to admit, dancing like you're riding a skateboard around the _pista_ looks nice... _pero es muy chato_.
@@ -185,7 +217,8 @@ The movement is flat.
 It's all done at the same speed and altitude.
 There's almost no up down, and no fast slow.
 
-One other thing. Pablo takes huge steps -- and step length in tango is directly related to speed.
+One other thing.
+Pablo takes huge steps -- and step length in tango is directly related to speed.
 Because a tango dancer must stay in the _compás_, you move faster by stepping _longer_, rather than by stepping _more._
 Show dancers, and people who enter _concursos,_ always take big steps because they grab the eye.
 But moving rapidly around other dancers is a selfish thing to do in a milonga.
@@ -193,12 +226,14 @@ On a selfishness scale, "Parking and Performing" gets a 10, rushing around betwe
 
 Ultimately, Pablo walks in the _compás_, but he doesn't really use it.
 Although neither Copes nor Paiva use the traditional step of a milonguero, they make great use of up and down movement.
-Notice how Paiva reaches out, and then rises up over his leg to follow the surge of the orchestra. But Pablo flows like water.
+Notice how Paiva reaches out, and then rises up over his leg to follow the surge of the orchestra.
+But Pablo flows like water.
 He absorbs so much natural movement, that the dancing seems detached from the _compás_ and the melody.
 It's pretty, but it's too cool for the music.
 It's good dancing, but it's not good _tango_ dancing.
 There's no _street_ in it.
-Musical expression: 0. Navigation: 0.5 (half point for leading a little, but too much high-velocity walking). Respecting traditions of tango: 0. (Leg throwing, choreography, and walking large.)
+Musical expression: 0.
+Navigation: 0.5 (half point for leading a little, but too much high-velocity walking). Respecting traditions of tango: 0. (Leg throwing, choreography, and walking large.)
 Score: 0.5 out of 3.
 
 ## _Pollo Loco_
@@ -211,11 +246,14 @@ So the Puglieses are above, next we'll put Tete's _Pollo Ricardo_, and then we'l
 
 Vintage Tete
 
-_¡Eso!_  Now we're getting somewhere. This is classic Tete.
+_¡Eso!_  Now we're getting somewhere.
+This is classic Tete.
 We've already discussed him a million times, but let's give him a quick score from our "Obligations" list.
 As far as musical expression, he certainly knows how to express the _compás_ with his feet, so he gets half a point for that.
 The other half of musical expression is based on moving to the melody and sentiment.
-Let's look at two things. Notice what happens right at the very beginning of the video. I'm not sure how to write this, so bear with me, but right at the beginning, the music does a sort of: _1,2,3,4,5 ..._ _swoop_\-_Tink!_
+Let's look at two things.
+Notice what happens right at the very beginning of the video.
+I'm not sure how to write this, so bear with me, but right at the beginning, the music does a sort of: _1,2,3,4,5 ..._ _swoop_\-_Tink!_
 Look closely at what Tete does.
 He uses the 5 counts to lead Sylvia in a _staccato_ inside _ocho_, and then on the "_swoop_" of the orchestra, he bends both legs to his right, like tension in a bow, and then releases them and does a little stomp on the _"Tink!"_ of the piano.
 Then later, he picks up on the jerky part of the music the Puglieses used, and starts walking to each side of Sylvia, and bringing his feet together in little stomps.
@@ -223,8 +261,10 @@ Then later, he picks up on the jerky part of the music the Puglieses used, and s
 I've never seen anyone in tango who feels and expresses the subtleties of the music like Tete.
 He walks around a milonga joking and talking to himself like he's on another planet.
 Then he grabs a partner, wanders onto the floor, shuffles around a little, and suddenly, he picks up on a bit of the music no one else even hears ... and does something so creative that you have to think for a second to believe it happened.
-Musical expression: 1.25 out of possible 1.0. Navigation: 1.0.
-Now for the tradition grade. Tete is a one of the world's great milongueros, but he's not a _traditional_ milonguero.
+Musical expression: 1.25 out of possible 1.0.
+Navigation: 1.0.
+Now for the tradition grade.
+Tete is a one of the world's great milongueros, but he's not a _traditional_ milonguero.
 He's great at navigating, but he runs the floor.
 Sometimes he picks up his feet, and sometimes he tries to do so much that he gets out of the _compás_.
 Also, he plays around a lot in the milongas.

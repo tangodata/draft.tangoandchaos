@@ -1,9 +1,10 @@
 title: Tango And Chaos
 description: About Argentine Tango
 keywords: "tango, argentina, dance, culture"
-url: "https://tangodata.github.io"
-baseurl: "/draft.tangoandchaos/"
-res: "https://tangodata.github.io/draft.tangoandchaos/res/"
+#url: "https://tangodata.github.io"
+#baseurl: "/draft.tangoandchaos/"
+url: "https://draft.tangoandchaos.org"
+baseurl: ""
 author:
   source: "Rick McGarrey"
   markdown: "Kace Ong"

@@ -10,39 +10,87 @@ date: 2005-04-04
 
 # Miguel Angel Zotto
 
-While Alejandra and I have commercial videos of most of the well-known tango performers (and we've also seen a lot of them in person) we've never had a great interest in watching tango performances. Usually in milongas if there is a performance, we just wait for it to end, so we can dance. While most of the milongueros and milongueras will tolerate some demonstrations and performances at milongas, and applaud politely for stars and young beginners as well, many of them also become impatient after a few minutes, and want to get back to the milonga. The organizers realize this, and in the best milongas, demonstrations of tango are rare -- and usually short.
+While Alejandra and I have commercial videos of most of the well-known tango performers (and we've also seen a lot of them in person) we've never had a great interest in watching tango performances.
+Usually in milongas if there is a performance, we just wait for it to end, so we can dance.
+While most of the milongueros and milongueras will tolerate some demonstrations and performances at milongas, and applaud politely for stars and young beginners as well, many of them also become impatient after a few minutes, and want to get back to the milonga.
+The organizers realize this, and in the best milongas, demonstrations of tango are rare -- and usually short.
 
-I had seen a few videos of Miguel Angel Zotto, and also seen him a couple of times in the milongas, but it never left a great impression. Although I had always heard what a great dancer he was, I had never actually seen it. Then last year on Argentine TV they showed a tribute to Virulazo. It was filmed about 15 years ago, and featured performances by the best stage dancers of that period in Buenos Aires. I thought they were entertaining, but I also felt that I could see milongueros every day in the milongas who dance with more emotion and creativity. But then Miguel Angel Zotto and Milena Plebs came on. I remember watching for a moment, jumping up, calling to Alejandra, running around the room trying to find a blank video tape to put in the recorder, and trying to study what they were doing, all at the same time. I never did get the thing recorded, but I can still picture how spectacular they were. They were heads and shoulders above everyone else, and I realized why they had such a great reputation. It was clear that they were the best.
+I had seen a few videos of Miguel Angel Zotto, and also seen him a couple of times in the milongas, but it never left a great impression.
+Although I had always heard what a great dancer he was, I had never actually seen it.
+Then last year on Argentine TV they showed a tribute to Virulazo.
+It was filmed about 15 years ago, and featured performances by the best stage dancers of that period in Buenos Aires.
+I thought they were entertaining, but I also felt that I could see milongueros every day in the milongas who dance with more emotion and creativity.
+But then Miguel Angel Zotto and Milena Plebs came on.
+I remember watching for a moment, jumping up, calling to Alejandra, running around the room trying to find a blank video tape to put in the recorder, and trying to study what they were doing, all at the same time.
+I never did get the thing recorded, but I can still picture how spectacular they were.
+They were heads and shoulders above everyone else, and I realized why they had such a great reputation.
+It was clear that they were the best.
 
-![Miguel Angel Zotto]({{site.res}}/2_pics/image023.jpg)
+{% include pix.html
+src='2_pics/image023.jpg'
+alt='Miguel Angel Zotto'
+width='202' height='191' float='left'
+%}
 
-So it came as quite a surprise when our friend Julie Taylor called last January and said that Miguel Zotto wanted to meet us. It turns out he had heard about our interest in capturing the milongueros on film, and wanted to discuss tango with us. I was a bit skeptical at first, thinking that maybe stage superstars might not be especially fun to hang out with -- but he turned out to be a great guy. We had dinner, and then lunch after that, and then he invited us to his house so he could make an _asado_ (Argentine barbeque) for us. It turns out Miguel is a very serious student of tango, and he has a great sense of humor as well. He loves the strange characters that inhabit the milongas, and he can talk about them forever. Our discussions with him were far ranging and fun. They covered everything from picking up women in the clubs, to organizing shows and the history of tango in the barrios. He was full of energy, and he didn’t hesitate to jump up in the crowded restaurant to demonstrate a movement, or illustrate something from a story. Unfortunately I didn’t record any of it on film or audio tape (next time I will!), but here is a brief summary of what we covered. It’s the best I can do with my limited memory and limited understanding of _castellano_ (You’d think that after living on the Mexican border for 30 years, and practically living in Buenos Aires for the last 5 that I would be more fluent in Spanish -- but I still struggle with the damn language).
+So it came as quite a surprise when our friend Julie Taylor called last January and said that Miguel Zotto wanted to meet us.
+It turns out he had heard about our interest in capturing the milongueros on film, and wanted to discuss tango with us.
+I was a bit skeptical at first, thinking that maybe stage superstars might not be especially fun to hang out with -- but he turned out to be a great guy.
+We had dinner, and then lunch after that, and then he invited us to his house so he could make an _asado_ (Argentine barbeque) for us.
+It turns out Miguel is a very serious student of tango, and he has a great sense of humor as well.
+He loves the strange characters that inhabit the milongas, and he can talk about them forever.
+Our discussions with him were far ranging and fun.
+They covered everything from picking up women in the clubs, to organizing shows and the history of tango in the barrios.
+He was full of energy, and he didn't hesitate to jump up in the crowded restaurant to demonstrate a movement, or illustrate something from a story.
+Unfortunately I didn't record any of it on film or audio tape (next time I will!), but here is a brief summary of what we covered.
+It's the best I can do with my limited memory and limited understanding of _castellano_ (You'd think that after living on the Mexican border for 30 years, and practically living in Buenos Aires for the last 5 that I would be more fluent in Spanish -- but I still struggle with the damn language).
 
-First, Miguel said that he thought our filming was important. He said he did the same thing to learn tango, and he loved the small digital camera I had. He laughed about his early filming with a huge camera that he had to lug around, and hold on his shoulder to film. He talked about the development of tango, and the great _patrons_ in each barrio that set the style of the tango for their neighborhoods. I won’t list them all here, but it was fascinating. I had seen some of them in the documentary film _Tango, Baile Nuestro_, and also in the one good dance scene with milongueros in the film _Tango Bar_, but the films never clearly identified them, or said anything about them. So he identified each one for me, and told me where they were from, and how they influenced him.
+First, Miguel said that he thought our filming was important.
+He said he did the same thing to learn tango, and he loved the small digital camera I had.
+He laughed about his early filming with a huge camera that he had to lug around, and hold on his shoulder to film.
+He talked about the development of tango, and the great _patrons_ in each barrio that set the style of the tango for their neighborhoods.
+I won't list them all here, but it was fascinating.
+I had seen some of them in the documentary film _Tango, Baile Nuestro_, and also in the one good dance scene with milongueros in the film _Tango Bar_, but the films never clearly identified them, or said anything about them.
+So he identified each one for me, and told me where they were from, and how they influenced him.
 
-He says he worked as a bricklayer with his father and brother when he was young, and that they would actually practice and dance tango together at the construction sites! (Talk about a culture gap -- a bunch of rough construction workers dancing tango together among the cement trucks and scaffolding of a construction site is almost beyond the ability of the non-Argentine mind to comprehend.) He talked about the first time he met the legendary Antonio Todaro (his main tango mentor). He said he was walking down the street in _Flores_, and Todaro had just opened his studio. He was hanging a banner from the balcony advertising his tango lessons, and looking up and down the street wondering if any students would ever show up -- and here came Miguel! We spent a lot of time discussing styles of tango -- what they are, where they came from, and if, in truth, they even exist at all. (I’m planning to post a page on this later, with pictures, so I won’t discuss it in detail here). Miguel said that if his style could be described at all, it would probably be the _Urquiza_ style, from the _Villa Urquiza_ barrio. This is the style of people like Julio Duplaa (Zotto admires his dancing), and _El Chino_. (It turns out I had already filmed them in the milongas, and you can see some photos of them dancing with Alej in the pictures section of this site).
+He says he worked as a bricklayer with his father and brother when he was young, and that they would actually practice and dance tango together at the construction sites! (Talk about a culture gap -- a bunch of rough construction workers dancing tango together among the cement trucks and scaffolding of a construction site is almost beyond the ability of the non-Argentine mind to comprehend.) He talked about the first time he met the legendary Antonio Todaro (his main tango mentor). He said he was walking down the street in _Flores_, and Todaro had just opened his studio.
+He was hanging a banner from the balcony advertising his tango lessons, and looking up and down the street wondering if any students would ever show up -- and here came Miguel! We spent a lot of time discussing styles of tango -- what they are, where they came from, and if, in truth, they even exist at all. (I'm planning to post a page on this later, with pictures, so I won't discuss it in detail here). Miguel said that if his style could be described at all, it would probably be the _Urquiza_ style, from the _Villa Urquiza_ barrio.
+This is the style of people like Julio Duplaa (Zotto admires his dancing), and _El Chino_. (It turns out I had already filmed them in the milongas, and you can see some photos of them dancing with Alej in the pictures section of this site).
 
-Tango is a surprisingly small world, and I remember Miguel’s brother Osvaldo in the first tango workshop I ever went to (in Santa Fe, New Mexico). I was struggling and discouraged. I was tied up in knots, and he kept taking extra class time to take me aside and work on my posture. Where else but tango can you find someone at the top that will take the time to work with a hopeless beginner? The first time I ever saw Miguel Angel was on my first trip to Buenos Aires. I had been at the milonga upstairs at _Club Español_, and Alejandra and I, and an old milonguero friend of ours decided to go downstairs to the restaurant for something to eat. It’s a beautiful place and very elegant. We got a table in the corner, and the place was full of big shots. Some government people had a long table, with the minister of transportation and his security people there, and on the other side of the room was a table with Miguel Angel Zotto sitting with some other fancy people. Alej and the old milonguero looked nice (he was in a suit), but I was a little scruffy, so I was keeping a low profile. The next thing I knew, Miguel got up and came across the room to our table! He introduced himself to Alej and me, and then spent several minutes standing, and chatting with our friend, very politely and respectfully, before returning to his table. This was at a time when he had a show going on, and there were billboards towering over _Avenida Corrientes_ and _Nueve de Julio_ that simply had a picture of him about 25 feet high and just the word “Zotto” displayed on them. I thought, wow, here is maybe the most famous guy in Buenos Aires, and he comes over to pay respects to a milonguero from _Bernal_ who takes the bus and doesn’t have 2 _pesos_ in his pocket to rub together.
+Tango is a surprisingly small world, and I remember Miguel's brother Osvaldo in the first tango workshop I ever went to (in Santa Fe, New Mexico). I was struggling and discouraged.
+I was tied up in knots, and he kept taking extra class time to take me aside and work on my posture.
+Where else but tango can you find someone at the top that will take the time to work with a hopeless beginner? The first time I ever saw Miguel Angel was on my first trip to Buenos Aires.
+I had been at the milonga upstairs at _Club Español_, and Alejandra and I, and an old milonguero friend of ours decided to go downstairs to the restaurant for something to eat.
+It's a beautiful place and very elegant.
+We got a table in the corner, and the place was full of big shots.
+Some government people had a long table, with the minister of transportation and his security people there, and on the other side of the room was a table with Miguel Angel Zotto sitting with some other fancy people.
+Alej and the old milonguero looked nice (he was in a suit), but I was a little scruffy, so I was keeping a low profile.
+The next thing I knew, Miguel got up and came across the room to our table! He introduced himself to Alej and me, and then spent several minutes standing, and chatting with our friend, very politely and respectfully, before returning to his table.
+This was at a time when he had a show going on, and there were billboards towering over _Avenida Corrientes_ and _Nueve de Julio_ that simply had a picture of him about 25 feet high and just the word "Zotto" displayed on them.
+I thought, wow, here is maybe the most famous guy in Buenos Aires, and he comes over to pay respects to a milonguero from _Bernal_ who takes the bus and doesn't have 2 _pesos_ in his pocket to rub together.
 
-The respect between Miguel Angel Zotto and the people of the milongas is mutual. Unlike many other stage performers (who they usually ignore), they love and respect him. He told me the thing he is most proud of is his commitment to maintaining tango traditions on the stage, and of his ability to keep the respect of the milongueros. He says he tries to minimize choreography, and that he always leads his partner when dancing on the stage. This ability to keep a foot in both worlds (stage and milonga) is very difficult, and Miguel may be the only one who can link the two.
+The respect between Miguel Angel Zotto and the people of the milongas is mutual.
+Unlike many other stage performers (who they usually ignore), they love and respect him.
+He told me the thing he is most proud of is his commitment to maintaining tango traditions on the stage, and of his ability to keep the respect of the milongueros.
+He says he tries to minimize choreography, and that he always leads his partner when dancing on the stage.
+This ability to keep a foot in both worlds (stage and milonga) is very difficult, and Miguel may be the only one who can link the two.
 
-At this point, I’d like to digress a little, and discuss creativity and the process of learning tango.
+At this point, I'd like to digress a little, and discuss creativity and the process of learning tango.
 I just read an interesting article in the New Yorker about the jazz saxophone player Sonny Rollins.
-It’s called “_The Colossus_” (by Stanley Crouch), and it talks about why Rollins may be the greatest of all time.
+It's called "_The Colossus_" (by Stanley Crouch), and it talks about why Rollins may be the greatest of all time.
 In the article, Rollins talks about how he absorbed the rich life of the clubs, and how it became part of his playing.
-Rollins mentions the violence and the “frailty of peace and calm ... the ambience of slow close dancing and whispered courtship” of the clubs.
-But more important, he says, was “ear training”. He intently studied all the great tenor players of the golden period, and he was somehow able to retain it all.
+Rollins mentions the violence and the "frailty of peace and calm ... the ambience of slow close dancing and whispered courtship" of the clubs.
+But more important, he says, was "ear training". He intently studied all the great tenor players of the golden period, and he was somehow able to retain it all.
 Unlike the other saxophone players, Rollins accessed everything that had happened to the tenor saxophone at a young age.
-“He was not just approaching the surface of the sound and technique, but the emotional depth and breadth.
+"He was not just approaching the surface of the sound and technique, but the emotional depth and breadth.
 What was most shocking about it is that all of these other musicians were older.
-But Rollins sounded more mature than any of the others.”
-The article continues: “Out of Rollins attentiveness to his forebears had come a heightened sensitivity to melody, harmony, rhythm, and timbre.
-The shading that gives a note its emotional texture.”
-It goes on to describe a sort of “schizophrenia- or multiphrenia, perhaps” -- the ability to carry several artistic personalities inside, and call on them at different times to create something new.
+But Rollins sounded more mature than any of the others."
+The article continues: "Out of Rollins attentiveness to his forebears had come a heightened sensitivity to melody, harmony, rhythm, and timbre.
+The shading that gives a note its emotional texture."
+It goes on to describe a sort of "schizophrenia- or multiphrenia, perhaps" -- the ability to carry several artistic personalities inside, and call on them at different times to create something new.
 The article says this is beyond the ability of most concert musicians, because they are reading music, or playing from memory, and are too constrained by training to go further.
-“This makes it veritably impossible for him even to encounter, much less master the kind of personal hearing knowledge from within his own being that Rollins has.”
+"This makes it veritably impossible for him even to encounter, much less master the kind of personal hearing knowledge from within his own being that Rollins has."
 
-It’s amazing how much this article about a jazz saxophone player relates to tango.
+It's amazing how much this article about a jazz saxophone player relates to tango.
 Miguel Angel has avoided the constraints of the stage dancer by intently studying the great milongueros of the past, and, essentially, accessing the emotional life of the barrio when he is on the stage.
 Even at my own humble level, I know exactly what they mean when they talk about Rollins having the artistic personalities of the other sax players inside of him.
 I have filmed and watched so many milongueros that they seem to be floating around inside my brain.
@@ -50,7 +98,8 @@ A sort of whirling circus from all the barrios of the city -- and with the right
 The emotion is mine, but without them, I could never express it.
 
 The last time we met, I asked Miguel Zotto if he felt that tango was being hurt by people giving classes who have little understanding about the basic techniques or traditions -- and I was impressed with his answer.
-He said, yes, there are a lot of people teaching the wrong things, and yes, there were people trying to change and invent new things without understanding tango in the first place -- but he didn’t think that it was a big problem. He told an interesting story.
+He said, yes, there are a lot of people teaching the wrong things, and yes, there were people trying to change and invent new things without understanding tango in the first place -- but he didn't think that it was a big problem.
+He told an interesting story.
 He recalled a panel discussion about art or dance or something like that.
 It had professors and artists, and it also included the tango singer Goyeneche.
 Although he is very famous, Goyeneche sat quietly while the panel discussed the need for art to grow, and how tango was stale, and needed to change.
@@ -58,10 +107,10 @@ The conversation was being dominated by academics, and especially by one young w
 Finally she asked Goyeneche what he thought.
 He said, well, what they said was true -- tango always needed to grow.
 But then he asked the woman how old she was.
-She said “I’m 25 years old”.
-He said gently, “Well, if you stay in tango and come to me when you are 40 or 50, we may have a different discussion.”
+She said "I'm 25 years old".
+He said gently, "Well, if you stay in tango and come to me when you are 40 or 50, we may have a different discussion."
 Miguel said the program continued, and the remark was sort of passed over ... but it is the one thing he remembers.
-He said despite the bad teaching and bad dancing, he’s not worried.
+He said despite the bad teaching and bad dancing, he's not worried.
 Most of those who stay, the serious ones who stick around for 15 or 20 years, will eventually find tango.
 Some never do, and others move on, but in time, enough of them will get there -- and the great tradition will continue.
 

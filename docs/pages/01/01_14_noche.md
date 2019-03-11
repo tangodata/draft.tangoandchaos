@@ -36,7 +36,7 @@ Then I filmed two little kids who came in to perform for the older generation, r
 {% include pix.html
 src='1_pics/image017.jpg'
 alt='Alej and El Chino'
-width='200' height='188' float='left'
+width='300' height='272' float='left'
 %}
 
 In an earlier report I said that it is by editing your writing that you give it meaning.

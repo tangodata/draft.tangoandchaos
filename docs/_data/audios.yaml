@@ -150,6 +150,9 @@ tristezastroilo:
   pre: tristezastroilo.xspf
   song: Tangos/TristezasTroilo.mp3
 
+muneca:
+  pre: muneca.xspf
+  song: Tangos/A La Gran Muneca.mp3
 tick1:
   pre: tick1
   song: Tick1.wav

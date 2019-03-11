@@ -1,6 +1,8 @@
 {% assign _pixsrc = include.src | split:'|' %}
 <div class="imgbox {% if include.float != nil %}figure-{{ include.float }}{% endif %}">
-
+  {% if include.title != nil %}
+  <div class='title'>{{ include.title | markdownify }}</div>
+  {% endif %}
   <div class='imggrp'>
   {% for _pix in _pixsrc %}{% assign _img = _pix | prepend:"/res/" | absolute_url
   %}<img src="{{ _img }}"
@@ -9,9 +11,7 @@
     {% if include.height != nil %}height='{{ include.height }}'{% endif %}
   >{% endfor %}
   </div>
-
   {% if include.caption != nil %}
-  <caption>{{ include.caption | markdownify }}</caption>
+  <div class='caption'>{{ include.caption | markdownify }}</div>
   {% endif %}
-
 </div>
